@@ -5,8 +5,8 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 
 
 1. Pytania z odpowiedziami
+   1. [Rozpoznanie nadciśnienia tętniczego](./odpowiedzi/1-rozpoznawanie-nadcisnienia-tetniczego.md)
 2. Pytania jeszcze bez odpowiedzi
-   1. Rozpoznanie nadciśnienia tętniczego
    2. Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego
    3. Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego
    4. Farmakoterapianadciśnieniatętniczegoupacjentazcukrzycą

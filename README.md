@@ -2,13 +2,13 @@
 
 ## Pytania z odpowiedziami
 
+### Rozpoznanie nadciśnienia tętniczego
+
+To be continued...
+
 
 
 ## Pytania jeszcze bez odpowiedzi
-
-### Rozpoznanie nadciśnienia tętniczego
-
-
 
 ### Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego
 
