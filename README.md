@@ -2,7 +2,7 @@
 
 ## Pytania z odpowiedziami
 
-### Rozpoznanie nadciśnienia tętniczego
+### 001 Rozpoznanie nadciśnienia tętniczego
 
 #### Rozpoznanie z pomiaru
 
@@ -67,417 +67,485 @@ Izolowane skurczowe =>140 i <90
 
 
 
+### 067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie
+
+**Definicja:** Stłuszczenie wątroby po wykluczeniu przyczyn: alkoholowej, leków i genetycznych. NAFL = NonAlcoholicFattyLiver, NASH=NonalcoholicStheatoticHepatitis?
+
+**Epidemiologia:** najczęstsza choroba wątroby w krajach rozwiniętych. W 90% dotyczy osób z BMI>=40. 
+
+**Patofizjologia:** insulinooporność. 
+
+**Obraz kliniczny:** Zwykle bezobjawowa, ew. zmęczenie. Wątroba jest powiększona. Choroba najczęściej przypadkowo wykrywana w USG. 
+
+**Przebieg:** U 80% chorych powolne włóknienie wątroby ale u 20% jest szybkie. Najczęstszą przyczyną śmierci u tych pacjentów są mimo wszystko choroby układu krążenia. 
+
+**Rozpoznanie:** Ponad 5% stłuszczonych hepatocytów w wycinku LUB 5,6% tłuszczu w MRI fazowym/protonowym.
+
+**Leczenie:** redukcja masy ciała, dieta DASH. W NASH dodatkowo witamina E i pioglitazon.
+
+
+
+## WIP
+
+### 002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego
+
+
+
+## 003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego
+
+
+
 ## Pytania jeszcze bez odpowiedzi
 
-### Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego
+### 004 Farmakoterapia nadciśnienia tętniczego u pacjenta z cukrzycą
 
 
 
-### Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego
+### 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
 
 
 
-### Farmakoterapianadciśnieniatętniczegoupacjentazcukrzycą
+### 006 Objawy kliniczne guza chromochłonnego
 
 
 
-### Zasady indywidualizacji terapii nadciśnienia tętniczego
+### 007 Prewencja pierwotna miażdżycy
 
 
 
-### Objawy kliniczne guza chromochłonnego
+### 008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej
 
 
 
-### Prewencjapierwotnamiażdżycy
+### 009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej
 
 
 
-### Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej
+### 010 Objawy zatoru tętnicy płucnej
 
 
 
-### Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej
+### 011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków
 
 
 
-### Objawy zatoru tętnicy płucnej
+### 012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem
 
 
 
-### Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków 12.Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem
+### 013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu
 
 
 
-### Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu 14.Diagnostyka różnicowa bólów w klatce piersiowej
+### 014 Diagnostyka różnicowa bólów w klatce piersiowej
 
 
 
-### Rozpoznanie niewydolności serca
+### 015 Rozpoznanie niewydolności serca
 
 
 
-### Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją
+### 016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją
 
 
 
-### Postępowanie w nagłym zatrzymaniu krążenia
+### 017 Postępowanie w nagłym zatrzymaniu krążenia
 
 
 
-### Objawy kliniczne stenozy aortalnej
+### 018 Objawy kliniczne stenozy aortalnej
 
 
 
-### Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
+### 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
 
 
 
-### Farmakoterapia stabilnej choroby wieńcowej
+### 020 Farmakoterapia stabilnej choroby wieńcowej
 
 
 
-### Uniwersalna definicja zawału serca
+### 021 Uniwersalna definicja zawału serca
 
 
 
-### Postępowanie w ostrych zespole wieńcowym
+### 022 Postępowanie w ostrych zespole wieńcowym
 
 
 
-### Powikłania zawału serca
+### 023 Powikłania zawału serca
 
 
 
-### Farmakoterapia po przebytym ostrym zespole wieńcowym
+### 024 Farmakoterapia po przebytym ostrym zespole wieńcowym
 
 
 
-### Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej
+### 025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory
 
 
 
-### Skale oceny ryzyka powikłań migotania przedsionków
+### 026 Skale oceny ryzyka powikłań migotania przedsionków
 
 
 
-### Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie 28.Objawy kardiomiopatii przerostowej
+### 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
 
 
 
-### Rozpoznanie zapalenia mięśnia sercowego
+### 028 Objawy kardiomiopatii przerostowej
 
 
 
-### Chromanie przestankowe - postępowanie zachowawcze
+### 029 Rozpoznanie zapalenia mięśnia sercowego
 
 
 
-### Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym 32.Obraz kliniczny, rozpoznawanie i leczenie sarkoidozy płuc
+### 030 Chromanie przestankowe - postępowanie zachowawcze
 
 
 
-### Leczenie ostrej niewydolności oddychania
+### 031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym
 
 
 
-### Wskazania do tlenoterapii i sposoby leczenia tlenem w warunkach szpitalnych 35.Przyczyny i sposób postępowania u chorego zgłaszającego duszność 36.Przyczyny i postępowanie u chorego zgłaszającego krwioplucie
+### 032 Obraz kliniczny, rozpoznawanie i leczenie sarkoidozy płuc
 
 
 
-### Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu
+### 033 Leczenie ostrej niewydolności oddychania
 
 
 
-### Sposób postępowania w przypadku stwierdzenia płynu w opłucnej 39.Obraz kliniczny i leczenie odmy opłucnowej
+### 034 Wskazania do tlenoterapii i sposoby leczenia tlenem w warunkach szpitalnych
 
 
 
-### Postępowanie w niedrobnokomórkowym raku płuca 41.Postępowanie w drobnokomórkowym raku płuca
+### 035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność
 
 
 
-### Leczenie astmy w stabilnym okresie
+### 036 Przyczyny i postępowanie u chorego zgłaszającego krwioplucie
 
 
 
-### Leczenie zaostrzeń astmy
+### 037 Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu
 
 
 
-### Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc 45.Leczenie stabilnej postaci POChP i zaostrzeń
+### 038 Sposób postępowania w przypadku stwierdzenia płynu w opłucnej
 
 
 
-### Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu
+### 039 Obraz kliniczny i leczenie odmy opłucnowej
 
 
 
-### Zasady interpretacji spirometrycznej próby rozkurczowej
+### 040 Postępowanie w niedrobnokomórkowym raku płuca
 
 
 
-### Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
+### 041 Postępowanie w drobnokomórkowym raku płuca
 
 
 
-### Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc 50.Powikłania zapalenia płuc
+### 042 Leczenie astmy w stabilnym okresie
 
 
 
-### Objawy i leczenie choroby refluksowej przełyku
+### 043 Leczenie zaostrzeń astmy
 
 
 
-### Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego 53. Wskazania i sposoby eradykacji H. pylori
+### 044 Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc
 
 
 
-### Diagnostyka różnicowa przewlekłych biegunek
+### 045 Leczenie stabilnej postaci POChP i zaostrzeń
 
 
 
-### Objawy zespołu jelita drażliwego
+### 046 Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu
 
 
 
-### Powikłania nieswoistych zapaleń jelit
+### 047 Zasady interpretacji spirometrycznej próby rozkurczowej
 
 
 
-### Diagnostyka nieswoistych zapaleń jelit
+### 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
 
 
 
-### Rozpoznanie ostrego niedokrwienia jelit
+### 049 Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc
 
 
 
-### Postępowanie w ostrej biegunce
+### 050 Powikłania zapalenia płuc
 
 
 
-### Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego
+### 051 Objawy i leczenie choroby refluksowej przełyku
 
 
 
-### Objawy niedrożności przewodu pokarmowego
+### 052 Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego
 
 
 
-### Dysfagia – przyczyny, postępowanie
+### 053 Wskazania i sposoby eradykacji H. pylori
 
 
 
-### Postępowanie z chorym z bólami brzucha
+### 054 Diagnostyka różnicowa przewlekłych biegunek
 
 
 
-### Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
+### 055 Objawy zespołu jelita drażliwego
 
 
 
-### Ubytek masy ciała - postępowanie
+### 056 Powikłania nieswoistych zapaleń jelit
 
 
 
-### Objawy ostrego zapalenia pęcherzyka żółciowego
+### 057 Diagnostyka nieswoistych zapaleń jelit
 
 
 
-### Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie
+### 058 Rozpoznanie ostrego niedokrwienia jelit
 
 
 
-### Powikłania marskości wątroby - postępowanie
+### 059 Postępowanie w ostrej biegunce
 
 
 
-### Postępowanie w wyrównanej marskości wątroby
+### 060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego
 
 
 
-### Wskazania do kolonoskopii
+### 061 Objawy niedrożności przewodu pokarmowego
 
 
 
-### Objawy prolaktynoma
+### 062 Dysfagia – przyczyny, postępowanie
 
 
 
-### Obraz kliniczny akromegalii
+### 063 Postępowanie z chorym z bólami brzucha
 
 
 
-### Przyczyny niedoczynności tarczycy
+### 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
 
 
 
-### Przyczyny i objawy nadczynności tarczycy
+### 065 Ubytek masy ciała - postępowanie
 
 
 
-### Rozpoznanie choroby Hashimoto
+### 066 Objawy ostrego zapalenia pęcherzyka żółciowego
 
 
 
-### Postępowanie przy stwierdzeniu guzka tarczycy
+### 068 Powikłania marskości wątroby - postępowanie
 
 
 
-### Objawy pierwotnej nadczynności przytarczyc
+### 069 Postępowanie w wyrównanej marskości wątroby
 
 
 
-### Przyczyny nieczynności kory nadnerczy
+### 070 Wskazania do kolonoskopii
 
 
 
-### Diagnostyka choroby i zespołu Cushinga
+### 071 Objawy prolaktynoma
 
 
 
-### Incydentaloma nadnerczy - postępowanie
+### 072 Obraz kliniczny akromegalii
 
 
 
-### Algorytm rozpoznawania cukrzycy
+### 073 Przyczyny niedoczynności tarczycy
 
 
 
-### Kryteria wyrównania cukrzycy
+### 074 Przyczyny i objawy nadczynności tarczycy
 
 
 
-### Ostre powikłania cukrzycy
+### 075 Rozpoznanie choroby Hashimoto
 
 
 
-### Przewlekłe powikłania cukrzycy typu 2
+### 076 Postępowanie przy stwierdzeniu guzka tarczycy
 
 
 
-### Algorytm farmakoterapii cukrzycy typu 2
+### 077 Objawy pierwotnej nadczynności przytarczyc
 
 
 
-### Przyczyny ostrego uszkodzenia nerek
+### 078 Przyczyny nieczynności kory nadnerczy
 
 
 
-### Rozpoznanie przewlekłej choroby nerek
+### 079 Diagnostyka choroby i zespołu Cushinga
 
 
 
-### Leczenie przewlekłej choroby nerek- zasady ogólne
+### 080 Incydentaloma nadnerczy - postępowanie
 
 
 
-### Wskazania do leczenia nerkozastępczego
+### 081 Algorytm rozpoznawania cukrzycy
 
 
 
-### Objawy przewlekłych kłębuszkowych zapaleń nerek
+### 082 Kryteria wyrównania cukrzycy
 
 
 
-### Przyczyny wtórnych kłębuszkowych zapaleń nerek
+### 083 Ostre powikłania cukrzycy
 
 
 
-### Postępowanie w zakażeniu układu moczowego
+### 084 Przewlekłe powikłania cukrzycy typu 2
 
 
 
-### Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie 94. Diagnostyka różnicowa białkomoczu
+### 085 Algorytm farmakoterapii cukrzycy typu 2
 
 
 
-### Diagnostyka różnicowa krwinkomoczu
+### 086 Przyczyny ostrego uszkodzenia nerek
 
 
 
-### Wskazania i przeciwwskazania do biopsji nerki
+### 087 Rozpoznanie przewlekłej choroby nerek
 
 
 
-### Kamica nerkowa: diagnostyka i leczenie
+### 088 Leczenie przewlekłej choroby nerek- zasady ogólne
 
 
 
-### Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza 99. Objawy niedoboru witaminy B12 i B9
+### 089 Wskazania do leczenia nerkozastępczego
 
 
 
-### Objawy ostrej białaczki szpikowej
+### 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
 
 
 
-### Zespoły mielodysplastyczne - objawy
+### 091 Przyczyny wtórnych kłębuszkowych zapaleń nerek
 
 
 
-### Przyczyny małopłytkowości
+### 092 Postępowanie w zakażeniu układu moczowego
 
 
 
-### Postępowanie w przewlekłej białaczce limfocytowej
+### 093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie
 
 
 
-### Szpiczak mnogi – objawy, rozpoznawanie, postępowanie
+### 094 Diagnostyka różnicowa białkomoczu
 
 
 
-### Diagnostyka różnicowa powiększenia węzłów chłonnych
+### 095 Diagnostyka różnicowa krwinkomoczu
 
 
 
-### Nabyte skazy krwotoczne
+### 096 Wskazania i przeciwwskazania do biopsji nerki
 
 
 
-### Objawy trombofilii
+### 097 Kamica nerkowa: diagnostyka i leczenie
 
 
 
-### Rozpoznanie reumatoidalnego zapalenia stawów
+### 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
 
 
 
-### Algorytm terapeutyczny reumatoidalnego zapalenia stawów
+### 099 Objawy niedoboru witaminy B12 i B9
 
 
 
-### Rozpoznanie tocznia rumieniowatego układowego
+### 100 Objawy ostrej białaczki szpikowej
 
 
 
-### Narządowe objawy tocznia rumieniowatego układowego
+### 101 Zespoły mielodysplastyczne - objawy
 
 
 
-### Objawy zapaleń dużych naczyń
+### 102 Przyczyny małopłytkowości
 
 
 
-### Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
+### 103 Postępowanie w przewlekłej białaczce limfocytowej
 
 
 
-### Objawy napadu dny
+### 104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie
 
 
 
-### Czynniki ryzyka rozwoju osteoporozy
+### 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
 
 
 
-### Profilaktyka powikłań osteoporozy
+### 106 Nabyte skazy krwotoczne
 
 
 
-### Rak nerki – objawy, rozpoznanie, postępowanie
+### 107 Objawy trombofilii
+
+
+
+### 108 Rozpoznanie reumatoidalnego zapalenia stawów
+
+
+
+### 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
+
+
+
+### 110 Rozpoznanie tocznia rumieniowatego układowego
+
+
+
+### 111 Narządowe objawy tocznia rumieniowatego układowego
+
+
+
+### 112 Objawy zapaleń dużych naczyń
+
+
+
+### 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
+
+
+
+### 114 Objawy napadu dny
+
+
+
+### 115 Czynniki ryzyka rozwoju osteoporozy
+
+
+
+### 116 Profilaktyka powikłań osteoporozy
+
+
+
+### 117 Rak nerki – objawy, rozpoznanie, postępowanie
 
 
 
