@@ -4,9 +4,9 @@
 
 **Definicja:** nowotwór rdzenia nadnerczy
 
-**Epidemiologia: ** 40-60rż, m=k, zespoły: MEN2A, MEN2B, von Hippa-Lindaua (VHL) i NF1
+**Epidemiologia:** 40-60rż, m=k, zespoły: MEN2A, MEN2B, von Hippa-Lindaua (VHL) i NF1
 
-**5x90%**:
+**5x90%:**
 
 1. 90% jednostronnie
 2. 90% dorośli
@@ -14,7 +14,7 @@
 4. 90% w nadnerczach
 5. 90% sporadycznych
 
-**Objawy: **
+**Objawy:**
 
 - Napadowe nadmierne pobudzenie układu współczulnego
 - Napadowe NT
@@ -34,7 +34,7 @@
 3. Szczegółowe badanie: scyntygrafia z MIBG (gorące w PheO, przyzwojaku i nerwiaku płodowym) albo znakowaną somatostatyną (w 70% PheO będzie gorące)
 4. Nie wolno wykonywać biopsji. Przy podejrzeniu usunąć.
 
-**Leczenie: **
+**Leczenie:**
 
 1. 10-14 dni przygotowania: Najpierw zablokowanie rec. alfa (fenoksybenzamina, doksazosyna), potem zablokowanie rec. beta (beta-blokery)
 2. Usunięcie guza
