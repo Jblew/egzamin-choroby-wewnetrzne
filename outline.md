@@ -6,7 +6,8 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 
 1. Pytania z odpowiedziami
    1. [001 Rozpoznanie nadciśnienia tętniczego](./odpowiedzi/001-rozpoznawanie-nadcisnienia-tetniczego.md)
-   2. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
+   2. [006 Objawy kliniczne guza chromochłonnego](./odpowiedzi/006 Objawy kliniczne guza chromochłonnego.md)
+   3. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
 2. WIP
 
    2. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
@@ -14,7 +15,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 3. Pytania jeszcze bez odpowiedzi
    - 004 Farmakoterapia nadciśnienia tętniczego u pacjenta z cukrzycą
    - 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
-   - 006 Objawy kliniczne guza chromochłonnego
    - 007 Prewencja pierwotna miażdżycy
    - 008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej
    - 009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej
