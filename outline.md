@@ -7,8 +7,9 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 1. Pytania z odpowiedziami
    1. [001 Rozpoznanie nadciśnienia tętniczego](./odpowiedzi/001-rozpoznawanie-nadcisnienia-tetniczego.md)
    2. [006 Objawy kliniczne guza chromochłonnego](./odpowiedzi/006 Objawy kliniczne guza chromochłonnego.md)
-   3. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
-   4. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
+   3. [028 Objawy kardiomiopatii przerostowej](./odpowiedzi/028 Objawy kardiomiopatii przerostowej.md)
+   4. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
+   5. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
 2. WIP
 
    2. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
@@ -39,7 +40,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    - 025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory
    - 026 Skale oceny ryzyka powikłań migotania przedsionków
    - 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
-   - 028 Objawy kardiomiopatii przerostowej
    - 029 Rozpoznanie zapalenia mięśnia sercowego
    - 030 Chromanie przestankowe - postępowanie zachowawcze
    - 031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym
