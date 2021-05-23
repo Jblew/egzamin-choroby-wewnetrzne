@@ -8,6 +8,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    1. [001 Rozpoznanie nadciśnienia tętniczego](./odpowiedzi/001-rozpoznawanie-nadcisnienia-tetniczego.md)
    2. [006 Objawy kliniczne guza chromochłonnego](./odpowiedzi/006 Objawy kliniczne guza chromochłonnego.md)
    3. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
+   4. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
 2. WIP
 
    2. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
@@ -81,7 +82,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    - 068 Powikłania marskości wątroby - postępowanie
    - 069 Postępowanie w wyrównanej marskości wątroby
    - 070 Wskazania do kolonoskopii
-   - 071 Objawy prolaktynoma
    - 072 Obraz kliniczny akromegalii
    - 073 Przyczyny niedoczynności tarczycy
    - 074 Przyczyny i objawy nadczynności tarczycy
