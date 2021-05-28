@@ -1,5 +1,8 @@
-# egzamin-choroby-wewnetrzne
+# Egzamin choroby wewnętrzne
+
 Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chorób Wewnętrznych (Interny)
+
+
 
 ## Outline
 
@@ -7,10 +10,11 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 1. Pytania z odpowiedziami
    1. [001 Rozpoznanie nadciśnienia tętniczego](./odpowiedzi/001-rozpoznawanie-nadcisnienia-tetniczego.md)
    2. [006 Objawy kliniczne guza chromochłonnego](./odpowiedzi/006 Objawy kliniczne guza chromochłonnego.md)
-   3. [028 Objawy kardiomiopatii przerostowej](./odpowiedzi/028 Objawy kardiomiopatii przerostowej.md)
-   4. [029 Rozpoznanie zapalenia mięśnia sercowego](./odpowiedzi/029 Rozpoznanie zapalenia mięśnia sercowego.md)
-   5. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
-   6. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
+   3. [010 Objawy zatoru tętnicy płucnej](./odpowiedzi/010 Objawy zatoru tętnicy płucnej.md)
+   4. [028 Objawy kardiomiopatii przerostowej](./odpowiedzi/028 Objawy kardiomiopatii przerostowej.md)
+   5. [029 Rozpoznanie zapalenia mięśnia sercowego](./odpowiedzi/029 Rozpoznanie zapalenia mięśnia sercowego.md)
+   6. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
+   7. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
 2. WIP
 
    2. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
@@ -21,15 +25,14 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    3. 007 Prewencja pierwotna miażdżycy
    4. 008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej
    5. 009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej
-   6. 010 Objawy zatoru tętnicy płucnej
    7. 011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków
    8. 012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem
-     przedsionków
+       przedsionków
    9. 013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu
    10. 014 Diagnostyka różnicowa bólów w klatce piersiowej
    11. 015 Rozpoznanie niewydolności serca
    12. 016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją
-      wyrzutową lewej komory
+         wyrzutową lewej komory
    13. 017 Postępowanie w nagłym zatrzymaniu krążenia
    14. 018 Objawy kliniczne stenozy aortalnej
    15. 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
@@ -75,7 +78,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    55. 060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego
    56. 061 Objawy niedrożności przewodu pokarmowego
    57. 062 Dysfagia – przyczyny, postępowanie
-
+   
    58. 063 Postępowanie z chorym z bólami brzucha
    59. 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
    60. 065 Ubytek masy ciała - postępowanie
