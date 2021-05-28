@@ -13,8 +13,9 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    3. [010 Objawy zatoru tętnicy płucnej](./odpowiedzi/010 Objawy zatoru tętnicy płucnej.md)
    4. [028 Objawy kardiomiopatii przerostowej](./odpowiedzi/028 Objawy kardiomiopatii przerostowej.md)
    5. [029 Rozpoznanie zapalenia mięśnia sercowego](./odpowiedzi/029 Rozpoznanie zapalenia mięśnia sercowego.md)
-   6. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
-   7. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
+   6. [043 Leczenie zaostrzeń astmy](./odpowiedzi/043 Leczenie zaostrzeń astmy.md)
+   7. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
+   8. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
 2. WIP
 
    2. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
@@ -58,7 +59,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    35. 040 Postępowanie w niedrobnokomórkowym raku płuca
    36. 041 Postępowanie w drobnokomórkowym raku płuca
    37. 042 Leczenie astmy w stabilnym okresie
-   38. 043 Leczenie zaostrzeń astmy
    39. 044 Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc
    40. 045 Leczenie stabilnej postaci POChP i zaostrzeń
    41. 046 Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu
