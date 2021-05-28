@@ -16,6 +16,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    6. [043 Leczenie zaostrzeń astmy](./odpowiedzi/043 Leczenie zaostrzeń astmy.md)
    7. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
    8. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
+   9. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
 2. WIP
 
    2. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
