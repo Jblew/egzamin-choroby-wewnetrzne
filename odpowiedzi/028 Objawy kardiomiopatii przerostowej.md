@@ -25,13 +25,15 @@
    3. Nie wytłumaczalna przez zwiększenie obciążenia komory
 2. Należy wykonać ECHO serca u krewnych chorego z rozpoznaniem kardiomiopatii rozkurczowej
 
-**Leczenie: **
+**Leczenie:**
 
 1. U bezobjawowych pacjentów można poprzestać na obserwacji.
 2. Unikanie sportu
 3. Wszczepienie ICD
 4. Farmakoterapia: betablokery, CCA dihydropirydynowe (werapamil)
 5. Jeśli RBBB to ścieńczanie przegrody za pomocą alkoholowej ablacji. 
+
+
 
 ## Brudnopis
 
