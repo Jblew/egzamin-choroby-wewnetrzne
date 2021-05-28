@@ -52,5 +52,4 @@
 
 ## Brudnopis
 
-
-
+Tpisania=11min

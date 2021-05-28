@@ -16,11 +16,12 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    6. [043 Leczenie zaostrzeń astmy](./odpowiedzi/043 Leczenie zaostrzeń astmy.md)
    7. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
    8. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
-   9. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
+   9. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
+   10. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
 2. WIP
 
    2. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
-3. [003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego](./odpowiedzi/003-wskazania-do-diagnostyki-wtornych-postaci-nt.md)
+   3. [003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego](./odpowiedzi/003-wskazania-do-diagnostyki-wtornych-postaci-nt.md)
 3. Pytania jeszcze bez odpowiedzi
    1. 004 Farmakoterapia nadciśnienia tętniczego u pacjenta z cukrzycą
    2. 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
@@ -46,7 +47,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    21. 025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory
    22. 026 Skale oceny ryzyka powikłań migotania przedsionków
    23. 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
-   24. 029 Rozpoznanie zapalenia mięśnia sercowego
    25. 030 Chromanie przestankowe - postępowanie zachowawcze
    26. 031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym
    27. 032 Obraz kliniczny, rozpoznawanie i leczenie sarkoidozy płuc
@@ -118,7 +118,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    93. 100 Objawy ostrej białaczki szpikowej
    94. 101 Zespoły mielodysplastyczne - objawy
    95. 102 Przyczyny małopłytkowości
-   96. 103 Postępowanie w przewlekłej białaczce limfocytowej
    97. 104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie
    98. 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
    99. 106 Nabyte skazy krwotoczne
@@ -129,7 +128,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
    104. 111 Narządowe objawy tocznia rumieniowatego układowego
    105. 112 Objawy zapaleń dużych naczyń
    106. 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
-   107. 114 Objawy napadu dny
    108. 115 Czynniki ryzyka rozwoju osteoporozy
    109. 116 Profilaktyka powikłań osteoporozy
    110. 117 Rak nerki – objawy, rozpoznanie, postępowanie
