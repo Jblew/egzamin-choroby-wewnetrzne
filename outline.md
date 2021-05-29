@@ -22,11 +22,12 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 14. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101 Zespoły mielodysplastyczne - objawy.md)
 15. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
 16. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie.md)
-17. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
-18. WIP
+17. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108 Rozpoznanie reumatoidalnego zapalenia stawów.md)
+18. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
+19. WIP
           1. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
           2. [003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego](./odpowiedzi/003-wskazania-do-diagnostyki-wtornych-postaci-nt.md)
-19. Pytania jeszcze bez odpowiedzi
+20. Pytania jeszcze bez odpowiedzi
           1. 004 Farmakoterapia nadciśnienia tętniczego u pacjenta z cukrzycą
           2. 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
           3. 007 Prewencja pierwotna miażdżycy
@@ -119,12 +120,11 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           87. 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
           88. 106 Nabyte skazy krwotoczne
           89. 107 Objawy trombofilii
-          90. 108 Rozpoznanie reumatoidalnego zapalenia stawów
-          91. 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
-          92. 110 Rozpoznanie tocznia rumieniowatego układowego
-          93. 111 Narządowe objawy tocznia rumieniowatego układowego
-          94. 112 Objawy zapaleń dużych naczyń
-          95. 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
-          96. 115 Czynniki ryzyka rozwoju osteoporozy
-          97. 116 Profilaktyka powikłań osteoporozy
-          98. 117 Rak nerki – objawy, rozpoznanie, postępowanie
+          90. 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
+          91. 110 Rozpoznanie tocznia rumieniowatego układowego
+          92. 111 Narządowe objawy tocznia rumieniowatego układowego
+          93. 112 Objawy zapaleń dużych naczyń
+          94. 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
+          95. 115 Czynniki ryzyka rozwoju osteoporozy
+          96. 116 Profilaktyka powikłań osteoporozy
+          97. 117 Rak nerki – objawy, rozpoznanie, postępowanie
