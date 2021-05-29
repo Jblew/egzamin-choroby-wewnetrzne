@@ -15,15 +15,16 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 7. [043 Leczenie zaostrzeń astmy](./odpowiedzi/043 Leczenie zaostrzeń astmy.md)
 8. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
 9. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
-10. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100 Objawy ostrej białaczki szpikowej.md)
-11. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101 Zespoły mielodysplastyczne - objawy.md)
-12. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
-13. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie.md)
-14. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
-15. WIP
+10. [072 Obraz kliniczny akromegalii](./odpowiedzi/072 Obraz kliniczny akromegalii.md)
+11. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100 Objawy ostrej białaczki szpikowej.md)
+12. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101 Zespoły mielodysplastyczne - objawy.md)
+13. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
+14. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie.md)
+15. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
+16. WIP
           1. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
           2. [003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego](./odpowiedzi/003-wskazania-do-diagnostyki-wtornych-postaci-nt.md)
-16. Pytania jeszcze bez odpowiedzi
+17. Pytania jeszcze bez odpowiedzi
           1. 004 Farmakoterapia nadciśnienia tętniczego u pacjenta z cukrzycą
           2. 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
           3. 007 Prewencja pierwotna miażdżycy
@@ -87,44 +88,43 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           58. 068 Powikłania marskości wątroby - postępowanie
           59. 069 Postępowanie w wyrównanej marskości wątroby
           60. 070 Wskazania do kolonoskopii
-          61. 072 Obraz kliniczny akromegalii
-          62. 073 Przyczyny niedoczynności tarczycy
-          63. 074 Przyczyny i objawy nadczynności tarczycy
-          64. 075 Rozpoznanie choroby Hashimoto
-          65. 076 Postępowanie przy stwierdzeniu guzka tarczycy
-          66. 077 Objawy pierwotnej nadczynności przytarczyc
-          67. 078 Przyczyny nieczynności kory nadnerczy
-          68. 079 Diagnostyka choroby i zespołu Cushinga
-          69. 080 Incydentaloma nadnerczy - postępowanie
-          70. 081 Algorytm rozpoznawania cukrzycy
-          71. 082 Kryteria wyrównania cukrzycy
-          72. 083 Ostre powikłania cukrzycy
-          73. 084 Przewlekłe powikłania cukrzycy typu 2
-          74. 085 Algorytm farmakoterapii cukrzycy typu 2
-          75. 086 Przyczyny ostrego uszkodzenia nerek
-          76. 087 Rozpoznanie przewlekłej choroby nerek
-          77. 088 Leczenie przewlekłej choroby nerek- zasady ogólne
-          78. 089 Wskazania do leczenia nerkozastępczego
-          79. 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
-          80. 091 Przyczyny wtórnych kłębuszkowych zapaleń nerek
-          81. 092 Postępowanie w zakażeniu układu moczowego
-          82. 093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie
-          83. 094 Diagnostyka różnicowa białkomoczu
-          84. 095 Diagnostyka różnicowa krwinkomoczu
-          85. 096 Wskazania i przeciwwskazania do biopsji nerki
-          86. 097 Kamica nerkowa: diagnostyka i leczenie
-          87. 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
-          88. 099 Objawy niedoboru witaminy B12 i B9
-          89. 102 Przyczyny małopłytkowości
-          90. 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
-          91. 106 Nabyte skazy krwotoczne
-          92. 107 Objawy trombofilii
-          93. 108 Rozpoznanie reumatoidalnego zapalenia stawów
-          94. 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
-          95. 110 Rozpoznanie tocznia rumieniowatego układowego
-          96. 111 Narządowe objawy tocznia rumieniowatego układowego
-          97. 112 Objawy zapaleń dużych naczyń
-          98. 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
-          99. 115 Czynniki ryzyka rozwoju osteoporozy
-          100. 116 Profilaktyka powikłań osteoporozy
-          101. 117 Rak nerki – objawy, rozpoznanie, postępowanie
+          61. 073 Przyczyny niedoczynności tarczycy
+          62. 074 Przyczyny i objawy nadczynności tarczycy
+          63. 075 Rozpoznanie choroby Hashimoto
+          64. 076 Postępowanie przy stwierdzeniu guzka tarczycy
+          65. 077 Objawy pierwotnej nadczynności przytarczyc
+          66. 078 Przyczyny nieczynności kory nadnerczy
+          67. 079 Diagnostyka choroby i zespołu Cushinga
+          68. 080 Incydentaloma nadnerczy - postępowanie
+          69. 081 Algorytm rozpoznawania cukrzycy
+          70. 082 Kryteria wyrównania cukrzycy
+          71. 083 Ostre powikłania cukrzycy
+          72. 084 Przewlekłe powikłania cukrzycy typu 2
+          73. 085 Algorytm farmakoterapii cukrzycy typu 2
+          74. 086 Przyczyny ostrego uszkodzenia nerek
+          75. 087 Rozpoznanie przewlekłej choroby nerek
+          76. 088 Leczenie przewlekłej choroby nerek- zasady ogólne
+          77. 089 Wskazania do leczenia nerkozastępczego
+          78. 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
+          79. 091 Przyczyny wtórnych kłębuszkowych zapaleń nerek
+          80. 092 Postępowanie w zakażeniu układu moczowego
+          81. 093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie
+          82. 094 Diagnostyka różnicowa białkomoczu
+          83. 095 Diagnostyka różnicowa krwinkomoczu
+          84. 096 Wskazania i przeciwwskazania do biopsji nerki
+          85. 097 Kamica nerkowa: diagnostyka i leczenie
+          86. 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
+          87. 099 Objawy niedoboru witaminy B12 i B9
+          88. 102 Przyczyny małopłytkowości
+          89. 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
+          90. 106 Nabyte skazy krwotoczne
+          91. 107 Objawy trombofilii
+          92. 108 Rozpoznanie reumatoidalnego zapalenia stawów
+          93. 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
+          94. 110 Rozpoznanie tocznia rumieniowatego układowego
+          95. 111 Narządowe objawy tocznia rumieniowatego układowego
+          96. 112 Objawy zapaleń dużych naczyń
+          97. 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
+          98. 115 Czynniki ryzyka rozwoju osteoporozy
+          99. 116 Profilaktyka powikłań osteoporozy
+          100. 117 Rak nerki – objawy, rozpoznanie, postępowanie

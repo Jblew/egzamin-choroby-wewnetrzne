@@ -425,6 +425,50 @@ Izolowane skurczowe =>140 i <90
 
 &nbsp;
 
+## 072 Obraz kliniczny akromegalii
+
+**Definicja:** Zespół objawów spowodowanych nadmiernym wydzielaniem hormonu wzrostu po zakończeniu okresu wzrastania. 
+
+**Epidemiologia:** średni wiek w momencie rozpoznania = 40lat
+
+**Patofizjologia:** 
+
+- Najczęstsza przyczyna: makrogruczolak (>1cm) przysadki.
+- Insulinooporność, wzmożenie lipolizy, wzmożenie syntezy białek
+
+**Obraz kliniczny:** 
+
+- Charakterystyczne objawy:
+  - Duży język
+  - Powiększenie rąk i stóp
+  - Zmiana barwy głosu
+  - Bóle głowy
+  - Pogrubienie rysów twarzy
+  - Wzmożenie potliwości
+- Powikłania narządowe:
+  - NT
+  - OBPS
+  - Tyreomegalia
+  - HCM=kardiomiopatia przerostowa
+  - IGT
+  - z. cieśni nadgarstka i inne neuropatie spowodowane przerostem tkanek miękkich
+
+**Rozpoznanie:** 
+
+- IGF1>GGN
+- OGTT nie hamuje wydzielania GH
+- MR/TK gruczolak
+
+**Leczenie:** 
+
+- Resekcja klinowa — 1rzut
+- Oktreotyd — analog somatostatyny (też stosowany w rakach neuroendokrynnych)
+- Pegwisomant — antagonista rec. GH
+
+
+
+&nbsp;
+
 ## 100 Objawy ostrej białaczki szpikowej
 
 **Definicja:** Niekontrolowana proliferacja klonów komórkowych na wczesnym etapie hematopoezy. **AML** jest grupą ok 20 chorób.
@@ -1053,12 +1097,6 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 &nbsp;
 
 ### 070 Wskazania do kolonoskopii
-
-
-
-&nbsp;
-
-### 072 Obraz kliniczny akromegalii
 
 
 
