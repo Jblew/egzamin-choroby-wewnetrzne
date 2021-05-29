@@ -14,7 +14,7 @@ Jeśli 140-160/100-110 to po prostu rozpoznajemy
 
 
 
- 
+&nbsp;
 
 ### Rozpoznanie z wywiadu
 
@@ -24,7 +24,7 @@ HMOD=hypertension mediated organ damage.
 
 
 
- 
+&nbsp;
 
 ### Zasady pomiaru gabinetowego
 
@@ -49,7 +49,7 @@ Przy pierwszym pomiarze: wykonać próbę ortostatyczną — 1 i 3 min po pioniz
 
 
 
- 
+&nbsp;
 
 ### Potwierdzanie ABPM
 
@@ -59,7 +59,7 @@ Przy pierwszym pomiarze: wykonać próbę ortostatyczną — 1 i 3 min po pioniz
 
 
 
- 
+&nbsp;
 
 ### Stopniowanie
 
@@ -73,7 +73,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
- 
+&nbsp;
 
 ## 006 Objawy kliniczne guza chromochłonnego
 
@@ -117,7 +117,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
- 
+&nbsp;
 
 ## 010 Objawy zatoru tętnicy płucnej
 
@@ -167,7 +167,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
- 
+&nbsp;
 
 ## 028 Objawy kardiomiopatii przerostowej
 
@@ -204,7 +204,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
- 
+&nbsp;
 
 ## 029 Rozpoznanie zapalenia mięśnia sercowego
 
@@ -244,7 +244,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
- 
+&nbsp;
 
 ## 043 Leczenie zaostrzeń astmy
 
@@ -289,7 +289,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
- 
+&nbsp;
 
 ## 067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie
 
@@ -309,7 +309,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
- 
+&nbsp;
 
 ## 071 Objawy prolaktynoma
 
@@ -348,7 +348,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
- 
+&nbsp;
 
 ## 100 Objawy ostrej białaczki szpikowej
 
@@ -410,7 +410,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
- 
+&nbsp;
 
 ## 103 Postępowanie w przewlekłej białaczce limfocytowej
 
@@ -465,7 +465,7 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
- 
+&nbsp;
 
 ## 104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie
 
@@ -520,7 +520,7 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
- 
+&nbsp;
 
 ## 114 Objawy napadu dny
 
@@ -572,7 +572,7 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
- 
+&nbsp;
 
 ## WIP
 
@@ -580,13 +580,13 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
- 
+&nbsp;
 
 ### 003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego
 
 
 
- 
+&nbsp;
 
 ## Pytania jeszcze bez odpowiedzi
 
@@ -594,623 +594,623 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
- 
+&nbsp;
 
 ### 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
 
 
 
- 
+&nbsp;
 
 ### 007 Prewencja pierwotna miażdżycy
 
 
 
- 
+&nbsp;
 
 ### 008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej
 
 
 
- 
+&nbsp;
 
 ### 009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej
 
 
 
- 
+&nbsp;
 
 ### 011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków
 
 
 
- 
+&nbsp;
 
 ### 012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem
 
 
 
- 
+&nbsp;
 
 ### 013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu
 
 
 
- 
+&nbsp;
 
 ### 014 Diagnostyka różnicowa bólów w klatce piersiowej
 
 
 
- 
+&nbsp;
 
 ### 015 Rozpoznanie niewydolności serca
 
 
 
- 
+&nbsp;
 
 ### 016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją
 
 
 
- 
+&nbsp;
 
 ### 017 Postępowanie w nagłym zatrzymaniu krążenia
 
 
 
- 
+&nbsp;
 
 ### 018 Objawy kliniczne stenozy aortalnej
 
 
 
- 
+&nbsp;
 
 ### 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
 
 
 
- 
+&nbsp;
 
 ### 020 Farmakoterapia stabilnej choroby wieńcowej
 
 
 
- 
+&nbsp;
 
 ### 021 Uniwersalna definicja zawału serca
 
 
 
- 
+&nbsp;
 
 ### 022 Postępowanie w ostrych zespole wieńcowym
 
 
 
- 
+&nbsp;
 
 ### 023 Powikłania zawału serca
 
 
 
- 
+&nbsp;
 
 ### 024 Farmakoterapia po przebytym ostrym zespole wieńcowym
 
 
 
- 
+&nbsp;
 
 ### 025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory
 
 
 
- 
+&nbsp;
 
 ### 026 Skale oceny ryzyka powikłań migotania przedsionków
 
 
 
- 
+&nbsp;
 
 ### 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
 
 
 
- 
+&nbsp;
 
 ### 030 Chromanie przestankowe - postępowanie zachowawcze
 
 
 
- 
+&nbsp;
 
 ### 031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym
 
 
 
- 
+&nbsp;
 
 ### 032 Obraz kliniczny, rozpoznawanie i leczenie sarkoidozy płuc
 
 
 
- 
+&nbsp;
 
 ### 033 Leczenie ostrej niewydolności oddychania
 
 
 
- 
+&nbsp;
 
 ### 034 Wskazania do tlenoterapii i sposoby leczenia tlenem w warunkach szpitalnych
 
 
 
- 
+&nbsp;
 
 ### 035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność
 
 
 
- 
+&nbsp;
 
 ### 036 Przyczyny i postępowanie u chorego zgłaszającego krwioplucie
 
 
 
- 
+&nbsp;
 
 ### 037 Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu
 
 
 
- 
+&nbsp;
 
 ### 038 Sposób postępowania w przypadku stwierdzenia płynu w opłucnej
 
 
 
- 
+&nbsp;
 
 ### 039 Obraz kliniczny i leczenie odmy opłucnowej
 
 
 
- 
+&nbsp;
 
 ### 040 Postępowanie w niedrobnokomórkowym raku płuca
 
 
 
- 
+&nbsp;
 
 ### 041 Postępowanie w drobnokomórkowym raku płuca
 
 
 
- 
+&nbsp;
 
 ### 042 Leczenie astmy w stabilnym okresie
 
 
 
- 
+&nbsp;
 
 ### 044 Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc
 
 
 
- 
+&nbsp;
 
 ### 045 Leczenie stabilnej postaci POChP i zaostrzeń
 
 
 
- 
+&nbsp;
 
 ### 046 Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu
 
 
 
- 
+&nbsp;
 
 ### 047 Zasady interpretacji spirometrycznej próby rozkurczowej
 
 
 
- 
+&nbsp;
 
 ### 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
 
 
 
- 
+&nbsp;
 
 ### 049 Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc
 
 
 
- 
+&nbsp;
 
 ### 050 Powikłania zapalenia płuc
 
 
 
- 
+&nbsp;
 
 ### 051 Objawy i leczenie choroby refluksowej przełyku
 
 
 
- 
+&nbsp;
 
 ### 052 Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego
 
 
 
- 
+&nbsp;
 
 ### 053 Wskazania i sposoby eradykacji H. pylori
 
 
 
- 
+&nbsp;
 
 ### 054 Diagnostyka różnicowa przewlekłych biegunek
 
 
 
- 
+&nbsp;
 
 ### 055 Objawy zespołu jelita drażliwego
 
 
 
- 
+&nbsp;
 
 ### 056 Powikłania nieswoistych zapaleń jelit
 
 
 
- 
+&nbsp;
 
 ### 057 Diagnostyka nieswoistych zapaleń jelit
 
 
 
- 
+&nbsp;
 
 ### 058 Rozpoznanie ostrego niedokrwienia jelit
 
 
 
- 
+&nbsp;
 
 ### 059 Postępowanie w ostrej biegunce
 
 
 
- 
+&nbsp;
 
 ### 060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego
 
 
 
- 
+&nbsp;
 
 ### 061 Objawy niedrożności przewodu pokarmowego
 
 
 
- 
+&nbsp;
 
 ### 062 Dysfagia – przyczyny, postępowanie
 
 
 
- 
+&nbsp;
 
 ### 063 Postępowanie z chorym z bólami brzucha
 
 
 
- 
+&nbsp;
 
 ### 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
 
 
 
- 
+&nbsp;
 
 ### 065 Ubytek masy ciała - postępowanie
 
 
 
- 
+&nbsp;
 
 ### 066 Objawy ostrego zapalenia pęcherzyka żółciowego
 
 
 
- 
+&nbsp;
 
 ### 068 Powikłania marskości wątroby - postępowanie
 
 
 
- 
+&nbsp;
 
 ### 069 Postępowanie w wyrównanej marskości wątroby
 
 
 
- 
+&nbsp;
 
 ### 070 Wskazania do kolonoskopii
 
 
 
- 
+&nbsp;
 
 ### 072 Obraz kliniczny akromegalii
 
 
 
- 
+&nbsp;
 
 ### 073 Przyczyny niedoczynności tarczycy
 
 
 
- 
+&nbsp;
 
 ### 074 Przyczyny i objawy nadczynności tarczycy
 
 
 
- 
+&nbsp;
 
 ### 075 Rozpoznanie choroby Hashimoto
 
 
 
- 
+&nbsp;
 
 ### 076 Postępowanie przy stwierdzeniu guzka tarczycy
 
 
 
- 
+&nbsp;
 
 ### 077 Objawy pierwotnej nadczynności przytarczyc
 
 
 
- 
+&nbsp;
 
 ### 078 Przyczyny nieczynności kory nadnerczy
 
 
 
- 
+&nbsp;
 
 ### 079 Diagnostyka choroby i zespołu Cushinga
 
 
 
- 
+&nbsp;
 
 ### 080 Incydentaloma nadnerczy - postępowanie
 
 
 
- 
+&nbsp;
 
 ### 081 Algorytm rozpoznawania cukrzycy
 
 
 
- 
+&nbsp;
 
 ### 082 Kryteria wyrównania cukrzycy
 
 
 
- 
+&nbsp;
 
 ### 083 Ostre powikłania cukrzycy
 
 
 
- 
+&nbsp;
 
 ### 084 Przewlekłe powikłania cukrzycy typu 2
 
 
 
- 
+&nbsp;
 
 ### 085 Algorytm farmakoterapii cukrzycy typu 2
 
 
 
- 
+&nbsp;
 
 ### 086 Przyczyny ostrego uszkodzenia nerek
 
 
 
- 
+&nbsp;
 
 ### 087 Rozpoznanie przewlekłej choroby nerek
 
 
 
- 
+&nbsp;
 
 ### 088 Leczenie przewlekłej choroby nerek- zasady ogólne
 
 
 
- 
+&nbsp;
 
 ### 089 Wskazania do leczenia nerkozastępczego
 
 
 
- 
+&nbsp;
 
 ### 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
 
 
 
- 
+&nbsp;
 
 ### 091 Przyczyny wtórnych kłębuszkowych zapaleń nerek
 
 
 
- 
+&nbsp;
 
 ### 092 Postępowanie w zakażeniu układu moczowego
 
 
 
- 
+&nbsp;
 
 ### 093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie
 
 
 
- 
+&nbsp;
 
 ### 094 Diagnostyka różnicowa białkomoczu
 
 
 
- 
+&nbsp;
 
 ### 095 Diagnostyka różnicowa krwinkomoczu
 
 
 
- 
+&nbsp;
 
 ### 096 Wskazania i przeciwwskazania do biopsji nerki
 
 
 
- 
+&nbsp;
 
 ### 097 Kamica nerkowa: diagnostyka i leczenie
 
 
 
- 
+&nbsp;
 
 ### 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
 
 
 
- 
+&nbsp;
 
 ### 099 Objawy niedoboru witaminy B12 i B9
 
 
 
- 
+&nbsp;
 
 ### 101 Zespoły mielodysplastyczne - objawy
 
 
 
- 
+&nbsp;
 
 ### 102 Przyczyny małopłytkowości
 
 
 
- 
+&nbsp;
 
 ### 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
 
 
 
- 
+&nbsp;
 
 ### 106 Nabyte skazy krwotoczne
 
 
 
- 
+&nbsp;
 
 ### 107 Objawy trombofilii
 
 
 
- 
+&nbsp;
 
 ### 108 Rozpoznanie reumatoidalnego zapalenia stawów
 
 
 
- 
+&nbsp;
 
 ### 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
 
 
 
- 
+&nbsp;
 
 ### 110 Rozpoznanie tocznia rumieniowatego układowego
 
 
 
- 
+&nbsp;
 
 ### 111 Narządowe objawy tocznia rumieniowatego układowego
 
 
 
- 
+&nbsp;
 
 ### 112 Objawy zapaleń dużych naczyń
 
 
 
- 
+&nbsp;
 
 ### 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
 
 
 
- 
+&nbsp;
 
 ### 115 Czynniki ryzyka rozwoju osteoporozy
 
 
 
- 
+&nbsp;
 
 ### 116 Profilaktyka powikłań osteoporozy
 
 
 
- 
+&nbsp;
 
 ### 117 Rak nerki – objawy, rozpoznanie, postępowanie
 
 
 
- 
+&nbsp;
 
 ## Bibliography
 
 
 
- 
+&nbsp;
 
