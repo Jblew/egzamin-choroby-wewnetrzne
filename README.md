@@ -14,11 +14,15 @@ Jeśli 140-160/100-110 to po prostu rozpoznajemy
 
 
 
+
+
 ### Rozpoznanie z wywiadu
 
 Można rozpoznać na podstawie danych z wywiadu/dokumentacji: leki p/nadciśnieniowe albo powikłania NT-HMOD.
 
 HMOD=hypertension mediated organ damage.
+
+
 
 
 
@@ -45,11 +49,15 @@ Przy pierwszym pomiarze: wykonać próbę ortostatyczną — 1 i 3 min po pioniz
 
 
 
+
+
 ### Potwierdzanie ABPM
 
 '>= 135/85 w czasie czuwania — to jest też próg dla pomiarów domowych
 '>= 120/70 w czasie snu
 '>= 130/80 średnia w ABPM
+
+
 
 
 
@@ -62,6 +70,8 @@ NT2 = 160/100
 NT3 = 180/110
 
 Izolowane skurczowe =>140 i <90
+
+
 
 
 
@@ -104,6 +114,8 @@ Izolowane skurczowe =>140 i <90
 1. 10-14 dni przygotowania: Najpierw zablokowanie rec. alfa (fenoksybenzamina, doksazosyna), potem zablokowanie rec. beta (beta-blokery)
 2. Usunięcie guza
 3. Fentolamina iv w celu opanowania nadmiernych wzrostów ciśnienia
+
+
 
 
 
@@ -155,6 +167,8 @@ Izolowane skurczowe =>140 i <90
 
 
 
+
+
 ## 028 Objawy kardiomiopatii przerostowej
 
 **Definicja:** Wzrost grubości ściany m. sercowego nie wyjasniony wzrostem obciążenia serca.
@@ -187,6 +201,8 @@ Izolowane skurczowe =>140 i <90
 3. Wszczepienie ICD
 4. Farmakoterapia: betablokery, CCA dihydropirydynowe (werapamil)
 5. Jeśli RBBB to ścieńczanie przegrody za pomocą alkoholowej ablacji.
+
+
 
 
 
@@ -225,6 +241,8 @@ Izolowane skurczowe =>140 i <90
 - Nie wolno spożywać alkocholu
 - Nie wolno uprawiać sportu
 - Nie wolno przyjmować NLPZ (nasilają objawy ZMS)
+
+
 
 
 
@@ -271,6 +289,8 @@ Izolowane skurczowe =>140 i <90
 
 
 
+
+
 ## 067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie
 
 **Definicja:** Stłuszczenie wątroby po wykluczeniu przyczyn: alkoholowej, leków i genetycznych. NAFL = NonAlcoholicFattyLiver, NASH=NonalcoholicStheatoticHepatitis?
@@ -286,6 +306,8 @@ Izolowane skurczowe =>140 i <90
 **Rozpoznanie:** Ponad 5% stłuszczonych hepatocytów w wycinku LUB 5,6% tłuszczu w MRI fazowym/protonowym.
 
 **Leczenie:** redukcja masy ciała, dieta DASH. W NASH dodatkowo witamina E i pioglitazon.
+
+
 
 
 
@@ -323,6 +345,8 @@ Izolowane skurczowe =>140 i <90
 
 1. Farmakologiczne: agoniści dopaminowi: bromokryptyna, karbelogina. Powodują zmniejszanie guza.
 2. Jeśli farmakoterapia nieskuteczna to resekcja przezklinowa guza.
+
+
 
 
 
@@ -386,6 +410,8 @@ Izolowane skurczowe =>140 i <90
 
 
 
+
+
 ## 103 Postępowanie w przewlekłej białaczce limfocytowej
 
 **Definicja:** 
@@ -436,6 +462,8 @@ Izolowane skurczowe =>140 i <90
    1. Leczymy jeśli stan chorego pozwala i są odpowiednie wskazania.
 
 Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wyleczenie jest allo-HSCT, ale kwalifikuje się tylko 10% chorych.
+
+
 
 
 
@@ -492,6 +520,8 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ## 114 Objawy napadu dny
 
 **Definicje:**
@@ -542,13 +572,19 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ## WIP
 
 ### 002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego
 
 
 
+
+
 ### 003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego
+
+
 
 
 
@@ -558,7 +594,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
+
+
 
 
 
@@ -566,7 +606,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej
+
+
 
 
 
@@ -574,7 +618,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków
+
+
 
 
 
@@ -582,7 +630,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu
+
+
 
 
 
@@ -590,7 +642,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 015 Rozpoznanie niewydolności serca
+
+
 
 
 
@@ -598,7 +654,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 017 Postępowanie w nagłym zatrzymaniu krążenia
+
+
 
 
 
@@ -606,7 +666,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
+
+
 
 
 
@@ -614,7 +678,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 021 Uniwersalna definicja zawału serca
+
+
 
 
 
@@ -622,7 +690,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 023 Powikłania zawału serca
+
+
 
 
 
@@ -630,7 +702,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory
+
+
 
 
 
@@ -638,7 +714,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
+
+
 
 
 
@@ -646,7 +726,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym
+
+
 
 
 
@@ -654,7 +738,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 033 Leczenie ostrej niewydolności oddychania
+
+
 
 
 
@@ -662,7 +750,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność
+
+
 
 
 
@@ -670,7 +762,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 037 Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu
+
+
 
 
 
@@ -678,7 +774,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 039 Obraz kliniczny i leczenie odmy opłucnowej
+
+
 
 
 
@@ -686,7 +786,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 041 Postępowanie w drobnokomórkowym raku płuca
+
+
 
 
 
@@ -694,7 +798,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 044 Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc
+
+
 
 
 
@@ -702,7 +810,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 046 Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu
+
+
 
 
 
@@ -710,7 +822,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
+
+
 
 
 
@@ -718,7 +834,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 050 Powikłania zapalenia płuc
+
+
 
 
 
@@ -726,7 +846,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 052 Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego
+
+
 
 
 
@@ -734,7 +858,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 054 Diagnostyka różnicowa przewlekłych biegunek
+
+
 
 
 
@@ -742,7 +870,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 056 Powikłania nieswoistych zapaleń jelit
+
+
 
 
 
@@ -750,7 +882,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 058 Rozpoznanie ostrego niedokrwienia jelit
+
+
 
 
 
@@ -758,7 +894,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego
+
+
 
 
 
@@ -766,7 +906,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 062 Dysfagia – przyczyny, postępowanie
+
+
 
 
 
@@ -774,7 +918,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
+
+
 
 
 
@@ -782,7 +930,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 066 Objawy ostrego zapalenia pęcherzyka żółciowego
+
+
 
 
 
@@ -790,7 +942,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 069 Postępowanie w wyrównanej marskości wątroby
+
+
 
 
 
@@ -798,7 +954,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 072 Obraz kliniczny akromegalii
+
+
 
 
 
@@ -806,7 +966,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 074 Przyczyny i objawy nadczynności tarczycy
+
+
 
 
 
@@ -814,7 +978,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 076 Postępowanie przy stwierdzeniu guzka tarczycy
+
+
 
 
 
@@ -822,7 +990,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 078 Przyczyny nieczynności kory nadnerczy
+
+
 
 
 
@@ -830,7 +1002,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 080 Incydentaloma nadnerczy - postępowanie
+
+
 
 
 
@@ -838,7 +1014,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 082 Kryteria wyrównania cukrzycy
+
+
 
 
 
@@ -846,7 +1026,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 084 Przewlekłe powikłania cukrzycy typu 2
+
+
 
 
 
@@ -854,7 +1038,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 086 Przyczyny ostrego uszkodzenia nerek
+
+
 
 
 
@@ -862,7 +1050,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 088 Leczenie przewlekłej choroby nerek- zasady ogólne
+
+
 
 
 
@@ -870,7 +1062,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
+
+
 
 
 
@@ -878,7 +1074,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 092 Postępowanie w zakażeniu układu moczowego
+
+
 
 
 
@@ -886,7 +1086,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 094 Diagnostyka różnicowa białkomoczu
+
+
 
 
 
@@ -894,7 +1098,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 096 Wskazania i przeciwwskazania do biopsji nerki
+
+
 
 
 
@@ -902,7 +1110,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
+
+
 
 
 
@@ -910,7 +1122,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 101 Zespoły mielodysplastyczne - objawy
+
+
 
 
 
@@ -918,7 +1134,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
+
+
 
 
 
@@ -926,7 +1146,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 107 Objawy trombofilii
+
+
 
 
 
@@ -934,7 +1158,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
+
+
 
 
 
@@ -942,7 +1170,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 111 Narządowe objawy tocznia rumieniowatego układowego
+
+
 
 
 
@@ -950,7 +1182,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
+
+
 
 
 
@@ -958,7 +1194,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ### 116 Profilaktyka powikłań osteoporozy
+
+
 
 
 
@@ -966,7 +1206,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
+
+
 ## Bibliography
+
+
 
 
 
