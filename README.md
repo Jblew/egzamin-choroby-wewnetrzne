@@ -1,10 +1,8 @@
 # Egzamin choroby wewnętrzne
 
-## Pytania z odpowiedziami
+## 001 Rozpoznanie nadciśnienia tętniczego
 
-### 001 Rozpoznanie nadciśnienia tętniczego
-
-#### Rozpoznanie z pomiaru
+### Rozpoznanie z pomiaru
 
 Pomiar gabinetowy: dwa pomiary na dwóch wizytach, gdzie SBP>=140 lub DBP>=90
 
@@ -16,7 +14,7 @@ Jeśli 140-160/100-110 to po prostu rozpoznajemy
 
 
 
-#### Rozpoznanie z wywiadu
+### Rozpoznanie z wywiadu
 
 Można rozpoznać na podstawie danych z wywiadu/dokumentacji: leki p/nadciśnieniowe albo powikłania NT-HMOD.
 
@@ -24,7 +22,7 @@ HMOD=hypertension mediated organ damage.
 
 
 
-#### Zasady pomiaru gabinetowego
+### Zasady pomiaru gabinetowego
 
 Wymagania co do sprzętu:
 
@@ -47,7 +45,7 @@ Przy pierwszym pomiarze: wykonać próbę ortostatyczną — 1 i 3 min po pioniz
 
 
 
-#### Potwierdzanie ABPM
+### Potwierdzanie ABPM
 
 '>= 135/85 w czasie czuwania — to jest też próg dla pomiarów domowych
 '>= 120/70 w czasie snu
@@ -55,7 +53,7 @@ Przy pierwszym pomiarze: wykonać próbę ortostatyczną — 1 i 3 min po pioniz
 
 
 
-#### Stopniowanie
+### Stopniowanie
 
 Wys.praw = 130/85
 
@@ -67,7 +65,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
-### 006 Objawy kliniczne guza chromochłonnego
+## 006 Objawy kliniczne guza chromochłonnego
 
 **Definicja:** nowotwór rdzenia nadnerczy
 
@@ -109,7 +107,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
-### 010 Objawy zatoru tętnicy płucnej
+## 010 Objawy zatoru tętnicy płucnej
 
 **Definicja:** Zamknięcie tętnicy płucnej lub jej rozgałęzień przez materiał zatorowy. Rodzaje materiału zatorowego: skrzepliny, płyn owodniowy, powietrze, tłuszcz, tkanka nowotworowa.
 
@@ -157,7 +155,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
-### 028 Objawy kardiomiopatii przerostowej
+## 028 Objawy kardiomiopatii przerostowej
 
 **Definicja:** Wzrost grubości ściany m. sercowego nie wyjasniony wzrostem obciążenia serca.
 
@@ -192,7 +190,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
-### 029 Rozpoznanie zapalenia mięśnia sercowego
+## 029 Rozpoznanie zapalenia mięśnia sercowego
 
 **Definicja:** Zapalenie mięśnia sercowego o różnych etiologiach (wirusowa — naucz. parvovirus B19, bakteryjna, autoimmunologiczne, poradiacyjne, polekowe — doksorubicyna).
 
@@ -230,7 +228,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
-### 043 Leczenie zaostrzeń astmy
+## 043 Leczenie zaostrzeń astmy
 
 **Definicje:** 
 
@@ -273,7 +271,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
-### 067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie
+## 067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie
 
 **Definicja:** Stłuszczenie wątroby po wykluczeniu przyczyn: alkoholowej, leków i genetycznych. NAFL = NonAlcoholicFattyLiver, NASH=NonalcoholicStheatoticHepatitis?
 
@@ -291,7 +289,7 @@ Izolowane skurczowe =>140 i <90
 
 
 
-### 071 Objawy prolaktynoma
+## 071 Objawy prolaktynoma
 
 **Definicja:** Guz przysadki wydzielający prolaktynę. 
 
@@ -328,7 +326,67 @@ Izolowane skurczowe =>140 i <90
 
 
 
-### 103 Postępowanie w przewlekłej białaczce limfocytowej
+## 100 Objawy ostrej białaczki szpikowej
+
+**Definicja:** Niekontrolowana proliferacja klonów komórkowych na wczesnym etapie hematopoezy. **AML** jest grupą ok 20 chorób.
+
+**Epidemiologia AML:** najczęstsza białaczka dorosłych (80% białaczek). Częstość rośnie wraz z wiekiem. Mediana wieku zachorowania = 65 rż.
+
+**Obraz kliniczny:** 
+
+- Ostre białaczki mają takie same objawy. Zarówno ALL i AML. 
+- Ogólne (grupa "B" — ale tego określenia używa się raczej do chłoniaków, HL w szczególności)
+  - Niewyjasniona gorączka
+  - Niewyjaśnione poty
+  - Niewyjaśniona utrata mc
+- Objawy hematologiczne
+  - Objawy leukostatyczne — zatykanie małych naczyń przez limfocyty
+  - Osoczowe zaburzenia krzepnięcia
+- Objawy niewydolności szpiku: pancytopenii: niedokrwistość, małopłytkowość, neutropenia
+
+**Diagnostyka:** 
+
+- Morfologia: pancytopenia, ale jeśli morfologia jest z rozmazem automatycznym, to blasty są zliczane w okienku dla limfocytów
+
+**Rozpoznanie:** 
+
+- Na podstawie morfologii nie da się odróżnić ALL i AML. Należy wykonać biopsję aspiracyjną szpiku (rozpoznanie) i potwierdzić rozpoznanie za pomocą immnofenotypowania w cytometrii przepływowej. 
+- 20+% blastów w szpiku/krwi (jeśli 6-19% to rozpoznajemy MDS)
+- ALBO konkretne zmiany cytogenetyczne, np ostra białaczka promielocytowa: t(15;17) — PML-RARalfa
+
+**Leczenie ostrych białaczek:**
+
+- Pełnoobjawowa choroba 10^12=1kg blastów
+- (L) Indukcja remisji
+- CR=remisja laboratoryjna i kliniczna. Osiągana po ok 4 tygodniach Pozostaje MRD = choroba resztkowa, tj limfoblasty wykrywane tylko w badaniu PCR. 10^9=1g blastów.
+- (L) Konsolidacja, intensyfikacja
+- Remisja molekularna. Pozostaje ok 10^6=1mg blastów. Układ immunologiczny przejmuje kontrolę nad nowotworem. Choroba jest niewykrywalna metodami molekularnymi. Nadal możliwa jednak wznowa.
+- (L) poremisyjne — w grupach o niekorzystnym rokowaniu: autoHSCT/alloHSCT
+- Wysokie prawdopodobieństwo, że choroba jest całkowicie wyleczona
+
+**Leczenie AML:**
+
+- Indukcja remisji: Ara-C = antracyklina 3 dni + arabinozyd cytozyny przez 7 dni
+- Kryteria CR:
+  - <5% blastów i brak blastów z pałeczkami Auera
+  - Brak objawów pozaszpikowych
+  - Kryteria hematologiczne: NEU>1G, PLT>100G, brak wskazań do toczenia KKCz
+
+**Rokowanie AML:**
+
+- Nieleczone: zgon w 3mc z powodu infekcji lub skazy
+- CR u 50-80%
+- Nawrót u 70% w ciągu 3 lat od CR
+
+**Ostra białaczka promielocytowa:**
+
+- Rozpoznanie: translokacja t(15;17) => onkogen PML-RARalfa
+- Wysokie ryzyko DIC — szybka śmierć
+- Leczenie: ATO=trójtlenek arsenu i ATRA=kwas all-trans retinowy (na DIC) + ChTH
+
+
+
+## 103 Postępowanie w przewlekłej białaczce limfocytowej
 
 **Definicja:** 
 
@@ -381,7 +439,7 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
-### 104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie
+## 104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie
 
 **Definicja:** 
 
@@ -434,7 +492,7 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
-### 114 Objawy napadu dny
+## 114 Objawy napadu dny
 
 **Definicje:**
 
@@ -852,19 +910,11 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 
 
 
-### 100 Objawy ostrej białaczki szpikowej
-
-
-
 ### 101 Zespoły mielodysplastyczne - objawy
 
 
 
 ### 102 Przyczyny małopłytkowości
-
-
-
-### 104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie
 
 
 
