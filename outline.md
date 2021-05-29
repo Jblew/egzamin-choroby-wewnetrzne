@@ -15,14 +15,14 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 7. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
 8. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
 9. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100 Objawy ostrej białaczki szpikowej.md)
-10. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
-11. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie.md)
-12. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
-
-13. WIP
+10. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101 Zespoły mielodysplastyczne - objawy.md)
+11. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
+12. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie.md)
+13. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
+14. WIP
           1. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
           2. [003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego](./odpowiedzi/003-wskazania-do-diagnostyki-wtornych-postaci-nt.md)
-14. Pytania jeszcze bez odpowiedzi
+15. Pytania jeszcze bez odpowiedzi
           1. 004 Farmakoterapia nadciśnienia tętniczego u pacjenta z cukrzycą
           2. 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
           3. 007 Prewencja pierwotna miażdżycy
@@ -115,17 +115,16 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           87. 097 Kamica nerkowa: diagnostyka i leczenie
           88. 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
           89. 099 Objawy niedoboru witaminy B12 i B9
-          90. 101 Zespoły mielodysplastyczne - objawy
-          91. 102 Przyczyny małopłytkowości
-          92. 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
-          93. 106 Nabyte skazy krwotoczne
-          94. 107 Objawy trombofilii
-          95. 108 Rozpoznanie reumatoidalnego zapalenia stawów
-          96. 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
-          97. 110 Rozpoznanie tocznia rumieniowatego układowego
-          98. 111 Narządowe objawy tocznia rumieniowatego układowego
-          99. 112 Objawy zapaleń dużych naczyń
-          100. 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
-          101. 115 Czynniki ryzyka rozwoju osteoporozy
-          102. 116 Profilaktyka powikłań osteoporozy
-          103. 117 Rak nerki – objawy, rozpoznanie, postępowanie
+          90. 102 Przyczyny małopłytkowości
+          91. 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
+          92. 106 Nabyte skazy krwotoczne
+          93. 107 Objawy trombofilii
+          94. 108 Rozpoznanie reumatoidalnego zapalenia stawów
+          95. 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
+          96. 110 Rozpoznanie tocznia rumieniowatego układowego
+          97. 111 Narządowe objawy tocznia rumieniowatego układowego
+          98. 112 Objawy zapaleń dużych naczyń
+          99. 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
+          100. 115 Czynniki ryzyka rozwoju osteoporozy
+          101. 116 Profilaktyka powikłań osteoporozy
+          102. 117 Rak nerki – objawy, rozpoznanie, postępowanie
