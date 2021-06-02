@@ -26,3 +26,4 @@
 
 ## Brudnopis
 
+TODO dopisać z rozdziału WNL o cukrzycy jeśli są jakieś dodatkowe informacje

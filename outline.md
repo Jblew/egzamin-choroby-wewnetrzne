@@ -29,7 +29,8 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           1. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
           2. [003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego](./odpowiedzi/003-wskazania-do-diagnostyki-wtornych-postaci-nt.md)
           3. [008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej](./odpowiedzi/008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej.md)
-          4. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039 Obraz kliniczny i leczenie odmy opłucnowej.md)
+          4. [015 Rozpoznanie niewydolności serca](./odpowiedzi/015 Rozpoznanie niewydolności serca.md)
+          5. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039 Obraz kliniczny i leczenie odmy opłucnowej.md)
 21. Pytania jeszcze bez odpowiedzi
        2. [005 Zasady indywidualizacji terapii nadciśnienia tętniczego](./odpowiedzi/005 Zasady indywidualizacji terapii nadciśnienia tętniczego.md)
        3. [007 Prewencja pierwotna miażdżycy](./odpowiedzi/007 Prewencja pierwotna miażdżycy.md)
@@ -38,7 +39,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        6. [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./odpowiedzi/012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków.md)
        7. [013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu](./odpowiedzi/013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu.md)
        8. [014 Diagnostyka różnicowa bólów w klatce piersiowej](./odpowiedzi/014 Diagnostyka różnicowa bólów w klatce piersiowej.md)
-       9. [015 Rozpoznanie niewydolności serca](./odpowiedzi/015 Rozpoznanie niewydolności serca.md)
        10. [016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory](./odpowiedzi/016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory.md)
        11. [017 Postępowanie w nagłym zatrzymaniu krążenia](./odpowiedzi/017 Postępowanie w nagłym zatrzymaniu krążenia.md)
        12. [018 Objawy kliniczne stenozy aortalnej](./odpowiedzi/018 Objawy kliniczne stenozy aortalnej.md)
