@@ -32,6 +32,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           4. [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./odpowiedzi/012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków.md)
           5. [015 Rozpoznanie niewydolności serca](./odpowiedzi/015 Rozpoznanie niewydolności serca.md)
           6. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039 Obraz kliniczny i leczenie odmy opłucnowej.md)
+          7. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097 Kamica nerkowa: diagnostyka i leczenie.md)
 21. Pytania jeszcze bez odpowiedzi
        2. [005 Zasady indywidualizacji terapii nadciśnienia tętniczego](./odpowiedzi/005 Zasady indywidualizacji terapii nadciśnienia tętniczego.md)
        3. [007 Prewencja pierwotna miażdżycy](./odpowiedzi/007 Prewencja pierwotna miażdżycy.md)
@@ -111,7 +112,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        78. [094 Diagnostyka różnicowa białkomoczu](./odpowiedzi/094 Diagnostyka różnicowa białkomoczu.md)
        79. [095 Diagnostyka różnicowa krwinkomoczu](./odpowiedzi/095 Diagnostyka różnicowa krwinkomoczu.md)
        80. [096 Wskazania i przeciwwskazania do biopsji nerki](./odpowiedzi/096 Wskazania i przeciwwskazania do biopsji nerki.md)
-       81. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097 Kamica nerkowa: diagnostyka i leczenie.md)
        82. [098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza](./odpowiedzi/098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza.md)
        83. [099 Objawy niedoboru witaminy B12 i B9](./odpowiedzi/099 Objawy niedoboru witaminy B12 i B9.md)
        84. [102 Przyczyny małopłytkowości](./odpowiedzi/102 Przyczyny małopłytkowości.md)
