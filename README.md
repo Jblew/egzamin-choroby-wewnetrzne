@@ -693,6 +693,23 @@ Jeśli kryteria wycięcia niespełnione (tj nie podejrzewamy złośliwości i je
 
 &nbsp;
 
+## 082 Kryteria wyrównania cukrzycy
+
+**Kryteria wyrównania glikemii:** — HbA1C:
+
+1. 8 mmol/l => starsi, wiele chorób, istotna mikroangiopatia
+2. 7 mmol/l => populacja ogólna
+3. 6,5 mol/l =>
+   1. Planowana ciąża i I trymestr ciąży
+   2. Dzieci i młodzież niezależnie od typu cukrzycy
+   3. Krótko trwająca DM2
+   4. DM1 jeśli nie powoduje to częstych hipoglikemii
+4. 6 mmol/l => II i III trymestr ciąży
+
+
+
+&nbsp;
+
 ## 100 Objawy ostrej białaczki szpikowej
 
 **Definicja:** Niekontrolowana proliferacja klonów komórkowych na wczesnym etapie hematopoezy. **AML** jest grupą ok 20 chorób.
@@ -1606,12 +1623,6 @@ Zalecenia po odmie:
 &nbsp;
 
 ### 079 Diagnostyka choroby i zespołu Cushinga
-
-
-
-&nbsp;
-
-### 082 Kryteria wyrównania cukrzycy
 
 
 
