@@ -20,13 +20,14 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 12. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
 13. [072 Obraz kliniczny akromegalii](./odpowiedzi/072 Obraz kliniczny akromegalii.md)
 14. [080 Incydentaloma nadnerczy - postępowanie](./odpowiedzi/080 Incydentaloma nadnerczy - postępowanie.md)
-15. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100 Objawy ostrej białaczki szpikowej.md)
-16. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101 Zespoły mielodysplastyczne - objawy.md)
-17. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
-18. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie.md)
-19. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108 Rozpoznanie reumatoidalnego zapalenia stawów.md)
-20. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
-21. WIP
+15. [081 Algorytm rozpoznawania cukrzycy](./odpowiedzi/081 Algorytm rozpoznawania cukrzycy.md)
+16. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100 Objawy ostrej białaczki szpikowej.md)
+17. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101 Zespoły mielodysplastyczne - objawy.md)
+18. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
+19. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie.md)
+20. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108 Rozpoznanie reumatoidalnego zapalenia stawów.md)
+21. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
+22. WIP
           1. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
           2. [003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego](./odpowiedzi/003-wskazania-do-diagnostyki-wtornych-postaci-nt.md)
           3. [008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej](./odpowiedzi/008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej.md)
@@ -34,7 +35,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           5. [015 Rozpoznanie niewydolności serca](./odpowiedzi/015 Rozpoznanie niewydolności serca.md)
           6. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039 Obraz kliniczny i leczenie odmy opłucnowej.md)
           7. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097 Kamica nerkowa: diagnostyka i leczenie.md)
-22. Pytania jeszcze bez odpowiedzi
+23. Pytania jeszcze bez odpowiedzi
        2. [005 Zasady indywidualizacji terapii nadciśnienia tętniczego](./odpowiedzi/005 Zasady indywidualizacji terapii nadciśnienia tętniczego.md)
        3. [007 Prewencja pierwotna miażdżycy](./odpowiedzi/007 Prewencja pierwotna miażdżycy.md)
        4. [009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej](./odpowiedzi/009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej.md)
@@ -96,7 +97,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        61. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077 Objawy pierwotnej nadczynności przytarczyc.md)
        62. [078 Przyczyny nieczynności kory nadnerczy](./odpowiedzi/078 Przyczyny nieczynności kory nadnerczy.md)
        63. [079 Diagnostyka choroby i zespołu Cushinga](./odpowiedzi/079 Diagnostyka choroby i zespołu Cushinga.md)
-       65. [081 Algorytm rozpoznawania cukrzycy](./odpowiedzi/081 Algorytm rozpoznawania cukrzycy.md)
        66. [082 Kryteria wyrównania cukrzycy](./odpowiedzi/082 Kryteria wyrównania cukrzycy.md)
        67. [083 Ostre powikłania cukrzycy](./odpowiedzi/083 Ostre powikłania cukrzycy.md)
        68. [084 Przewlekłe powikłania cukrzycy typu 2](./odpowiedzi/084 Przewlekłe powikłania cukrzycy typu 2.md)

@@ -2,6 +2,25 @@
 
 ## Final
 
-## Brudnopis
+**Definicja:** 
 
+**Epidemiologia:** 
+
+**Patofizjologia:** 
+
+**Przebieg:** 
+
+**Obraz kliniczny:** 
+
+**Diagnostyka:** 
+
+**Rozpoznanie:** 
+
+**Leczenie:** 
+
+**Rokowanie:**
+
+
+
+## Brudnopis
 
