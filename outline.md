@@ -7,124 +7,122 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 ## Outline
 
 1. [001 Rozpoznanie nadciśnienia tętniczego](./odpowiedzi/001-rozpoznawanie-nadcisnienia-tetniczego.md)
-2. [006 Objawy kliniczne guza chromochłonnego](./odpowiedzi/006 Objawy kliniczne guza chromochłonnego.md)
-3. [010 Objawy zatoru tętnicy płucnej](./odpowiedzi/010 Objawy zatoru tętnicy płucnej.md)
-4. [032 Obraz kliniczny, rozpoznawanie i leczenie sarkoidozy płuc](./odpowiedzi/032 Obraz kliniczny, rozpoznawanie i leczenie sarkoidozy płuc.md)
-5. [028 Objawy kardiomiopatii przerostowej](./odpowiedzi/028 Objawy kardiomiopatii przerostowej.md)
-6. [029 Rozpoznanie zapalenia mięśnia sercowego](./odpowiedzi/029 Rozpoznanie zapalenia mięśnia sercowego.md)
-7. [040 Postępowanie w niedrobnokomórkowym raku płuca](./odpowiedzi/040 Postępowanie w niedrobnokomórkowym raku płuca.md)
-8. [043 Leczenie zaostrzeń astmy](./odpowiedzi/043 Leczenie zaostrzeń astmy.md)
-9. [046 Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu](./odpowiedzi/046 Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu.md)
-10. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
-11. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
-12. [072 Obraz kliniczny akromegalii](./odpowiedzi/072 Obraz kliniczny akromegalii.md)
-13. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100 Objawy ostrej białaczki szpikowej.md)
-14. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101 Zespoły mielodysplastyczne - objawy.md)
-15. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
-16. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie.md)
-17. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108 Rozpoznanie reumatoidalnego zapalenia stawów.md)
-18. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
-19. WIP
+2. [004 Farmakoterapia nadciśnienia tętniczego u pacjenta z cukrzycą](./odpowiedzi/004 Farmakoterapia nadciśnienia tętniczego u pacjenta z cukrzycą.md)
+3. [006 Objawy kliniczne guza chromochłonnego](./odpowiedzi/006 Objawy kliniczne guza chromochłonnego.md)
+4. [010 Objawy zatoru tętnicy płucnej](./odpowiedzi/010 Objawy zatoru tętnicy płucnej.md)
+5. [032 Obraz kliniczny, rozpoznawanie i leczenie sarkoidozy płuc](./odpowiedzi/032 Obraz kliniczny, rozpoznawanie i leczenie sarkoidozy płuc.md)
+6. [028 Objawy kardiomiopatii przerostowej](./odpowiedzi/028 Objawy kardiomiopatii przerostowej.md)
+7. [029 Rozpoznanie zapalenia mięśnia sercowego](./odpowiedzi/029 Rozpoznanie zapalenia mięśnia sercowego.md)
+8. [040 Postępowanie w niedrobnokomórkowym raku płuca](./odpowiedzi/040 Postępowanie w niedrobnokomórkowym raku płuca.md)
+9. [043 Leczenie zaostrzeń astmy](./odpowiedzi/043 Leczenie zaostrzeń astmy.md)
+10. [046 Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu](./odpowiedzi/046 Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu.md)
+11. [067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie](./odpowiedzi/067-nash.md)
+12. [071 Objawy prolaktynoma](./odpowiedzi/071 Objawy prolaktynoma.md)
+13. [072 Obraz kliniczny akromegalii](./odpowiedzi/072 Obraz kliniczny akromegalii.md)
+14. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100 Objawy ostrej białaczki szpikowej.md)
+15. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101 Zespoły mielodysplastyczne - objawy.md)
+16. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103 Postępowanie w przewlekłej białaczce limfocytowej.md)
+17. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie.md)
+18. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108 Rozpoznanie reumatoidalnego zapalenia stawów.md)
+19. [114 Objawy napadu dny](./odpowiedzi/114 Objawy napadu dny.md)
+20. WIP
           1. [002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego](./odpowiedzi/002-pomiary-pozagabinetowe-bp.md)
           2. [003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego](./odpowiedzi/003-wskazania-do-diagnostyki-wtornych-postaci-nt.md)
           3. [008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej](./odpowiedzi/008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej.md)
           4. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039 Obraz kliniczny i leczenie odmy opłucnowej.md)
-20. Pytania jeszcze bez odpowiedzi
-          1. 004 Farmakoterapia nadciśnienia tętniczego u pacjenta z cukrzycą
-          2. 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
-          3. 007 Prewencja pierwotna miażdżycy
-          4. 009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej
-          5. 011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków
-          6. 012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem
-              przedsionków
-          7. 013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu
-          8. 014 Diagnostyka różnicowa bólów w klatce piersiowej
-          9. 015 Rozpoznanie niewydolności serca
-          10. 016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją
-                wyrzutową lewej komory
-          11. 017 Postępowanie w nagłym zatrzymaniu krążenia
-          12. 018 Objawy kliniczne stenozy aortalnej
-          13. 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
-          14. 020 Farmakoterapia stabilnej choroby wieńcowej
-          15. 021 Uniwersalna definicja zawału serca
-          16. 022 Postępowanie w ostrych zespole wieńcowym
-          17. 023 Powikłania zawału serca
-          18. 024 Farmakoterapia po przebytym ostrym zespole wieńcowym
-          19. 025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory
-          20. 026 Skale oceny ryzyka powikłań migotania przedsionków
-          21. 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
-          22. 030 Chromanie przestankowe - postępowanie zachowawcze
-          23. 031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym
-          24. 033 Leczenie ostrej niewydolności oddychania
-          25. 034 Wskazania do tlenoterapii i sposoby leczenia tlenem w warunkach szpitalnych
-          26. 035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność
-          27. 036 Przyczyny i postępowanie u chorego zgłaszającego krwioplucie
-          28. 037 Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu
-          29. 038 Sposób postępowania w przypadku stwierdzenia płynu w opłucnej
-          30. 041 Postępowanie w drobnokomórkowym raku płuca
-          31. 042 Leczenie astmy w stabilnym okresie
-          32. 044 Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc
-          33. 045 Leczenie stabilnej postaci POChP i zaostrzeń
-          34. 047 Zasady interpretacji spirometrycznej próby rozkurczowej
-          35. 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
-          36. 049 Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc
-          37. 050 Powikłania zapalenia płuc
-          38. 051 Objawy i leczenie choroby refluksowej przełyku
-          39. 052 Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego
-          40. 053 Wskazania i sposoby eradykacji H. pylori
-          41. 054 Diagnostyka różnicowa przewlekłych biegunek
-          42. 055 Objawy zespołu jelita drażliwego
-          43. 056 Powikłania nieswoistych zapaleń jelit
-          44. 057 Diagnostyka nieswoistych zapaleń jelit
-          45. 058 Rozpoznanie ostrego niedokrwienia jelit
-          46. 059 Postępowanie w ostrej biegunce
-          47. 060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego
-          48. 061 Objawy niedrożności przewodu pokarmowego
-          49. 062 Dysfagia – przyczyny, postępowanie
+21. Pytania jeszcze bez odpowiedzi
+       2. [005 Zasady indywidualizacji terapii nadciśnienia tętniczego](./odpowiedzi/005 Zasady indywidualizacji terapii nadciśnienia tętniczego.md)
+       3. [007 Prewencja pierwotna miażdżycy](./odpowiedzi/007 Prewencja pierwotna miażdżycy.md)
+       4. [009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej](./odpowiedzi/009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej.md)
+       5. [011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków](./odpowiedzi/011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków.md)
+       6. [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./odpowiedzi/012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków.md)
+       7. [013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu](./odpowiedzi/013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu.md)
+       8. [014 Diagnostyka różnicowa bólów w klatce piersiowej](./odpowiedzi/014 Diagnostyka różnicowa bólów w klatce piersiowej.md)
+       9. [015 Rozpoznanie niewydolności serca](./odpowiedzi/015 Rozpoznanie niewydolności serca.md)
+       10. [016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory](./odpowiedzi/016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory.md)
+       11. [017 Postępowanie w nagłym zatrzymaniu krążenia](./odpowiedzi/017 Postępowanie w nagłym zatrzymaniu krążenia.md)
+       12. [018 Objawy kliniczne stenozy aortalnej](./odpowiedzi/018 Objawy kliniczne stenozy aortalnej.md)
+       13. [019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia](./odpowiedzi/019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia.md)
+       14. [020 Farmakoterapia stabilnej choroby wieńcowej](./odpowiedzi/020 Farmakoterapia stabilnej choroby wieńcowej.md)
+       15. [021 Uniwersalna definicja zawału serca](./odpowiedzi/021 Uniwersalna definicja zawału serca.md)
+       16. [022 Postępowanie w ostrych zespole wieńcowym](./odpowiedzi/022 Postępowanie w ostrych zespole wieńcowym.md)
+       17. [023 Powikłania zawału serca](./odpowiedzi/023 Powikłania zawału serca.md)
+       18. [024 Farmakoterapia po przebytym ostrym zespole wieńcowym](./odpowiedzi/024 Farmakoterapia po przebytym ostrym zespole wieńcowym.md)
+       19. [025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory](./odpowiedzi/025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory.md)
+       20. [026 Skale oceny ryzyka powikłań migotania przedsionków](./odpowiedzi/026 Skale oceny ryzyka powikłań migotania przedsionków.md)
+       21. [027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie](./odpowiedzi/027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie.md)
+       22. [030 Chromanie przestankowe - postępowanie zachowawcze](./odpowiedzi/030 Chromanie przestankowe - postępowanie zachowawcze.md)
+       23. [031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym](./odpowiedzi/031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym.md)
+       24. [033 Leczenie ostrej niewydolności oddychania](./odpowiedzi/033 Leczenie ostrej niewydolności oddychania.md)
+       25. [034 Wskazania do tlenoterapii i sposoby leczenia tlenem w warunkach szpitalnych](./odpowiedzi/034 Wskazania do tlenoterapii i sposoby leczenia tlenem w warunkach szpitalnych.md)
+       26. [035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność](./odpowiedzi/035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność.md)
+       27. [036 Przyczyny i postępowanie u chorego zgłaszającego krwioplucie](./odpowiedzi/036 Przyczyny i postępowanie u chorego zgłaszającego krwioplucie.md)
+       28. [037 Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu](./odpowiedzi/037 Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu.md)
+       29. [038 Sposób postępowania w przypadku stwierdzenia płynu w opłucnej](./odpowiedzi/038 Sposób postępowania w przypadku stwierdzenia płynu w opłucnej.md)
+       30. [041 Postępowanie w drobnokomórkowym raku płuca](./odpowiedzi/041 Postępowanie w drobnokomórkowym raku płuca.md)
+       31. [042 Leczenie astmy w stabilnym okresie](./odpowiedzi/042 Leczenie astmy w stabilnym okresie.md)
+       32. [044 Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc](./odpowiedzi/044 Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc.md)
+       33. [045 Leczenie stabilnej postaci POChP i zaostrzeń](./odpowiedzi/045 Leczenie stabilnej postaci POChP i zaostrzeń.md)
+       34. [047 Zasady interpretacji spirometrycznej próby rozkurczowej](./odpowiedzi/047 Zasady interpretacji spirometrycznej próby rozkurczowej.md)
+       35. [048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc](./odpowiedzi/048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc.md)
+       36. [049 Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc](./odpowiedzi/049 Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc.md)
+       37. [050 Powikłania zapalenia płuc](./odpowiedzi/050 Powikłania zapalenia płuc.md)
+       38. [051 Objawy i leczenie choroby refluksowej przełyku](./odpowiedzi/051 Objawy i leczenie choroby refluksowej przełyku.md)
+       39. [052 Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego](./odpowiedzi/052 Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego.md)
+       40. [053 Wskazania i sposoby eradykacji H. pylori](./odpowiedzi/053 Wskazania i sposoby eradykacji H. pylori.md)
+       41. [054 Diagnostyka różnicowa przewlekłych biegunek](./odpowiedzi/054 Diagnostyka różnicowa przewlekłych biegunek.md)
+       42. [055 Objawy zespołu jelita drażliwego](./odpowiedzi/055 Objawy zespołu jelita drażliwego.md)
+       43. [056 Powikłania nieswoistych zapaleń jelit](./odpowiedzi/056 Powikłania nieswoistych zapaleń jelit.md)
+       44. [057 Diagnostyka nieswoistych zapaleń jelit](./odpowiedzi/057 Diagnostyka nieswoistych zapaleń jelit.md)
+       45. [058 Rozpoznanie ostrego niedokrwienia jelit](./odpowiedzi/058 Rozpoznanie ostrego niedokrwienia jelit.md)
+       46. [059 Postępowanie w ostrej biegunce](./odpowiedzi/059 Postępowanie w ostrej biegunce.md)
+       47. [060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego](./odpowiedzi/060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego.md)
+       48. [061 Objawy niedrożności przewodu pokarmowego](./odpowiedzi/061 Objawy niedrożności przewodu pokarmowego.md)
+       49. [062 Dysfagia – przyczyny, postępowanie](./odpowiedzi/062 Dysfagia – przyczyny, postępowanie.md)
 
-          50. 063 Postępowanie z chorym z bólami brzucha
-          51. 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
-          52. 065 Ubytek masy ciała - postępowanie
-          53. 066 Objawy ostrego zapalenia pęcherzyka żółciowego
-          54. 068 Powikłania marskości wątroby - postępowanie
-          55. 069 Postępowanie w wyrównanej marskości wątroby
-          56. 070 Wskazania do kolonoskopii
-          57. 073 Przyczyny niedoczynności tarczycy
-          58. 074 Przyczyny i objawy nadczynności tarczycy
-          59. 075 Rozpoznanie choroby Hashimoto
-          60. 076 Postępowanie przy stwierdzeniu guzka tarczycy
-          61. 077 Objawy pierwotnej nadczynności przytarczyc
-          62. 078 Przyczyny nieczynności kory nadnerczy
-          63. 079 Diagnostyka choroby i zespołu Cushinga
-          64. 080 Incydentaloma nadnerczy - postępowanie
-          65. 081 Algorytm rozpoznawania cukrzycy
-          66. 082 Kryteria wyrównania cukrzycy
-          67. 083 Ostre powikłania cukrzycy
-          68. 084 Przewlekłe powikłania cukrzycy typu 2
-          69. 085 Algorytm farmakoterapii cukrzycy typu 2
-          70. 086 Przyczyny ostrego uszkodzenia nerek
-          71. 087 Rozpoznanie przewlekłej choroby nerek
-          72. 088 Leczenie przewlekłej choroby nerek- zasady ogólne
-          73. 089 Wskazania do leczenia nerkozastępczego
-          74. 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
-          75. 091 Przyczyny wtórnych kłębuszkowych zapaleń nerek
-          76. 092 Postępowanie w zakażeniu układu moczowego
-          77. 093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie
-          78. 094 Diagnostyka różnicowa białkomoczu
-          79. 095 Diagnostyka różnicowa krwinkomoczu
-          80. 096 Wskazania i przeciwwskazania do biopsji nerki
-          81. 097 Kamica nerkowa: diagnostyka i leczenie
-          82. 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
-          83. 099 Objawy niedoboru witaminy B12 i B9
-          84. 102 Przyczyny małopłytkowości
-          85. 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
-          86. 106 Nabyte skazy krwotoczne
-          87. 107 Objawy trombofilii
-          88. 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
-          89. 110 Rozpoznanie tocznia rumieniowatego układowego
-          90. 111 Narządowe objawy tocznia rumieniowatego układowego
-          91. 112 Objawy zapaleń dużych naczyń
-          92. 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
-          93. 115 Czynniki ryzyka rozwoju osteoporozy
-          94. 116 Profilaktyka powikłań osteoporozy
-          95. 117 Rak nerki – objawy, rozpoznanie, postępowanie
+       50. [063 Postępowanie z chorym z bólami brzucha](./odpowiedzi/063 Postępowanie z chorym z bólami brzucha.md)
+       51. [064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki](./odpowiedzi/064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki.md)
+       52. [065 Ubytek masy ciała - postępowanie](./odpowiedzi/065 Ubytek masy ciała - postępowanie.md)
+       53. [066 Objawy ostrego zapalenia pęcherzyka żółciowego](./odpowiedzi/066 Objawy ostrego zapalenia pęcherzyka żółciowego.md)
+       54. [068 Powikłania marskości wątroby - postępowanie](./odpowiedzi/068 Powikłania marskości wątroby - postępowanie.md)
+       55. [069 Postępowanie w wyrównanej marskości wątroby](./odpowiedzi/069 Postępowanie w wyrównanej marskości wątroby.md)
+       56. [070 Wskazania do kolonoskopii](./odpowiedzi/070 Wskazania do kolonoskopii.md)
+       57. [073 Przyczyny niedoczynności tarczycy](./odpowiedzi/073 Przyczyny niedoczynności tarczycy.md)
+       58. [074 Przyczyny i objawy nadczynności tarczycy](./odpowiedzi/074 Przyczyny i objawy nadczynności tarczycy.md)
+       59. [075 Rozpoznanie choroby Hashimoto](./odpowiedzi/075 Rozpoznanie choroby Hashimoto.md)
+       60. [076 Postępowanie przy stwierdzeniu guzka tarczycy](./odpowiedzi/076 Postępowanie przy stwierdzeniu guzka tarczycy.md)
+       61. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077 Objawy pierwotnej nadczynności przytarczyc.md)
+       62. [078 Przyczyny nieczynności kory nadnerczy](./odpowiedzi/078 Przyczyny nieczynności kory nadnerczy.md)
+       63. [079 Diagnostyka choroby i zespołu Cushinga](./odpowiedzi/079 Diagnostyka choroby i zespołu Cushinga.md)
+       64. [080 Incydentaloma nadnerczy - postępowanie](./odpowiedzi/080 Incydentaloma nadnerczy - postępowanie.md)
+       65. [081 Algorytm rozpoznawania cukrzycy](./odpowiedzi/081 Algorytm rozpoznawania cukrzycy.md)
+       66. [082 Kryteria wyrównania cukrzycy](./odpowiedzi/082 Kryteria wyrównania cukrzycy.md)
+       67. [083 Ostre powikłania cukrzycy](./odpowiedzi/083 Ostre powikłania cukrzycy.md)
+       68. [084 Przewlekłe powikłania cukrzycy typu 2](./odpowiedzi/084 Przewlekłe powikłania cukrzycy typu 2.md)
+       69. [085 Algorytm farmakoterapii cukrzycy typu 2](./odpowiedzi/085 Algorytm farmakoterapii cukrzycy typu 2.md)
+       70. [086 Przyczyny ostrego uszkodzenia nerek](./odpowiedzi/086 Przyczyny ostrego uszkodzenia nerek.md)
+       71. [087 Rozpoznanie przewlekłej choroby nerek](./odpowiedzi/087 Rozpoznanie przewlekłej choroby nerek.md)
+       72. [088 Leczenie przewlekłej choroby nerek- zasady ogólne](./odpowiedzi/088 Leczenie przewlekłej choroby nerek- zasady ogólne.md)
+       73. [089 Wskazania do leczenia nerkozastępczego](./odpowiedzi/089 Wskazania do leczenia nerkozastępczego.md)
+       74. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090 Objawy przewlekłych kłębuszkowych zapaleń nerek.md)
+       75. [091 Przyczyny wtórnych kłębuszkowych zapaleń nerek](./odpowiedzi/091 Przyczyny wtórnych kłębuszkowych zapaleń nerek.md)
+       76. [092 Postępowanie w zakażeniu układu moczowego](./odpowiedzi/092 Postępowanie w zakażeniu układu moczowego.md)
+       77. [093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie](./odpowiedzi/093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie.md)
+       78. [094 Diagnostyka różnicowa białkomoczu](./odpowiedzi/094 Diagnostyka różnicowa białkomoczu.md)
+       79. [095 Diagnostyka różnicowa krwinkomoczu](./odpowiedzi/095 Diagnostyka różnicowa krwinkomoczu.md)
+       80. [096 Wskazania i przeciwwskazania do biopsji nerki](./odpowiedzi/096 Wskazania i przeciwwskazania do biopsji nerki.md)
+       81. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097 Kamica nerkowa: diagnostyka i leczenie.md)
+       82. [098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza](./odpowiedzi/098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza.md)
+       83. [099 Objawy niedoboru witaminy B12 i B9](./odpowiedzi/099 Objawy niedoboru witaminy B12 i B9.md)
+       84. [102 Przyczyny małopłytkowości](./odpowiedzi/102 Przyczyny małopłytkowości.md)
+       85. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105 Diagnostyka różnicowa powiększenia węzłów chłonnych.md)
+       86. [106 Nabyte skazy krwotoczne](./odpowiedzi/106 Nabyte skazy krwotoczne.md)
+       87. [107 Objawy trombofilii](./odpowiedzi/107 Objawy trombofilii.md)
+       88. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów.md)
+       89. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110 Rozpoznanie tocznia rumieniowatego układowego.md)
+       90. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111 Narządowe objawy tocznia rumieniowatego układowego.md)
+       91. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112 Objawy zapaleń dużych naczyń.md)
+       92. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa.md)
+       93. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115 Czynniki ryzyka rozwoju osteoporozy.md)
+       94. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116 Profilaktyka powikłań osteoporozy.md)
+       95. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117 Rak nerki – objawy, rozpoznanie, postępowanie.md)
