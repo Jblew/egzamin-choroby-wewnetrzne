@@ -35,7 +35,8 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           4. [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./odpowiedzi/012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków.md)
           5. [015 Rozpoznanie niewydolności serca](./odpowiedzi/015 Rozpoznanie niewydolności serca.md)
           6. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039 Obraz kliniczny i leczenie odmy opłucnowej.md)
-          7. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097 Kamica nerkowa: diagnostyka i leczenie.md)
+          7. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077 Objawy pierwotnej nadczynności przytarczyc.md)
+          8. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097 Kamica nerkowa: diagnostyka i leczenie.md)
 24. Pytania jeszcze bez odpowiedzi
        2. [005 Zasady indywidualizacji terapii nadciśnienia tętniczego](./odpowiedzi/005 Zasady indywidualizacji terapii nadciśnienia tętniczego.md)
        3. [007 Prewencja pierwotna miażdżycy](./odpowiedzi/007 Prewencja pierwotna miażdżycy.md)
@@ -95,7 +96,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        58. [074 Przyczyny i objawy nadczynności tarczycy](./odpowiedzi/074 Przyczyny i objawy nadczynności tarczycy.md)
        59. [075 Rozpoznanie choroby Hashimoto](./odpowiedzi/075 Rozpoznanie choroby Hashimoto.md)
        60. [076 Postępowanie przy stwierdzeniu guzka tarczycy](./odpowiedzi/076 Postępowanie przy stwierdzeniu guzka tarczycy.md)
-       61. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077 Objawy pierwotnej nadczynności przytarczyc.md)
        62. [078 Przyczyny nieczynności kory nadnerczy](./odpowiedzi/078 Przyczyny nieczynności kory nadnerczy.md)
        63. [079 Diagnostyka choroby i zespołu Cushinga](./odpowiedzi/079 Diagnostyka choroby i zespołu Cushinga.md)
        67. [083 Ostre powikłania cukrzycy](./odpowiedzi/083 Ostre powikłania cukrzycy.md)
