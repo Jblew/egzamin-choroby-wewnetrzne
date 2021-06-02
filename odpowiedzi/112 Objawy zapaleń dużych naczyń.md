@@ -1,4 +1,4 @@
-## 112 Objawy zapaleń dużych naczyń
+# 112 Objawy zapaleń dużych naczyń
 
 ## Final
 

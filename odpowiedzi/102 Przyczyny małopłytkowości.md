@@ -1,4 +1,4 @@
-## 102 Przyczyny małopłytkowości
+# 102 Przyczyny małopłytkowości
 
 ## Final
 

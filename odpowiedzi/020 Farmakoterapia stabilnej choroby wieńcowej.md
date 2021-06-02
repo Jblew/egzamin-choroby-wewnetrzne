@@ -1,4 +1,4 @@
-## 020 Farmakoterapia stabilnej choroby wieńcowej
+# 020 Farmakoterapia stabilnej choroby wieńcowej
 
 ## Final
 

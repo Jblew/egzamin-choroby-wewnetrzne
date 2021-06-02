@@ -1,4 +1,4 @@
-## 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
+# 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
 
 ## Final
 

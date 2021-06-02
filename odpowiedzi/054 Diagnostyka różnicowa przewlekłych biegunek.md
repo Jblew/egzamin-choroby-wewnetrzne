@@ -1,4 +1,4 @@
-## 054 Diagnostyka różnicowa przewlekłych biegunek
+# 054 Diagnostyka różnicowa przewlekłych biegunek
 
 ## Final
 

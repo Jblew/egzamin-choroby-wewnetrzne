@@ -1,4 +1,4 @@
-## 075 Rozpoznanie choroby Hashimoto
+# 075 Rozpoznanie choroby Hashimoto
 
 ## Final
 

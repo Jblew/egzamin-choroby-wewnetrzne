@@ -1,4 +1,4 @@
-## 076 Postępowanie przy stwierdzeniu guzka tarczycy
+# 076 Postępowanie przy stwierdzeniu guzka tarczycy
 
 ## Final
 

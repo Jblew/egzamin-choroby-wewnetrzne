@@ -1,4 +1,4 @@
-## 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
+# 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
 
 ## Final
 

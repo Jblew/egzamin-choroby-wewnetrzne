@@ -1,4 +1,4 @@
-## 082 Kryteria wyrównania cukrzycy
+# 082 Kryteria wyrównania cukrzycy
 
 ## Final
 

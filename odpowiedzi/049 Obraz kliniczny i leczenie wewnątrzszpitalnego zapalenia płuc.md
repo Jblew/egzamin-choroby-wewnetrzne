@@ -1,4 +1,4 @@
-## 049 Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc
+# 049 Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc
 
 ## Final
 

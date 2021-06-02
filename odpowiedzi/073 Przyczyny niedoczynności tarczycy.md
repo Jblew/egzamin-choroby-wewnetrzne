@@ -1,4 +1,4 @@
-## 073 Przyczyny niedoczynności tarczycy
+# 073 Przyczyny niedoczynności tarczycy
 
 ## Final
 

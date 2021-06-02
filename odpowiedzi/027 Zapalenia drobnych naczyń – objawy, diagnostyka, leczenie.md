@@ -1,4 +1,4 @@
-## 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
+# 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
 
 ## Final
 

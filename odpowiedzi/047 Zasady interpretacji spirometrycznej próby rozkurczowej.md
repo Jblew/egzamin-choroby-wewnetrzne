@@ -1,4 +1,4 @@
-## 047 Zasady interpretacji spirometrycznej próby rozkurczowej
+# 047 Zasady interpretacji spirometrycznej próby rozkurczowej
 
 ## Final
 

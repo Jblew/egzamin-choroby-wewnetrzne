@@ -1,4 +1,4 @@
-## 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
+# 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
 
 ## Final
 

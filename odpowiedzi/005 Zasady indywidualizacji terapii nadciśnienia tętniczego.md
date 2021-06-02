@@ -1,7 +1,6 @@
-## 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
+# 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
 
 ## Final
 
 ## Brudnopis
-
 

@@ -1,4 +1,4 @@
-## 111 Narządowe objawy tocznia rumieniowatego układowego
+# 111 Narządowe objawy tocznia rumieniowatego układowego
 
 ## Final
 

@@ -1,4 +1,4 @@
-## 097 Kamica nerkowa: diagnostyka i leczenie
+# 097 Kamica nerkowa: diagnostyka i leczenie
 
 ## Final
 

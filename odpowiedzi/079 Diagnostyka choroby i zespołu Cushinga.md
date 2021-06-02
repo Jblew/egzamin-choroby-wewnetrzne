@@ -1,4 +1,4 @@
-## 079 Diagnostyka choroby i zespołu Cushinga
+# 079 Diagnostyka choroby i zespołu Cushinga
 
 ## Final
 

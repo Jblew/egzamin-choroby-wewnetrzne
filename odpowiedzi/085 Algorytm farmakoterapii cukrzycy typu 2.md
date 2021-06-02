@@ -1,4 +1,4 @@
-## 085 Algorytm farmakoterapii cukrzycy typu 2
+# 085 Algorytm farmakoterapii cukrzycy typu 2
 
 ## Final
 

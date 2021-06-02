@@ -1,4 +1,4 @@
-## 069 Postępowanie w wyrównanej marskości wątroby
+# 069 Postępowanie w wyrównanej marskości wątroby
 
 ## Final
 

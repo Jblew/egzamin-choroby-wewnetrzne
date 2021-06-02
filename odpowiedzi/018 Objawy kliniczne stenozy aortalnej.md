@@ -1,4 +1,4 @@
-## 018 Objawy kliniczne stenozy aortalnej
+# 018 Objawy kliniczne stenozy aortalnej
 
 ## Final
 

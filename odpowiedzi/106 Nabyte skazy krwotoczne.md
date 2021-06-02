@@ -1,4 +1,4 @@
-## 106 Nabyte skazy krwotoczne
+# 106 Nabyte skazy krwotoczne
 
 ## Final
 

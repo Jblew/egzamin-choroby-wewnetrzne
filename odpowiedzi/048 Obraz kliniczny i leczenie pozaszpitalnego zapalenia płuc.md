@@ -1,4 +1,4 @@
-## 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
+# 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
 
 ## Final
 

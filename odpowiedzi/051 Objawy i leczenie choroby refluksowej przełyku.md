@@ -1,4 +1,4 @@
-## 051 Objawy i leczenie choroby refluksowej przełyku
+# 051 Objawy i leczenie choroby refluksowej przełyku
 
 ## Final
 
