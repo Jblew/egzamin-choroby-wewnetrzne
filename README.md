@@ -617,6 +617,44 @@ Izolowane skurczowe =>140 i <90
 
 &nbsp;
 
+## 080 Incydentaloma nadnerczy - postępowanie
+
+**Definicja:** Przypadkowo wykrywany w badaniach obrazowych guz nadnerczy większy niż 1cm i nie dający żadnych objawów.
+
+**Epidemiologia:** starsze Kobiety najczęściej
+
+**Patofizjologia:** Zwykle gruczolak hormonalnie nieczynny
+
+**Diagnostyka:** 
+
+1. Nie wolno robić biopsji — ryzyko rozsiewy
+
+**Rozpoznanie:** (1) USG — zwykle przypadkowo => potwierdzenie TK
+
+**Postępowanie:** 
+
+1. Najpierw ocena czynności hormonalnej
+2. Ocena cech złośliwości
+
+Wskazania do wycięcia:
+
+1. NT i niski potas => z. Conna
+2. NT i metoksykatecholaminy w moczu => Pheochromocytoma
+3. Ponad 10j hounsfielda => podejrzenie raka
+4. Ponad 5cm => podejrzenie raka
+5. Brak hamowania 1mg dexamethasonu => z. Cushinga
+6. Szybko się powiększa w badaniach kontrolnych
+
+Jeśli kryteria wycięcia niespełnione (tj nie podejrzewamy złośliwości i jest to hormonalnie nieczynny najprawdopodobniej gruczolak):
+
+1. Obserwacja w USG 
+   1. Do 3 cm => co 12mc
+   2. 4-5cm => co 3-6mc
+
+
+
+&nbsp;
+
 ## 100 Objawy ostrej białaczki szpikowej
 
 **Definicja:** Niekontrolowana proliferacja klonów komórkowych na wczesnym etapie hematopoezy. **AML** jest grupą ok 20 chorób.
@@ -1512,12 +1550,6 @@ Zalecenia po odmie:
 &nbsp;
 
 ### 079 Diagnostyka choroby i zespołu Cushinga
-
-
-
-&nbsp;
-
-### 080 Incydentaloma nadnerczy - postępowanie
 
 
 
