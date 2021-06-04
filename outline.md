@@ -39,7 +39,8 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           8. [019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia](./odpowiedzi/019%20Objawy%20i%20profilaktyka%20infekcyjnego%20zapalenia%20wsierdzia.md)
           9. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039%20Obraz%20kliniczny%20i%20leczenie%20odmy%20opłucnowej.md)
           10. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077%20Objawy%20pierwotnej%20nadczynności%20przytarczyc.md)
-          11. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
+          11. [083 Ostre powikłania cukrzycy](./odpowiedzi/083%20Ostre%20powikłania%20cukrzycy.md)
+          12. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
 24. Pytania jeszcze bez odpowiedzi
        2. [005 Zasady indywidualizacji terapii nadciśnienia tętniczego](./odpowiedzi/005%20Zasady%20indywidualizacji%20terapii%20nadciśnienia%20tętniczego.md)
        3. [007 Prewencja pierwotna miażdżycy](./odpowiedzi/007%20Prewencja%20pierwotna%20miażdżycy.md)
@@ -97,7 +98,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        60. [076 Postępowanie przy stwierdzeniu guzka tarczycy](./odpowiedzi/076%20Postępowanie%20przy%20stwierdzeniu%20guzka%20tarczycy.md)
        62. [078 Przyczyny nieczynności kory nadnerczy](./odpowiedzi/078%20Przyczyny%20nieczynności%20kory%20nadnerczy.md)
        63. [079 Diagnostyka choroby i zespołu Cushinga](./odpowiedzi/079%20Diagnostyka%20choroby%20i%20zespołu%20Cushinga.md)
-       67. [083 Ostre powikłania cukrzycy](./odpowiedzi/083%20Ostre%20powikłania%20cukrzycy.md)
        68. [084 Przewlekłe powikłania cukrzycy typu 2](./odpowiedzi/084%20Przewlekłe%20powikłania%20cukrzycy%20typu%202.md)
        69. [085 Algorytm farmakoterapii cukrzycy typu 2](./odpowiedzi/085%20Algorytm%20farmakoterapii%20cukrzycy%20typu%202.md)
        70. [086 Przyczyny ostrego uszkodzenia nerek](./odpowiedzi/086%20Przyczyny%20ostrego%20uszkodzenia%20nerek.md)

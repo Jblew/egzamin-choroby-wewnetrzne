@@ -1389,6 +1389,18 @@ Objawy hiperkalcemii:
 
 &nbsp;
 
+#### 083 Ostre powikłania cukrzycy
+
+- Hipoglikemia ...TODO — najczęstsze
+- Hiperglikemiczne 
+  - Kwasica ketonowa ...TODO
+  - Kwasica mleczanowa ...TODO
+  - Z. hiperglikemiczno-hiperosmolalny ...TODO
+
+
+
+&nbsp;
+
 #### 097 Kamica nerkowa: diagnostyka i leczenie
 
 **Definicja:** Obecność złogów w drogach moczowych powstałych na skutek wytrącania.
@@ -1794,12 +1806,6 @@ Objawy hiperkalcemii:
 &nbsp;
 
 ### 079 Diagnostyka choroby i zespołu Cushinga
-
-
-
-&nbsp;
-
-### 083 Ostre powikłania cukrzycy
 
 
 
