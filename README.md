@@ -1195,6 +1195,41 @@ Najważniejsze powikłanie: udar mózgu
 
 **Rokowanie:**
 
+#### 018 Objawy kliniczne stenozy aortalnej
+
+**Definicja:** Zwężenie zastawki aortalnej.
+
+**Epidemiologia:** 3 co do częstości choroba sercowo-naczyniowa (po NT i ChNS)
+
+**Patofizjologia:** 
+
+Przyczyny: 
+
+- Wrodzone: zastawka dwupłatkowa
+- Nabyte: gorączka reumatyczna i postępujące wraz z wiekiem włóknienie + kalcyfikacja (po 70rż)
+
+Patofizjo: spowodowane wzrostem afterload
+
+- Spadek rzutu LV: omndlenia, zawroty głowy, duszność
+- Hipertrofia LV: ból dławicowy; niewydolność LV => obrzęk płuc
+
+**Przebieg:** 
+
+- Bezobjawowy nie mają zwiększonego ryzyka zgonu
+- Objawowi żyją tylko 2-3 lata po rozpoznaniu (jeśli nie są zoperowani). Operacja poprawia rokowanie.
+
+**Obraz kliniczny:** ...TODO
+
+**Diagnostyka:** ...TODO
+
+**Rozpoznanie:** ...TODO
+
+**Leczenie:** ...TODO
+
+
+
+&nbsp;
+
 #### 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
 
 **Definicja:** Zapalenie wsierdzia lub dużych naczyń KLP. Najczęściej w obrębie zastawek: aortalnej i mitralnej.
@@ -1447,12 +1482,6 @@ Objawy hiperkalcemii:
 &nbsp;
 
 ### 017 Postępowanie w nagłym zatrzymaniu krążenia
-
-
-
-&nbsp;
-
-### 018 Objawy kliniczne stenozy aortalnej
 
 
 
