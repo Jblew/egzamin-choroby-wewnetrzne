@@ -32,13 +32,7 @@ Objawy przedmiotowe:
 
 **Rozpoznanie:** ...TODO
 
-**Leczenie:** 
-
-Kontrola rytmu komór w fazie ostrej ...TODO
-
-Kontrola rytmu komór w fazie przewlekłej ...TODO
-
-Przywracanie (i kontrola) rytmu zatokowego...TODO: kardiowersja farmakologiczna, kardiowersja, przewlekłe leczenie antyarytmiczne, ablacja
+**Leczenie:** Kontrola rytmu komór i rytmu zatokowego w [011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków](./011%20Metody%20przywracania%20rytmu%20zatokowego%20u%20pacjentów%20z%20migotaniem%20przedsionków.md)
 
 **Powikłania zatorowo-zakrzepowe:**
 
