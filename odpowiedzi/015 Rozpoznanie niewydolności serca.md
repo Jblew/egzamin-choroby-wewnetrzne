@@ -18,7 +18,7 @@
 
 **Patofizjologia:** 
 
-**Obraz kliniczny:** 
+**Obraz kliniczny:** [025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory](./odpowiedzi/025%20Obraz%20kliniczny%20niewydolności%20serca%20z%20zachowaną%20frakcją%20wyrzutową%20lewej%20komory.md)
 
 **Diagnostyka:** 
 
