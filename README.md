@@ -488,6 +488,54 @@ Zasady w zależności od rodzaju AF:
 
 &nbsp;
 
+## 041 Postępowanie w drobnokomórkowym raku płuca
+
+**Definicja:**  jak w NDRP: [040 Postępowanie w niedrobnokomórkowym raku płuca](./odpowiedzi/040%20Postępowanie%20w%20niedrobnokomórkowym%20raku%20płuca.md)
+
+- LD, kryteria:
+  - Zmiany po jednej stronie KLP
+  - Wysięk po stronie guza
+  - Węzły wnękowe zajęte po stronie guza
+  - Węzły śródpiersiowe i obojczykowe powiększone po obu stronach
+- ED = nowotwór przekracza kryteria zasięgu LD
+
+**Epidemiologia:** DRP stanowi 15% nowotworów płuc
+
+**Obraz kliniczny:** jak w NDRP: [040 Postępowanie w niedrobnokomórkowym raku płuca](./odpowiedzi/040%20Postępowanie%20w%20niedrobnokomórkowym%20raku%20płuca.md)
+
+**Diagnostyka:**  jak w NDRP: [040 Postępowanie w niedrobnokomórkowym raku płuca](./odpowiedzi/040%20Postępowanie%20w%20niedrobnokomórkowym%20raku%20płuca.md)
+
+Dodatkowo w DRP: MR bo często są przerzuty do OUN
+
+**Rozpoznanie:**  jak w NDRP: [040 Postępowanie w niedrobnokomórkowym raku płuca](./odpowiedzi/040%20Postępowanie%20w%20niedrobnokomórkowym%20raku%20płuca.md)
+
+**Leczenie:** (w trakcie leczenia obowiązuje weryfikacja remisji w RECIST)
+
+1. LD
+   1. Operacja tylko w 1stopniu
+   2. ChTH + RTH (węzłów i OUN)
+   3. Profilaktyczna RTH OUN
+2. ED
+   1. ChTH
+   2. Profilaktyczna RTH OUN tylko jeśli remisja jest stwierdzona
+
+...TODO sprawdzić podstawowe schematy lekowe
+
+**Rokowanie:** 
+
+- 5 letnie przeżycia w ED ok 0% (przy leczeniu)
+- 5 letnie przeżycia w LD ok 15% (przy leczeniu)
+
+**Kryteria remisji RECIST dla nowotworów płuc**:
+
+- Progresja = powiększenie o 20% lub nowa zmiana
+- Stabilizacja
+- Remisja częściowa = zmniejszenie o 30% po 1 miesiącu
+
+
+
+&nbsp;
+
 ## 043 Leczenie zaostrzeń astmy
 
 **Definicje:** 
@@ -1268,7 +1316,11 @@ Najważniejsze powikłanie: udar mózgu
 
 **Rokowanie:**
 
-#### 018 Objawy kliniczne stenozy aortalnej
+
+
+&nbsp;
+
+### 018 Objawy kliniczne stenozy aortalnej
 
 **Definicja:** Zwężenie zastawki aortalnej.
 
@@ -1303,7 +1355,7 @@ Patofizjo: spowodowane wzrostem afterload
 
 &nbsp;
 
-#### 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
+### 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
 
 **Definicja:** Zapalenie wsierdzia lub dużych naczyń KLP. Najczęściej w obrębie zastawek: aortalnej i mitralnej.
 
@@ -1354,7 +1406,7 @@ Patofizjo: spowodowane wzrostem afterload
 
 &nbsp;
 
-#### 039 Obraz kliniczny i leczenie odmy opłucnowej
+### 039 Obraz kliniczny i leczenie odmy opłucnowej
 
 **Definicja:** Odma opłucnowa to powietrze w opłucnej.
 
@@ -1419,7 +1471,7 @@ Zalecenia po odmie:
 
 &nbsp;
 
-#### 077 Objawy pierwotnej nadczynności przytarczyc
+### 077 Objawy pierwotnej nadczynności przytarczyc
 
 **Definicja:** 
 
@@ -1462,7 +1514,7 @@ Objawy hiperkalcemii:
 
 &nbsp;
 
-#### 083 Ostre powikłania cukrzycy
+### 083 Ostre powikłania cukrzycy
 
 - Hipoglikemia ...TODO — najczęstsze
 - Hiperglikemiczne 
@@ -1474,7 +1526,7 @@ Objawy hiperkalcemii:
 
 &nbsp;
 
-#### 097 Kamica nerkowa: diagnostyka i leczenie
+### 097 Kamica nerkowa: diagnostyka i leczenie
 
 **Definicja:** Obecność złogów w drogach moczowych powstałych na skutek wytrącania.
 
@@ -1524,283 +1576,277 @@ Objawy hiperkalcemii:
 
 **Leczenie:** ...TODO
 
-
-
-&nbsp;
-
-## Pytania jeszcze bez odpowiedzi
-
-### 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
+#### Pytania jeszcze bez odpowiedzi
 
 
 
 &nbsp;
 
-### 007 Prewencja pierwotna miażdżycy
+## 005 Zasady indywidualizacji terapii nadciśnienia tętniczego
 
 
 
 &nbsp;
 
-### 013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu
+## 007 Prewencja pierwotna miażdżycy
 
 
 
 &nbsp;
 
-### 014 Diagnostyka różnicowa bólów w klatce piersiowej
+## 013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu
 
 
 
 &nbsp;
 
-### 016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory
+## 014 Diagnostyka różnicowa bólów w klatce piersiowej
 
 
 
 &nbsp;
 
-### 017 Postępowanie w nagłym zatrzymaniu krążenia
+## 016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory
 
 
 
 &nbsp;
 
-### 020 Farmakoterapia stabilnej choroby wieńcowej
+## 017 Postępowanie w nagłym zatrzymaniu krążenia
 
 
 
 &nbsp;
 
-### 021 Uniwersalna definicja zawału serca
+## 020 Farmakoterapia stabilnej choroby wieńcowej
 
 
 
 &nbsp;
 
-### 022 Postępowanie w ostrych zespole wieńcowym
+## 021 Uniwersalna definicja zawału serca
 
 
 
 &nbsp;
 
-### 023 Powikłania zawału serca
+## 022 Postępowanie w ostrych zespole wieńcowym
 
 
 
 &nbsp;
 
-### 024 Farmakoterapia po przebytym ostrym zespole wieńcowym
+## 023 Powikłania zawału serca
 
 
 
 &nbsp;
 
-### 025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory
+## 024 Farmakoterapia po przebytym ostrym zespole wieńcowym
 
 
 
 &nbsp;
 
-### 026 Skale oceny ryzyka powikłań migotania przedsionków
+## 025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory
 
 
 
 &nbsp;
 
-### 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
+## 026 Skale oceny ryzyka powikłań migotania przedsionków
 
 
 
 &nbsp;
 
-### 030 Chromanie przestankowe - postępowanie zachowawcze
+## 027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie
 
 
 
 &nbsp;
 
-### 031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym
+## 030 Chromanie przestankowe - postępowanie zachowawcze
 
 
 
 &nbsp;
 
-### 033 Leczenie ostrej niewydolności oddychania
+## 031 Przyczyny oraz sposób postępowania we wstrząsie anafilaktycznym
 
 
 
 &nbsp;
 
-### 034 Wskazania do tlenoterapii i sposoby leczenia tlenem w warunkach szpitalnych
+## 033 Leczenie ostrej niewydolności oddychania
 
 
 
 &nbsp;
 
-### 035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność
+## 034 Wskazania do tlenoterapii i sposoby leczenia tlenem w warunkach szpitalnych
 
 
 
 &nbsp;
 
-### 036 Przyczyny i postępowanie u chorego zgłaszającego krwioplucie
+## 035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność
 
 
 
 &nbsp;
 
-### 037 Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu
+## 036 Przyczyny i postępowanie u chorego zgłaszającego krwioplucie
 
 
 
 &nbsp;
 
-### 038 Sposób postępowania w przypadku stwierdzenia płynu w opłucnej
+## 037 Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu
 
 
 
 &nbsp;
 
-### 041 Postępowanie w drobnokomórkowym raku płuca
+## 038 Sposób postępowania w przypadku stwierdzenia płynu w opłucnej
 
 
 
 &nbsp;
 
-### 042 Leczenie astmy w stabilnym okresie
+## 042 Leczenie astmy w stabilnym okresie
 
 
 
 &nbsp;
 
-### 044 Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc
+## 044 Czynniki ryzyka i rozpoznanie przewlekłej obturacyjnej choroby płuc
 
 
 
 &nbsp;
 
-### 045 Leczenie stabilnej postaci POChP i zaostrzeń
+## 045 Leczenie stabilnej postaci POChP i zaostrzeń
 
 
 
 &nbsp;
 
-### 047 Zasady interpretacji spirometrycznej próby rozkurczowej
+## 047 Zasady interpretacji spirometrycznej próby rozkurczowej
 
 
 
 &nbsp;
 
-### 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
+## 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
 
 
 
 &nbsp;
 
-### 049 Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc
+## 049 Obraz kliniczny i leczenie wewnątrzszpitalnego zapalenia płuc
 
 
 
 &nbsp;
 
-### 050 Powikłania zapalenia płuc
+## 050 Powikłania zapalenia płuc
 
 
 
 &nbsp;
 
-### 051 Objawy i leczenie choroby refluksowej przełyku
+## 051 Objawy i leczenie choroby refluksowej przełyku
 
 
 
 &nbsp;
 
-### 052 Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego
+## 052 Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego
 
 
 
 &nbsp;
 
-### 053 Wskazania i sposoby eradykacji H. pylori
+## 053 Wskazania i sposoby eradykacji H. pylori
 
 
 
 &nbsp;
 
-### 054 Diagnostyka różnicowa przewlekłych biegunek
+## 054 Diagnostyka różnicowa przewlekłych biegunek
 
 
 
 &nbsp;
 
-### 055 Objawy zespołu jelita drażliwego
+## 055 Objawy zespołu jelita drażliwego
 
 
 
 &nbsp;
 
-### 056 Powikłania nieswoistych zapaleń jelit
+## 056 Powikłania nieswoistych zapaleń jelit
 
 
 
 &nbsp;
 
-### 057 Diagnostyka nieswoistych zapaleń jelit
+## 057 Diagnostyka nieswoistych zapaleń jelit
 
 
 
 &nbsp;
 
-### 058 Rozpoznanie ostrego niedokrwienia jelit
+## 058 Rozpoznanie ostrego niedokrwienia jelit
 
 
 
 &nbsp;
 
-### 059 Postępowanie w ostrej biegunce
+## 059 Postępowanie w ostrej biegunce
 
 
 
 &nbsp;
 
-### 060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego
+## 060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego
 
 
 
 &nbsp;
 
-### 061 Objawy niedrożności przewodu pokarmowego
+## 061 Objawy niedrożności przewodu pokarmowego
 
 
 
 &nbsp;
 
-### 062 Dysfagia – przyczyny, postępowanie
+## 062 Dysfagia – przyczyny, postępowanie
 
 
 
 &nbsp;
 
-### 063 Postępowanie z chorym z bólami brzucha
+## 063 Postępowanie z chorym z bólami brzucha
 
 
 
 &nbsp;
 
-### 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
+## 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
 
 
 
 &nbsp;
 
-### 065 Ubytek masy ciała - postępowanie
+## 065 Ubytek masy ciała - postępowanie
 
 
 
 &nbsp;
 
-### 066 Objawy ostrego zapalenia pęcherzyka żółciowego
+## 066 Objawy ostrego zapalenia pęcherzyka żółciowego
 
 **Definicja:** 
 
@@ -1824,217 +1870,217 @@ Objawy hiperkalcemii:
 
 &nbsp;
 
-### 068 Powikłania marskości wątroby - postępowanie
+## 068 Powikłania marskości wątroby - postępowanie
 
 
 
 &nbsp;
 
-### 069 Postępowanie w wyrównanej marskości wątroby
+## 069 Postępowanie w wyrównanej marskości wątroby
 
 
 
 &nbsp;
 
-### 070 Wskazania do kolonoskopii
+## 070 Wskazania do kolonoskopii
 
 
 
 &nbsp;
 
-### 073 Przyczyny niedoczynności tarczycy
+## 073 Przyczyny niedoczynności tarczycy
 
 
 
 &nbsp;
 
-### 074 Przyczyny i objawy nadczynności tarczycy
+## 074 Przyczyny i objawy nadczynności tarczycy
 
 
 
 &nbsp;
 
-### 075 Rozpoznanie choroby Hashimoto
+## 075 Rozpoznanie choroby Hashimoto
 
 
 
 &nbsp;
 
-### 076 Postępowanie przy stwierdzeniu guzka tarczycy
+## 076 Postępowanie przy stwierdzeniu guzka tarczycy
 
 
 
 &nbsp;
 
-### 078 Przyczyny nieczynności kory nadnerczy
+## 078 Przyczyny nieczynności kory nadnerczy
 
 
 
 &nbsp;
 
-### 079 Diagnostyka choroby i zespołu Cushinga
+## 079 Diagnostyka choroby i zespołu Cushinga
 
 
 
 &nbsp;
 
-### 084 Przewlekłe powikłania cukrzycy typu 2
+## 084 Przewlekłe powikłania cukrzycy typu 2
 
 
 
 &nbsp;
 
-### 085 Algorytm farmakoterapii cukrzycy typu 2
+## 085 Algorytm farmakoterapii cukrzycy typu 2
 
 
 
 &nbsp;
 
-### 086 Przyczyny ostrego uszkodzenia nerek
+## 086 Przyczyny ostrego uszkodzenia nerek
 
 
 
 &nbsp;
 
-### 087 Rozpoznanie przewlekłej choroby nerek
+## 087 Rozpoznanie przewlekłej choroby nerek
 
 
 
 &nbsp;
 
-### 088 Leczenie przewlekłej choroby nerek- zasady ogólne
+## 088 Leczenie przewlekłej choroby nerek- zasady ogólne
 
 
 
 &nbsp;
 
-### 089 Wskazania do leczenia nerkozastępczego
+## 089 Wskazania do leczenia nerkozastępczego
 
 
 
 &nbsp;
 
-### 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
+## 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
 
 
 
 &nbsp;
 
-### 091 Przyczyny wtórnych kłębuszkowych zapaleń nerek
+## 091 Przyczyny wtórnych kłębuszkowych zapaleń nerek
 
 
 
 &nbsp;
 
-### 092 Postępowanie w zakażeniu układu moczowego
+## 092 Postępowanie w zakażeniu układu moczowego
 
 
 
 &nbsp;
 
-### 093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie
+## 093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie
 
 
 
 &nbsp;
 
-### 094 Diagnostyka różnicowa białkomoczu
+## 094 Diagnostyka różnicowa białkomoczu
 
 
 
 &nbsp;
 
-### 095 Diagnostyka różnicowa krwinkomoczu
+## 095 Diagnostyka różnicowa krwinkomoczu
 
 
 
 &nbsp;
 
-### 096 Wskazania i przeciwwskazania do biopsji nerki
+## 096 Wskazania i przeciwwskazania do biopsji nerki
 
 
 
 &nbsp;
 
-### 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
+## 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
 
 
 
 &nbsp;
 
-### 099 Objawy niedoboru witaminy B12 i B9
+## 099 Objawy niedoboru witaminy B12 i B9
 
 
 
 &nbsp;
 
-### 102 Przyczyny małopłytkowości
+## 102 Przyczyny małopłytkowości
 
 
 
 &nbsp;
 
-### 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
+## 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
 
 
 
 &nbsp;
 
-### 106 Nabyte skazy krwotoczne
+## 106 Nabyte skazy krwotoczne
 
 
 
 &nbsp;
 
-### 107 Objawy trombofilii
+## 107 Objawy trombofilii
 
 
 
 &nbsp;
 
-### 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
+## 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
 
 
 
 &nbsp;
 
-### 110 Rozpoznanie tocznia rumieniowatego układowego
+## 110 Rozpoznanie tocznia rumieniowatego układowego
 
 
 
 &nbsp;
 
-### 111 Narządowe objawy tocznia rumieniowatego układowego
+## 111 Narządowe objawy tocznia rumieniowatego układowego
 
 
 
 &nbsp;
 
-### 112 Objawy zapaleń dużych naczyń
+## 112 Objawy zapaleń dużych naczyń
 
 
 
 &nbsp;
 
-### 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
+## 113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa
 
 
 
 &nbsp;
 
-### 115 Czynniki ryzyka rozwoju osteoporozy
+## 115 Czynniki ryzyka rozwoju osteoporozy
 
 
 
 &nbsp;
 
-### 116 Profilaktyka powikłań osteoporozy
+## 116 Profilaktyka powikłań osteoporozy
 
 
 
 &nbsp;
 
-### 117 Rak nerki – objawy, rozpoznanie, postępowanie
+## 117 Rak nerki – objawy, rozpoznanie, postępowanie
 
 
 
