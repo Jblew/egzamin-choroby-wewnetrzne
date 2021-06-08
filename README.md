@@ -1288,6 +1288,38 @@ Najważniejsze powikłanie: udar mózgu
 
 &nbsp;
 
+### 013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu
+
+**Definicja:** 
+
+1. Przejściowa utrata przytomności
+2. Ze spadkiem napięcia mięśniowego
+3. Spowodowana spadkiem perfuzji mózgu (o ok 20%)
+4. Zwykle trwa 6-8s.
+
+**Epidemiologia:** 
+
+**Patofizjologia:** 
+
+1. Wazowagalne (75% u dzieci)
+2. Kardiogenne — bez objawów zwiastunowych, zagrażające życiu, spowodowane wysiłkiem lub na podłożu wad
+
+**Przebieg:** 
+
+**Obraz kliniczny:** 
+
+**Diagnostyka:** 
+
+**Rozpoznanie:** 
+
+**Leczenie:** 
+
+**Rokowanie:**
+
+
+
+&nbsp;
+
 ### 015 Rozpoznanie niewydolności serca
 
 **Definicja wg Interny Szczeklika:** Stan, w którym w wyniku zaburzenia czynności serca dochodzi do zmniejszenia pojemności minutowej serca w stosunku do zapotrzebowania metabolicznego tkanek ustroju bądź właściwa pojemność minutowa jest utrzymywana dzięki podwyższeniu ciśnienia napełniania, co powoduje objawy kliniczne.
@@ -1681,12 +1713,6 @@ Objawy hiperkalcemii:
 &nbsp;
 
 ## 007 Prewencja pierwotna miażdżycy
-
-
-
-&nbsp;
-
-## 013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu
 
 
 
