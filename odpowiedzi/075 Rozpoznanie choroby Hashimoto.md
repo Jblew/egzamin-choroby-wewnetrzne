@@ -14,6 +14,7 @@
 
 1. Dwa przebiegi: hypothyreoza + wole LUB hypothyreoza + zanik gruczołu.
 2. Niedoczynność tarczycy: [073 Przyczyny niedoczynności tarczycy](./odpowiedzi/073%20Przyczyny%20niedoczynności%20tarczycy.md)
+3. Hashitoxicosis — przejściowa hipertyreoza w wyniku niszczenia tarczycy przez limfocyty.
 
 **Diagnostyka:** 
 
