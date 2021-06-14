@@ -4,6 +4,8 @@
 
 **Objawy, prezentacja kliniczna, profilaktyka przeciwzakrzepowa** w [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./012%20Zasady%20profilaktyki%20powikłań%20zatorowo-zakrzepowych%20u%20pacjenta%20z%20migotaniem%20przedsionków.md)
 
+W ostrym stanie pacjent wybiera czy chce kardiowersję elektryczną czy farmakologiczną.
+
 **Kontrola rytmu komór w fazie ostrej:**
 
 1. Kontrola rytmu komór jest często wystarczającym leczeniem do poprawy stanu klinicznego u pacjentów z AF.
@@ -30,12 +32,10 @@
 Kardiowersja farmakologiczna:
 
 1. Propafenon, flekainid — tylko u pacjentów bez strukturalnej choroby serca
-2. Ibutylid (gdy propafenon i flekainid są przeciwwskazane). Może wyindukować jatrogenne torsade des pointes. Dlatego nie można stosować u pacjentów z wydłużonym QT.
-3. Wernakalant — u pacjentów z ChNS i łagodną niewydolnością serca (NYHA I, II)
 4. Amiodaron — u pacjentów z ciężką niewydolnością serca, ChNS, istotną stenozą aortalną.
 5. Tabletka podręczna (pill in the pocket) — kardiowersja farmakologiczna przeprowadzana przez pacjenta. Stosuje się u pacjentów, u których AF jest objawowa ale napady występują rzadko.  Należy przetestować tą terapię wcześniej w szpitalu. 500mg propafenonu lub 200mg flekainidu.
 
-Przewlekła kontrola rytmu zatokowego:
+**Przewlekła kontrola rytmu zatokowego:**
 
 1. Amiodaron jest najskuteczniejszy ale ma dużo DzN. Stosuje się go przy niewydolności serca.
 2. Dronedaron zapobiega hospitalizacjom i zmniejsza śmiertelność u pacjentów z chorobami s-n. Natomiast zwiększa śmiertelność w NS i u chorych, u których nie uydało się przywrócić rytmu zatokowego — przed włączeniem leczenia należy pacjenta umiarowić kardiowersją elekryczną. Stosowany w ChNS, przeroście lewej komory, wadach zastawkowych serca oraz u chorych bez istotnych zab. strukturalnych serca.

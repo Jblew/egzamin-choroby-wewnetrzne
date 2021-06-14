@@ -8,6 +8,8 @@ Składniki SPC: ACEI/ARB ; tiazyd ; CCA
 
 SPC trójskładnikowe: wszystie powyższe.
 
+
+
 **Pacjenci <65rż:**
 
 - Jeśli NT 1st i osoby mają mało cz ryzyka s-n (czyli są też młode), to można rozważyć monoterapię
@@ -33,7 +35,7 @@ SPC trójskładnikowe: wszystie powyższe.
   - Wywiad: upadki, omdlenia, zawroty głowy, zasłabnięcia
 - Algorytm NT 1st:
   - Monoterapia tiazyd / CCA lub SPC ACEI/ARB+CCA / ACEI/ARB+tiazyd w dawkach subpodstawowych
-  - SPC dwuskładnikowe jw pełne dawki
+  - SPC dwuskładnikowe jw podstawowe dawki
   - SPC trójskładnikowe podstawowe dawki
 - Algorytm NT 2+st
   - SPC dowolna kombinacja 2 z: CCA, ACEI/ARB, tiazyd, dawki podstawowe
@@ -56,11 +58,15 @@ SPC trójskładnikowe: wszystie powyższe.
   - jw dawki pełne
   - SPC trójskładnikowe (w tym indapamid i ACEI nie ARB) w dawce pełnej
 
+
+
 **Monoterapia:**
 
 - u młodych osób z niskim ryzykiem s-n i NT1st: B-blokery wazodylatacyjne/kardioselektywne
 - podeszły wiek >65rż NT1st
 - NT2st >80rż: indapamid
+
+
 
 **Schematy specyficzne:** (odstępy między stopniami 2-4tygodnie i jeśli brak kontroli to kolejny stopień)
 
@@ -75,6 +81,8 @@ SPC trójskładnikowe: wszystie powyższe.
 - Metaboliczny (cukrzyca, z. metaboliczny):
   - ACEI + CCA
   - dalej jak w naczyniowym
+
+
 
 **Izolowane NT skurczowe:** preferowane są tiazydy i CCA. ACEI/ARB dopiero w 2 rzucie.
 

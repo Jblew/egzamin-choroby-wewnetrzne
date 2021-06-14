@@ -46,6 +46,14 @@
 7. ZP niskiego i pośredniego niskiego ryzyka leczymy przeciwkrzepliwie. ZP niskiego ryzyka możemy wcześniej wypisać do domu.
 8. ZP pośredniego wysokiego ryzyka leczymy p/krzepliwie (ew rozważamy wszczepienie filtru). Monitorujemy w szpitalu. Ew rozważamy leczenie reperfuzyjne.
 
+Dawka HNF 80j/kg
+
+
+
+TODO:
+
+- Znać skale Genewską, PESI, sPESI, Wellsa — brak znajomości to błąd kardynalny
+
 
 
 ## Brudnopis

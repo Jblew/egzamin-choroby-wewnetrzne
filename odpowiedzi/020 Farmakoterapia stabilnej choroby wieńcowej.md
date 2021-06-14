@@ -59,7 +59,7 @@ Rodzaje:
 
 **Leczenie przeciwdławicowe:**
 
-- 1rzut: krótko działający azotan (doraźnie) + B-bliker i/lub CCA
+- 1rzut: krótko działający azotan (doraźnie) + B-bloker i/lub CCA
 - 2rzut: długo działający azotan, iwabradyna
 
 Azotany krótkodziałające:

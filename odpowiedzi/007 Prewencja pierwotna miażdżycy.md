@@ -38,7 +38,9 @@ Kategorie ryzyka:
 Skale:
 
 - Framingham — 10-letnie absolutne ryzyko incydentów s-n
-- Pol-SCORE: 10-letnie absolutne ryzyko chorób s-n zakończonych zgonem. SCORE można stosować tylko u osób <40rż bez chorób układu krążenia i cukrzycy. W SCORE bierze się pod uwagę cholesterol całkowity (nie LDL, skurczowe BP, palenie, wiek, płeć) 
+- Pol-SCORE: 10-letnie absolutne ryzyko chorób s-n zakończonych zgonem. SCORE można stosować tylko u osób >40rż bez chorób układu krążenia i cukrzycy. W SCORE bierze się pod uwagę cholesterol całkowity (nie LDL, skurczowe BP, palenie, wiek, płeć) 
+
+
 
 
 

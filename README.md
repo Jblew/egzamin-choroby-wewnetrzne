@@ -107,6 +107,8 @@ Składniki SPC: ACEI/ARB ; tiazyd ; CCA
 
 SPC trójskładnikowe: wszystie powyższe.
 
+
+
 **Pacjenci <65rż:**
 
 - Jeśli NT 1st i osoby mają mało cz ryzyka s-n (czyli są też młode), to można rozważyć monoterapię
@@ -132,7 +134,7 @@ SPC trójskładnikowe: wszystie powyższe.
   - Wywiad: upadki, omdlenia, zawroty głowy, zasłabnięcia
 - Algorytm NT 1st:
   - Monoterapia tiazyd / CCA lub SPC ACEI/ARB+CCA / ACEI/ARB+tiazyd w dawkach subpodstawowych
-  - SPC dwuskładnikowe jw pełne dawki
+  - SPC dwuskładnikowe jw podstawowe dawki
   - SPC trójskładnikowe podstawowe dawki
 - Algorytm NT 2+st
   - SPC dowolna kombinacja 2 z: CCA, ACEI/ARB, tiazyd, dawki podstawowe
@@ -155,11 +157,15 @@ SPC trójskładnikowe: wszystie powyższe.
   - jw dawki pełne
   - SPC trójskładnikowe (w tym indapamid i ACEI nie ARB) w dawce pełnej
 
+
+
 **Monoterapia:**
 
 - u młodych osób z niskim ryzykiem s-n i NT1st: B-blokery wazodylatacyjne/kardioselektywne
 - podeszły wiek >65rż NT1st
 - NT2st >80rż: indapamid
+
+
 
 **Schematy specyficzne:** (odstępy między stopniami 2-4tygodnie i jeśli brak kontroli to kolejny stopień)
 
@@ -174,6 +180,8 @@ SPC trójskładnikowe: wszystie powyższe.
 - Metaboliczny (cukrzyca, z. metaboliczny):
   - ACEI + CCA
   - dalej jak w naczyniowym
+
+
 
 **Izolowane NT skurczowe:** preferowane są tiazydy i CCA. ACEI/ARB dopiero w 2 rzucie.
 
@@ -360,7 +368,7 @@ Kategorie ryzyka:
 Skale:
 
 - Framingham — 10-letnie absolutne ryzyko incydentów s-n
-- Pol-SCORE: 10-letnie absolutne ryzyko chorób s-n zakończonych zgonem. SCORE można stosować tylko u osób <40rż bez chorób układu krążenia i cukrzycy. W SCORE bierze się pod uwagę cholesterol całkowity (nie LDL, skurczowe BP, palenie, wiek, płeć)
+- Pol-SCORE: 10-letnie absolutne ryzyko chorób s-n zakończonych zgonem. SCORE można stosować tylko u osób >40rż bez chorób układu krążenia i cukrzycy. W SCORE bierze się pod uwagę cholesterol całkowity (nie LDL, skurczowe BP, palenie, wiek, płeć)
 
 
 
@@ -412,6 +420,14 @@ Skale:
 7. ZP niskiego i pośredniego niskiego ryzyka leczymy przeciwkrzepliwie. ZP niskiego ryzyka możemy wcześniej wypisać do domu.
 8. ZP pośredniego wysokiego ryzyka leczymy p/krzepliwie (ew rozważamy wszczepienie filtru). Monitorujemy w szpitalu. Ew rozważamy leczenie reperfuzyjne.
 
+Dawka HNF 80j/kg
+
+
+
+TODO:
+
+- Znać skale Genewską, PESI, sPESI, Wellsa — brak znajomości to błąd kardynalny
+
 
 
 &nbsp;
@@ -419,6 +435,8 @@ Skale:
 ## 011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków
 
 **Objawy, prezentacja kliniczna, profilaktyka przeciwzakrzepowa** w [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./012%20Zasady%20profilaktyki%20powikłań%20zatorowo-zakrzepowych%20u%20pacjenta%20z%20migotaniem%20przedsionków.md)
+
+W ostrym stanie pacjent wybiera czy chce kardiowersję elektryczną czy farmakologiczną.
 
 **Kontrola rytmu komór w fazie ostrej:**
 
@@ -446,12 +464,10 @@ Skale:
 Kardiowersja farmakologiczna:
 
 1. Propafenon, flekainid — tylko u pacjentów bez strukturalnej choroby serca
-2. Ibutylid (gdy propafenon i flekainid są przeciwwskazane). Może wyindukować jatrogenne torsade des pointes. Dlatego nie można stosować u pacjentów z wydłużonym QT.
-3. Wernakalant — u pacjentów z ChNS i łagodną niewydolnością serca (NYHA I, II)
 4. Amiodaron — u pacjentów z ciężką niewydolnością serca, ChNS, istotną stenozą aortalną.
 5. Tabletka podręczna (pill in the pocket) — kardiowersja farmakologiczna przeprowadzana przez pacjenta. Stosuje się u pacjentów, u których AF jest objawowa ale napady występują rzadko.  Należy przetestować tą terapię wcześniej w szpitalu. 500mg propafenonu lub 200mg flekainidu.
 
-Przewlekła kontrola rytmu zatokowego:
+**Przewlekła kontrola rytmu zatokowego:**
 
 1. Amiodaron jest najskuteczniejszy ale ma dużo DzN. Stosuje się go przy niewydolności serca.
 2. Dronedaron zapobiega hospitalizacjom i zmniejsza śmiertelność u pacjentów z chorobami s-n. Natomiast zwiększa śmiertelność w NS i u chorych, u których nie uydało się przywrócić rytmu zatokowego — przed włączeniem leczenia należy pacjenta umiarowić kardiowersją elekryczną. Stosowany w ChNS, przeroście lewej komory, wadach zastawkowych serca oraz u chorych bez istotnych zab. strukturalnych serca.
@@ -530,6 +546,38 @@ Zwężenie...
 1. nieistotne (bez objawów): średnica do 50%, pole do 75%
 2. istotne (objawy w wysiłku): średnica do 80%, pole do 90%
 3. krytyczne (objawy w spoczynku): powyżej ww wartości
+
+
+
+&nbsp;
+
+## 015 Rozpoznanie niewydolności serca
+
+**Definicja wg Interny Szczeklika:** Stan, w którym w wyniku zaburzenia czynności serca dochodzi do zmniejszenia pojemności minutowej serca w stosunku do zapotrzebowania metabolicznego tkanek ustroju bądź właściwa pojemność minutowa jest utrzymywana dzięki podwyższeniu ciśnienia napełniania, co powoduje objawy kliniczne.
+
+- NS musi być klinicznie jawna. W innym przypadku: bezobjawowa skurczowa/rozkurczowa dysfunkcja lewej komory.
+
+**Definicja wg WNL?:** 
+
+- NS to nie choroba ale zespół typowych objawów przedmiotowych i odchyleń w badaniu przedmiotowym. 
+- Objawy to (3) duszność, obrzęki KD i obniżona tolerancji wysiłku. 
+- Odchylenia w bad. przedmiotowym to (3) poszerzenie żył szyjnych, trzeszczenia nad płucami i obrzęki obwodowe.
+- Zaburzenia te są spowodowane nieprawidłowościami w budowie serca i/lub nieprawidłową czynnością serca.
+- Mechanizm obejmuje spadek rzutu serca i/lub wzrost ciśnienia wewnątrzsercowego.
+
+**Epidemiologia:** 
+
+**Patofizjologia:** 
+
+**Obraz kliniczny:** [025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory](./odpowiedzi/025%20Obraz%20kliniczny%20niewydolności%20serca%20z%20zachowaną%20frakcją%20wyrzutową%20lewej%20komory.md)
+
+**Diagnostyka:** 
+
+**Rozpoznanie:** 
+
+**Leczenie:** 
+
+**Rokowanie:**
 
 
 
@@ -631,7 +679,7 @@ Rodzaje:
 
 **Leczenie przeciwdławicowe:**
 
-- 1rzut: krótko działający azotan (doraźnie) + B-bliker i/lub CCA
+- 1rzut: krótko działający azotan (doraźnie) + B-bloker i/lub CCA
 - 2rzut: długo działający azotan, iwabradyna
 
 Azotany krótkodziałające:
@@ -1949,28 +1997,6 @@ TODO rozwinąć
 
 ## WIP
 
-### 002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego
-
-
-
-&nbsp;
-
-### 003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego
-
-
-
-&nbsp;
-
-### 008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej
-
-...
-
-#### Brudnopis
-
-
-
-&nbsp;
-
 ### 009 Profilaktyka wtórna żylnej choroby zakrzepowo-zatorowej
 
 **Triada Virchowa:** = czynniki prowadzące do powstania zakrzepu
@@ -2036,6 +2062,12 @@ Jatrogenne:
 **Tromboliza:**
 
 ...TODO
+
+TODO: p/w do leczenia przeciwkrzepliwego
+
+Przeciwwskazania do trombolizy:
+
+![Screenshot 2021-06-14 at 17.07.17](009%20Profilaktyka%20wto%CC%81rna%20z%CC%87ylnej%20choroby%20zakrzepowo-zatorowej.assets/Screenshot%202021-06-14%20at%2017.07.17.png)
 
 
 
@@ -2107,38 +2139,6 @@ Najważniejsze powikłanie: udar mózgu
 **Przebieg:** 
 
 **Obraz kliniczny:** 
-
-**Diagnostyka:** 
-
-**Rozpoznanie:** 
-
-**Leczenie:** 
-
-**Rokowanie:**
-
-
-
-&nbsp;
-
-### 015 Rozpoznanie niewydolności serca
-
-**Definicja wg Interny Szczeklika:** Stan, w którym w wyniku zaburzenia czynności serca dochodzi do zmniejszenia pojemności minutowej serca w stosunku do zapotrzebowania metabolicznego tkanek ustroju bądź właściwa pojemność minutowa jest utrzymywana dzięki podwyższeniu ciśnienia napełniania, co powoduje objawy kliniczne.
-
-- NS musi być klinicznie jawna. W innym przypadku: bezobjawowa skurczowa/rozkurczowa dysfunkcja lewej komory.
-
-**Definicja wg WNL?:** 
-
-- NS to nie choroba ale zespół typowych objawów przedmiotowych i odchyleń w badaniu przedmiotowym. 
-- Objawy to (3) duszność, obrzęki KD i obniżona tolerancji wysiłku. 
-- Odchylenia w bad. przedmiotowym to (3) poszerzenie żył szyjnych, trzeszczenia nad płucami i obrzęki obwodowe.
-- Zaburzenia te są spowodowane nieprawidłowościami w budowie serca i/lub nieprawidłową czynnością serca.
-- Mechanizm obejmuje spadek rzutu serca i/lub wzrost ciśnienia wewnątrzsercowego.
-
-**Epidemiologia:** 
-
-**Patofizjologia:** 
-
-**Obraz kliniczny:** [025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory](./odpowiedzi/025%20Obraz%20kliniczny%20niewydolności%20serca%20z%20zachowaną%20frakcją%20wyrzutową%20lewej%20komory.md)
 
 **Diagnostyka:** 
 
@@ -2267,11 +2267,61 @@ Patofizjo: spowodowane wzrostem afterload
 
 **Rokowanie:**
 
+#### 021 Uniwersalna definicja zawału serca
+
+Ostry zawał = ostre uszkodzenie miokardium + ostre niedokrwienie m. sercowego
+
+Cechy uszkodzenia miokardium:
+
+- Wzrost cTn z  ≥ 1 wartością  powyżej 99 percentyla GGN
+- Ostre: gdy wzrost lub spadek cTN ; przewlekłe: gdy utrzymują się na stałym poziomie
+
+Cechy niedokrwienia:
+
+- Objawy
+- Nowe niedokrwienne zmiany w EKG
+- Patologiczny załamek Q w EKG
+- Nowy ubytek w badaniach obrazowych odpowiadający niedokrwieniu
+- Wykrycie skrzepliny w tętnicy wieńcowej podczas koronarografii lub badania sekcyjnego.
+
+
+
+... TODO: typy zawału (Kardiologia 2, slajd 50)
+
+... TODO: kryteria przebytego zawału
+
+
+
+**Klasyfikacja:**
+
+Postacie kliniczne: UA, NSTEMI, STEMI ew podzial na STE-ACS i NSTE-ACS (w tym UA i NSTEMI)
+
+STEMI = uniesienie ST (lub ST trudne do oceny) + cechy ostrego uszkodzenia miokardium
+
+NSTE-ACS = brak uniesienia ST
+
+NSTEMI = brak uniesienia ST + cechy ostrego uszkodzenia miokardium
+
+UA = brak uniesienia ST i brak cech ostrego uszkodzenia miokahdium
+
+
+
+**EKG lokalizacja:**
+
+- V1-V4 - ściana przednia,
+- II, III, aVF - ściana dolna,
+- I, aVL, V5, V6 - ściana boczna i koniuszek,
+- Vr3, Vr4 - ściana prawej komory. 
+
+
+
+... TODO EKG w OZW (Kardiologia 2, slajd 105)
+
 
 
 &nbsp;
 
-### 039 Obraz kliniczny i leczenie odmy opłucnowej
+#### 039 Obraz kliniczny i leczenie odmy opłucnowej
 
 **Definicja:** Odma opłucnowa to powietrze w opłucnej.
 
@@ -2336,7 +2386,7 @@ Zalecenia po odmie:
 
 &nbsp;
 
-### 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
+#### 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
 
 **Definicja:** Objawy ostrego zakażenia DDO + zacienienie w RTG KLP, którego nie można wytłumaczyć w inny sposób (np obrzękiem płuc)
 
@@ -2395,7 +2445,7 @@ Etiologia:
 
 &nbsp;
 
-### 077 Objawy pierwotnej nadczynności przytarczyc
+#### 077 Objawy pierwotnej nadczynności przytarczyc
 
 **Definicja:** 
 
@@ -2438,7 +2488,7 @@ Objawy hiperkalcemii:
 
 &nbsp;
 
-### 083 Ostre powikłania cukrzycy
+#### 083 Ostre powikłania cukrzycy
 
 - Hipoglikemia ...TODO — najczęstsze
 - Hiperglikemiczne 
@@ -2450,7 +2500,7 @@ Objawy hiperkalcemii:
 
 &nbsp;
 
-### 097 Kamica nerkowa: diagnostyka i leczenie
+#### 097 Kamica nerkowa: diagnostyka i leczenie
 
 **Definicja:** Obecność złogów w drogach moczowych powstałych na skutek wytrącania.
 
@@ -2500,13 +2550,25 @@ Objawy hiperkalcemii:
 
 **Leczenie:** ...TODO
 
-#### Pytania jeszcze bez odpowiedzi
+##### Pytania jeszcze bez odpowiedzi
 
 
 
 &nbsp;
 
-### 021 Uniwersalna definicja zawału serca
+### 002 Zastosowanie pomiarów pozagabinetowych ciśnienia tętniczego
+
+#### 003 Wskazania do diagnostyki w kierunku wtórnych postaci nadciśnienia tętniczego
+
+
+
+&nbsp;
+
+#### 008 Skale ryzyka występowania żylnej choroby zakrzepowo-zatorowej
+
+...
+
+##### Brudnopis
 
 
 
@@ -2537,6 +2599,12 @@ Objawy hiperkalcemii:
 &nbsp;
 
 ### 026 Skale oceny ryzyka powikłań migotania przedsionków
+
+HAS-BLED = ryzyko powikłań krwotocznych
+
+CHA2DS2-VASc = ryzyko powikłań zakrzepowo-zatorowych
+
+EHRA — skala objawów klinicznych migotania przedsionków
 
 
 
@@ -2926,13 +2994,13 @@ Objawy hiperkalcemii:
 
 &nbsp;
 
-### TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia
+### TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
 
 
 
 &nbsp;
 
-### TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ
+### TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
 
 
 

@@ -2,6 +2,11 @@
 
 ## Final
 
-## Brudnopis
+HAS-BLED = ryzyko powikłań krwotocznych
 
+CHA2DS2-VASc = ryzyko powikłań zakrzepowo-zatorowych
+
+EHRA — skala objawów klinicznych migotania przedsionków
+
+## Brudnopis
 
