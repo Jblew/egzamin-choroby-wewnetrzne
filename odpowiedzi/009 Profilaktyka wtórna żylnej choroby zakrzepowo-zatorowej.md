@@ -8,6 +8,8 @@
 2. Nadmierna krzepliwość
 3. Uszkodzenie ściany naczyniowej
 
+
+
 **Czynniki ryzyka ŻChZZ:** 
 
 Osobnicze:
@@ -58,15 +60,26 @@ Jatrogenne:
    2. gdy leczenie p/krzepliwe jest p/wskazane
    3. gdy leczenie p/krzepliwe jest nieskuteczne (powiększanie zakrzepu, nawrót ZP, etc)
 
+
+
 **Profilaktyka przeciwkrzepliwa:**
 
-...TODO
+(wszystkie schematy 3mc z możliwością przedłużenia, oprócz ciąży, tam 3-6mc) (z WNL)
+
+![Screenshot 2021-06-15 at 18.13.11](009%20Profilaktyka%20wto%CC%81rna%20z%CC%87ylnej%20choroby%20zakrzepowo-zatorowej.assets/Screenshot%202021-06-15%20at%2018.13.11-3773599.png)
+
+
+
+
 
 **Tromboliza:**
 
-...TODO
+- Stosuje się miejscową trombolizę (ogólnoustrojową bardzo rzadko)
+- Wskazania:
+  - z rozległą wczesną (< 14 dni) ZŻG **biodrowo-udową** z dużym obrzękiem i bolesnością kończyny, w dobrym ogólnym stanie zdrowia, ze spodziewanym przeżyciem ≥ 1 rok,
+  - z wczesną (< 14 dni) lub zagrażającą utratą kończyny ZŻG **kończyny górnej**.
 
-TODO: p/w do leczenia przeciwkrzepliwego
+
 
 Przeciwwskazania do trombolizy:
 
