@@ -60,6 +60,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           9. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077%20Objawy%20pierwotnej%20nadczynności%20przytarczyc.md)
           10. [083 Ostre powikłania cukrzycy](./odpowiedzi/083%20Ostre%20powikłania%20cukrzycy.md)
           11. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
+          12. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
    44. Pytania jeszcze bez odpowiedzi
 
        1. [022 Postępowanie w ostrych zespole wieńcowym](./odpowiedzi/022%20Postępowanie%20w%20ostrych%20zespole%20wieńcowym.md)
@@ -118,15 +119,14 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        54. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
        55. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
        56. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
-       57. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
-       58. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
-       59. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
-       60. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
-       61. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
-       62. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
-       63. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
-       64. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
-       65. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
-       66. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
-       67. TODO: EKG
-       68. TODO: kluczowe badania poziomy (morfologia, biochemia)
+       57. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
+       58. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
+       59. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
+       60. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
+       61. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
+       62. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
+       63. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
+       64. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
+       65. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
+       66. TODO: EKG
+       67. TODO: kluczowe badania poziomy (morfologia, biochemia)

@@ -79,6 +79,7 @@ Okresy:
     - Skaza krwotoczna
     - Mocznicowe zap. osierdzia
   - Niepilne — ?
+  - ... [089 Wskazania do leczenia nerkozastępczego](./odpowiedzi/089%20Wskazania%20do%20leczenia%20nerkozastępczego.md)
 
 
 
