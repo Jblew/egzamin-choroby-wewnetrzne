@@ -42,11 +42,12 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 34. [082 Kryteria wyrównania cukrzycy](./odpowiedzi/082%20Kryteria%20wyrównania%20cukrzycy.md)
 35. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100%20Objawy%20ostrej%20białaczki%20szpikowej.md)
 36. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101%20Zespoły%20mielodysplastyczne%20-%20objawy.md)
-37. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103%20Postępowanie%20w%20przewlekłej%20białaczce%20limfocytowej.md)
-38. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104%20Szpiczak%20mnogi%20–%20objawy,%20rozpoznawanie,%20postępowanie.md)
-39. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108%20Rozpoznanie%20reumatoidalnego%20zapalenia%20stawów.md)
-40. [114 Objawy napadu dny](./odpowiedzi/114%20Objawy%20napadu%20dny.md)
-41. WIP
+37. [102 Przyczyny małopłytkowości](./odpowiedzi/102%20Przyczyny%20małopłytkowości.md)
+38. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103%20Postępowanie%20w%20przewlekłej%20białaczce%20limfocytowej.md)
+39. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104%20Szpiczak%20mnogi%20–%20objawy,%20rozpoznawanie,%20postępowanie.md)
+40. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108%20Rozpoznanie%20reumatoidalnego%20zapalenia%20stawów.md)
+41. [114 Objawy napadu dny](./odpowiedzi/114%20Objawy%20napadu%20dny.md)
+42. WIP
        5. [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./odpowiedzi/012%20Zasady%20profilaktyki%20powikłań%20zatorowo-zakrzepowych%20u%20pacjenta%20z%20migotaniem%20przedsionków.md)
        6. [013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu](./odpowiedzi/013%20Istotne%20elementy%20badania%20podmiotowego%20u%20pacjenta%20po%20przebytym%20omdleniu.md)
        8. [016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory](./odpowiedzi/016%20Podstawowy%20algorytm%20terapeutyczny%20niewydolności%20serca%20z%20upośledzona%20frakcją%20wyrzutową%20lewej%20komory.md)
@@ -58,7 +59,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           9. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077%20Objawy%20pierwotnej%20nadczynności%20przytarczyc.md)
           10. [083 Ostre powikłania cukrzycy](./odpowiedzi/083%20Ostre%20powikłania%20cukrzycy.md)
           11. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
-   42. Pytania jeszcze bez odpowiedzi
+   43. Pytania jeszcze bez odpowiedzi
 
        1. [022 Postępowanie w ostrych zespole wieńcowym](./odpowiedzi/022%20Postępowanie%20w%20ostrych%20zespole%20wieńcowym.md)
        2. [023 Powikłania zawału serca](./odpowiedzi/023%20Powikłania%20zawału%20serca.md)
@@ -114,19 +115,18 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        52. [096 Wskazania i przeciwwskazania do biopsji nerki](./odpowiedzi/096%20Wskazania%20i%20przeciwwskazania%20do%20biopsji%20nerki.md)
        53. [098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza](./odpowiedzi/098%20Różnicowanie%20niedokrwistość%20chorób%20przewlekłych%20i%20niedoboru%20żelaza.md)
        54. [099 Objawy niedoboru witaminy B12 i B9](./odpowiedzi/099%20Objawy%20niedoboru%20witaminy%20B12%20i%20B9.md)
-       55. [102 Przyczyny małopłytkowości](./odpowiedzi/102%20Przyczyny%20małopłytkowości.md)
-       56. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
-       57. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
-       58. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
-       59. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
-       60. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
-       61. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
-       62. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
-       63. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
-       64. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
-       65. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
-       66. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
-       67. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
-       68. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
-       69. TODO: EKG
-       70. TODO: kluczowe badania poziomy (morfologia, biochemia)
+       55. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
+       56. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
+       57. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
+       58. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
+       59. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
+       60. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
+       61. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
+       62. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
+       63. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
+       64. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
+       65. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
+       66. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
+       67. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
+       68. TODO: EKG
+       69. TODO: kluczowe badania poziomy (morfologia, biochemia)

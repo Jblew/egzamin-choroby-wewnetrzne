@@ -8,5 +8,7 @@ CHA2DS2-VASc = ryzyko powikłań zakrzepowo-zatorowych
 
 EHRA — skala objawów klinicznych migotania przedsionków
 
+
+
 ## Brudnopis
 
