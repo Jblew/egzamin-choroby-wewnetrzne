@@ -35,6 +35,13 @@ Kategorie ryzyka:
 
 
 
+Wg PTNT 2019 wyróżniamy jeszcze jedną kategorię ryzyka:
+
+- Ekstrymalnie wysokie (wg PTNT 2019): po wielokrotnych incydentach sercowo-naczyniowych i/lub rewaskularyzacjac, progresja choroby s-n o podłożu miażdżycowym pomimo LDL<55
+- Wtedy LDL powinno być <35
+
+
+
 Skale:
 
 - Framingham — 10-letnie absolutne ryzyko incydentów s-n
