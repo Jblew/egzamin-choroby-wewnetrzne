@@ -2,6 +2,27 @@
 
 ## Final
 
-## Brudnopis
+### Kwasica
 
+### Zasadowica
+
+### Hiperkaliemia
+
+### Hipokaliemia
+
+### Hipernatremia
+
+### Hiponatremia
+
+### Hiperkalcemia
+
+### Hipokalcemia
+
+### Hipomagnezemia
+
+### Hipermagnezemia
+
+
+
+## Brudnopis
 
