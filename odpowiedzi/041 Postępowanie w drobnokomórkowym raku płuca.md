@@ -33,6 +33,8 @@ Dodatkowo w DRP: MR bo często są przerzuty do OUN
 
 ...TODO sprawdzić podstawowe schematy lekowe
 
+ChTH = cisplatyna + etopozyd
+
 **Rokowanie:** 
 
 - 5 letnie przeżycia w ED ok 0% (przy leczeniu)

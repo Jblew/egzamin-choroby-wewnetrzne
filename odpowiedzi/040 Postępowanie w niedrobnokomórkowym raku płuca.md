@@ -5,7 +5,7 @@
 **Definicja:** Rak płuca, najczęstsze podtypy: 
 
 - Gruczolakorak 40%, kobiety, mniej zależny od tytoniu, położony obwodowo w drobnych drogach oddechowych
-- Płaskonabłonkowy 30%, mężczyźnim, zależny od tytoniu, najcz. guz przywnękowy zwężający oskrzela. Rośnie wolno
+- Płaskonabłonkowy 30%, mężczyźni, zależny od tytoniu, najcz. guz przywnękowy zwężający oskrzela. Rośnie wolno
 - Wielkokomórkowy 10% duże i średnie oskrzela. Czasem może być neuroendokrynny.
 
 **Epidemiologia:** razem raki NDRP stanowią ok 80% nowotworów płuc.

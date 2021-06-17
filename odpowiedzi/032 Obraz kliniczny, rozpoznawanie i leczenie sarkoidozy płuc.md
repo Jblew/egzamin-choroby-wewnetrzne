@@ -27,7 +27,7 @@
 
 **Diagnostyka:**
 
-- Hiperkalcemia i hiperkalciuria
+- Hiperkalcemia i hiperkalciuria (ziarniniaki wydzielają wit D)
 - Hipergammaglobulinemia
 - Wzrost akt. enzymu ACE
 - Niewielka niedokrwistość
@@ -38,7 +38,7 @@
   - III = zmiany śródmiąższowe bez powiększenia węzłów wnękowych = włóknienie
   - IV = plaster miodu
 - Dodatni IGRA
-- U 80% pacjentów w PMR limfocytoza
+- U 80% pacjentów w PMR limfocytoza (CD4/CD8 > 3,5)
 - TLCO: spadek
 - Spirometria: duża restrykcja, TLC poniżej 5 centyla
 - TKWR: zmiany siateczkowate i drobnoguzkowe okołooskrzelowo i okołonaczyniowo
