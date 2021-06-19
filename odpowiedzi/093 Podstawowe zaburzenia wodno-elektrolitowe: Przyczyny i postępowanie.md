@@ -60,17 +60,52 @@
 
 ### Hipokaliemia
 
-**Definicja:** <3.5
-
-**Podział:**
+**Definicja:** łagodna <3.5; Ciężka <2.5
 
 **Przyczyny:**
 
+1. Leki (najczęściej)
+   1. Diuretyki: tiazydy i pętlowe
+   2. GKS, MKS
+   3. Leki przeczyszczające
+   4. Insulina
+   5. Beta2-mimetyki
+2. Zasadowica
+3. Biegunka, wymioty
+4. Inne:
+   1. Gwałtowna proliferacja kom. — ostre białaczki
+   2. Hiperaldosteronizm
+   3. Z. Cushinga
+   4. beta2: przełom tyreotoksyczny
+   5. Operzenia
+   6. Dializa
+   7. Hipomagnezemia
+   8. Ch. kanalików nerkowych
+   9. Niedostateczna podaż
+5. Rzekoma:
+   1. Pobranie krwi po podaniu insuliny
+   2. WBC>100G i nieodwirowanie
+   3. Długie przechowywanie krwi >25C
+
 **Obraz kliniczny:**
+
+1. Serce: TdP
+2. Osłabienie mm. gładkich
+   1. Niedrożność porażenna
+   2. Zatrzymanie moczu
+3. Mm. szkieletowe: rabdomioliza, kurcze KD
+4. UN: parestezje, nadpobudliwość->apatia
 
 **EKG:**
 
 **Leczenie:**
+
+1. Dawkę KCl dobiera się wg stopnia hipokaliemii, EKG i obrazu klinicznego
+2. Jeśli mniejsza to KCl po 
+3. Jeśli ciężka to KCl iv + 10% GLU + insulina wlew
+4. Maksymalne tempo: K+ 20 mol/h. 
+5. Ratunkowa podaż: K+ 20 mol w 10 min potem 10 mol w 10 min.
+6. Hipomagnezemia może powodować, że hipokaliemia jest oporna na leczenie
 
 
 
