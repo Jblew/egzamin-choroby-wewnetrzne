@@ -319,18 +319,30 @@
 
 **Definicja:** >1.1 (ale leczymy >1.75)
 
-**Podział:**
-
 **Przyczyny:**
 
+1. NN
+2. Jatrogenna (m.in. leczenie litem)
+
 **Obraz kliniczny:**
+
+1. Splątanie
+2. Spadek siły mm
+3. Osłabienie odruchów ścięgnistych
+4. Depresja oddechowa
+5. Hipotensja
+6. NZK
+7. Zaparcie
+8. Zatrzymanie moczu
 
 **EKG:**
 
 **Leczenie:**
 
-1. Kardioprotekcja: 10ml 10% CaCl2 (stabilizuje błonę kardiomiocytu)
-2. Forsowna diureza
+1. leczymy >1.75
+2. Kardioprotekcja: 10ml 10% CaCl2 (stabilizuje błonę kardiomiocytu)
+3. Forsowna diureza
+4. ew wspomaganie oddechu
 
 
 
