@@ -212,25 +212,30 @@
 
 **Definicja:** >2.75
 
-**Podział:**
-
 **Przyczyny:**
 
-1. Pierwotna nadczynność nadnerczy
+1. Nadczynność przytarczyc
+2. NEO
+3. Leki: tiazydy
+4. Zatrucie wit D: sarkoidoza, przedawkowanie suplementów
+5. Unieruchomienie
 
 **Obraz kliniczny:**
 
-1. W nadczynności przytarczyc:
-   1. Stones — kamienie nerkowe, frokalcynoza
-   2. Bones — bóle kostne
-   3. Thrones — poliuria, 
-   4. Abdominal groans
-   5. Psychiatric overtones
-2. 
+1. Stones — kamienie nerkowe, nefrokalcynoza
+2. Bones — bóle kostne i nadżerki (jeśli nadczynność przytarczyc)
+3. Thrones — poliuria, polidypsja
+4. Abdominal groans — ból brzucha, zaparcie
+5. Psychiatric overtones — senność, śpiączka, depresja
+6. Hipotonia
 
 **EKG:**
 
 **Leczenie:**
+
+1. Forsowna diureza: 1mg/kg furosemidu + 200mmol/h 0,9% NaCl
+2. 200mg hydrokortyzonu iv
+3. 30-90mg pamidronianu iv (bisfosfonian, hamuje akt osteoklastów)
 
 
 
