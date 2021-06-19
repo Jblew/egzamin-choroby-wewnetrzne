@@ -286,17 +286,32 @@
 
 **Definicja:** <0.6
 
-**Podział:**
-
 **Przyczyny:**
+
+1. Utrata w PP
+2. Poliuria
+3. Niedożywienie
+4. Alkoholizm
 
 **Obraz kliniczny:**
 
-1. Może być powodem hipokalcemii i hipokaliemii opornych na leczenie. Należy wtedy również wyrównać poziom magnezu!
+1. Tężyczka
+2. Zab. rytmu
+3. Drgawki
+4. Drżenie
+5. Ataksja, oczopląs
+6. NZK
+7. Może być powodem hipokalcemii i hipokaliemii opornych na leczenie. Należy wtedy również wyrównać poziom magnezu!
 
 **EKG:**
 
 **Leczenie:**
+
+1. Ciężka lub objawowa: 2g 50% MgSO4 iv 15 min (w leczeniu TdP w 1-2 min)
+2. Można powtarzać, przed każdym podaniem należy kontrolować:
+   1. Odruch kolanowy
+   2. RR
+   3. diurezę
 
 
 
