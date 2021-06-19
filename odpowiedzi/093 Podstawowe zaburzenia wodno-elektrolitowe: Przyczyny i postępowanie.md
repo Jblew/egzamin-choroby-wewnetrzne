@@ -2,12 +2,6 @@
 
 ## Final
 
-### Kwasica
-
-### Zasadowica
-
-
-
 ### Hiperkaliemia
 
 **Definicja:** 
@@ -18,14 +12,49 @@
 
 **Przyczyny:**
 
+1. Niewydolność nerek — najczęściej
+2. Leki
+   1. ACEI/ARB
+   2. Spironolakton
+   3. Suplementacja K+
+   4. NLPZ
+   5. Trimetoprim
+   6. B-blokery
+3. obniżenie GKS, MKS
+4. Kwasica metaboliczna
+5. Obniżenie insuliny
+6. Rabdomioliza
+7. Liza guza
+8. Hipertermia złośliwa
+9. Blokada rec. beta2
+10. Pobudz rec. alfa
+11. Sepsa
+12. Rzekoma:
+    1. Hemoliza w probówce
+    2. PLT>900G
+    3. LEU>70G
+    4. Zaciśnięcie ręki w pięść przy założonej stazie
+
 **Obraz kliniczny:**
+
+1. Nie ma związku między stopniem hiperkaliemii a obrazem klinicznym czy EKG
+2. Serce: VT, VF, asystolia 
+3. MM: spadek siły, osłabienie odruchów
+4. UN: apatia, splątanie, parestezje
 
 **EKG:**
 
 **Leczenie:**
 
 1. Kardioprotekcja: 10ml 10% CaCl2 (stabilizuje błonę kardiomiocytu)
-2. 
+2. Internalizacja K+
+   1. 25g GLU + 10j INSUshort
+   2. 10-20mg salbutamolu w nebulizacji
+   3. 50mmol NaHCO3 jeśli współistnieje kwasica
+3. Przyspieszenie eliminacji K+
+   1. 15-30g Calcium Rezonium po/pr
+   2. Forsowna diureza: 20-40mg furosemidu + 0,9%NaCl iv
+   3. ew Hemoliza gdy ciężkie, oporne
 
 
 
@@ -49,15 +78,31 @@
 
 **Definicja:** >145
 
-**Podział:**
-
 **Przyczyny:**
 
+1. Utrata czystej wody
+   1. Gorączka
+   2. Wzmożony katabolizm
+2. Utrata płynów hipotonicznych
+   1. Poty
+   2. Wymioty
+   3. Utrata przez nerki
+3. Nadmierna podaż sodu
+   1. Picie wody morskiej (rozbitkowie)
+   2. Błąd dializy
+   3. Nadmierne leczenie NaHCO3
+
 **Obraz kliniczny:**
+
+?
 
 **EKG:**
 
 **Leczenie:**
+
+1. Podawanie płynów bez osmolitów
+2. Ostra: max 1mmol/l/h
+3. Przewlekła: max 0,5mmol/l/h
 
 
 
