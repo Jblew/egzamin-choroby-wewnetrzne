@@ -243,9 +243,18 @@
 
 **Definicja:** <2.25
 
-**Podział:**
-
 **Przyczyny:**
+
+1. NN
+2. OZT
+3. Niedoczynność przytarczyc
+4. Leki
+   1. Przedawkowanie CCA
+   2. Diuretyki pętlowe
+   3. Bisfosfoniany
+5. Liza guza
+6. Rambdomioliza
+7. Upośledzenie wchłaniania
 
 **Obraz kliniczny:**
 
@@ -267,6 +276,9 @@
 **EKG:**
 
 **Leczenie:**
+
+1. 10-40ml 10% CaCl2
+2. Może być oporna na wyrównanie jeśli jest hipomagnezemia.
 
 
 
