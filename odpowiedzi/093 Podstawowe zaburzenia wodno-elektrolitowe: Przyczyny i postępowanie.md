@@ -2,6 +2,22 @@
 
 ## Final
 
+Objawy wspólne:
+
+- Moczówka prosta w hiperkalcemii i hipokaliemii.
+
+
+
+EKG:
+
+- wydłużane PQ: wszystko oprócz hiperkalcemii
+
+![Screenshot 2021-06-21 at 13.23.19](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/Screenshot%202021-06-21%20at%2013.23.19-4274607.png)
+
+![Screenshot 2021-06-21 at 14.48.39](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/Screenshot%202021-06-21%20at%2014.48.39.png)
+
+
+
 ### Hiperkaliemia
 
 **Definicja:** 
@@ -38,11 +54,15 @@
 **Obraz kliniczny:**
 
 1. Nie ma związku między stopniem hiperkaliemii a obrazem klinicznym czy EKG
-2. Serce: VT, VF, asystolia 
+2. Serce: bradykardia, VT, VF, asystolia, kardioplegia
 3. MM: spadek siły, osłabienie odruchów
 4. UN: apatia, splątanie, parestezje
 
 **EKG:**
+
+1. krótkie QT
+2. spiczaste T
+3. poszerzony QRS (w obu zaburzeniach K+)
 
 **Leczenie:**
 
@@ -55,6 +75,10 @@
    1. 15-30g Calcium Rezonium po/pr
    2. Forsowna diureza: 20-40mg furosemidu + 0,9%NaCl iv
    3. ew Hemoliza gdy ciężkie, oporne
+
+![Screenshot 2021-06-21 at 13.36.10](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/Screenshot%202021-06-21%20at%2013.36.10-4275376.png)
+
+
 
 
 
@@ -95,8 +119,14 @@
    2. Zatrzymanie moczu
 3. Mm. szkieletowe: rabdomioliza, kurcze KD
 4. UN: parestezje, nadpobudliwość->apatia
+5. Moczówka prosta (bo uniewrażliwia na ADH)
 
 **EKG:**
+
+1. Szerokie QRS (jak w hiper)
+2. Wydłużenie QT
+3. Załamek U
+4. Spłaszczone T
 
 **Leczenie:**
 
@@ -106,6 +136,7 @@
 4. Maksymalne tempo: K+ 20 mol/h. 
 5. Ratunkowa podaż: K+ 20 mol w 10 min potem 10 mol w 10 min.
 6. Hipomagnezemia może powodować, że hipokaliemia jest oporna na leczenie
+7. (Obniżone steżenie potasu o 1 mmol to oznacza niedobór 200mmol)
 
 
 
@@ -129,15 +160,19 @@
 
 **Obraz kliniczny:**
 
-?
-
-**EKG:**
+1. Objawy odwodnienia
+2. Bóle głowy
+3. Osłabione łaknienie
+4. Nudności i wymioty
+5. Skąpomocz
+6. Zab. świadomości aż do śpiączki
 
 **Leczenie:**
 
-1. Podawanie płynów bez osmolitów
-2. Ostra: max 1mmol/l/h
-3. Przewlekła: max 0,5mmol/l/h
+1. (oceń wolemię: cechy odwodnienia i obrzęki)
+2. Podawanie płynów bez osmolitów
+3. Ostra: max 1mmol/l/h
+4. Przewlekła: max 0,5mmol/l/h
 
 
 
@@ -154,20 +189,25 @@
 - (rzekoma): błąd pomiaru spowodowany dużym stężeniem lipidów. 
 - hipotoniczna z hipowolemią — utrata Na i wody **z uzupełnieniem** płynem bezelektrolitowym
   - Biegunka, wymioty
+
   - Diuretyki (zwł. tiazydy)
+
+    ![thiazides-2](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/thiazides-2.png)
+
   - Pocenie się
+
   - Przechodzenie wody do przestrzeni trzeciej
 - hipotoniczna z izowolemią (utrata Na i wody bez uzupełnienia; najczęstsza postać)
-  - SIADH
+  - SIADH i mutacje rec V2 dla akwaporyny, które go aktywują (generalnie otwarcie akwaporyny powoduje, że woda ucieka do hipertonicznego rdzenia natomiast sód leci dalej do moczu)
   - niedobór GKS
-  - Polidypsja pierwotna
+  - Polidypsja pierwotna (bo dużo pije ale dużo sika => sikanie zabiera sód)
   - Ciężki wysiłek
 - hipotoniczna z hiperwolemią
   - "z rozcieńczenia" (spowodowana zastojem wody): PNS, marskość, wodobrzusze, obrzęki nerczycowe
   - upośledzenie wydalania wolnej wody: AKI, PChN
 - izotoniczna/hipertoniczna
   - PF: wzrost stężenia osmolitów -> ściąganie wody do naczyń -> Na+ jest rozcieńczone
-  - Najcz. ciężka hiperglikemia
+  - Najcz. ciężka hiperglikemia, (mannitol?)
 
 **Podział:**
 
@@ -187,11 +227,10 @@
 
 **Leczenie:**
 
-1. Łagodna: nie leczymy, ew ograniczamy podaż płynów + posiłek
-2. Umiarkowana bezobjawowa: ograniczamy podaż płynów + posiłek
-3. Umiarkowana objawowa: 3% NaCl iv
-4. Ciężka: natychmiast 3% NaCl iv
-5. 3%NaCl iv:
+1. W bezobjawowej leczymy <125 (ciężką). A powyżej tylko ograniczamy płyny i ew posiłek
+2. Objawowa — zawsze wymaga leczenia, nawet 125-130.
+   1. 3% NaCl iv
+3. 3%NaCl iv:
    1. podajemy do osiągnięcia 130 mmol/l, potem ograniczamy podaż płynów i podajemy posiłek
    2. Max tempo to 4-8mmol/l/d (ratunkowo do 10)
 
@@ -219,22 +258,35 @@
 3. Leki: tiazydy
 4. Zatrucie wit D: sarkoidoza, przedawkowanie suplementów
 5. Unieruchomienie
+6. Nadczynność tarczycy (zwiększony obrót kostny)
+
+(nadczynność przytarczyc i NEO to 90%)
 
 **Obraz kliniczny:**
 
-1. Stones — kamienie nerkowe, nefrokalcynoza
-2. Bones — bóle kostne i nadżerki (jeśli nadczynność przytarczyc)
-3. Thrones — poliuria, polidypsja
-4. Abdominal groans — ból brzucha, zaparcie
+1. Stones — kamienie nerkowe, nefrokalcynoza. Kamica żółciowa też
+2. Bones — bóle kostne i nadżerki (jeśli nadczynność przytarczyc) i osteoporoza
+3. Thrones — poliuria, polidypsja (moczówka prosta jest)
+4. Abdominal groans — ból brzucha, zaparcie. Ma chorobę wrzodową (wapń pobudza wydzielanie gastryny) i OZT (wapń jest aktywatorem trypsynogenu)
 5. Psychiatric overtones — senność, śpiączka, depresja
-6. Hipotonia
+6. NT (anty-blokery wapniowe)
+7. Przełom hiperkalcemiczny (spowodowany najcz. nowotworem. Stężenie najcz powyżej 3,5)
+   1. Turbopoliuria
+   2. Turboodwodnienie aż do AKI
+   3. Turbozaparcie
+   4. Śpiączka
 
 **EKG:**
+
+1. skrócenie QT (jak w hiperkaliemii)
+2. (Jedyne zab jonowe, która nie wydłuża PQ)
+3. Poszerzony QRS
+4. ...
 
 **Leczenie:**
 
 1. Forsowna diureza: 1mg/kg furosemidu + 200mmol/h 0,9% NaCl
-2. 200mg hydrokortyzonu iv
+2. 200mg hydrokortyzonu iv (zmniejsza wchłanianie wapnia z PP)
 3. 30-90mg pamidronianu iv (bisfosfonian, hamuje akt osteoklastów)
 
 
@@ -249,12 +301,13 @@
 2. OZT
 3. Niedoczynność przytarczyc
 4. Leki
-   1. Przedawkowanie CCA
-   2. Diuretyki pętlowe
+   1. Przedawkowanie CCA (będą objawy)
+   2. Diuretyki pętlowe (tiazydowe odwrotnie) 
    3. Bisfosfoniany
-5. Liza guza
-6. Rambdomioliza
-7. Upośledzenie wchłaniania
+5. Zespół głodnych kości
+6. Liza guza
+7. Rambdomioliza
+8. Upośledzenie wchłaniania
 
 **Obraz kliniczny:**
 
@@ -265,7 +318,7 @@
 2. Tężyczka jawna
    1. Napad tężyczkowy
       1. Ręka położnika
-      2. Usta karpia
+      2. Usta karpia (objaw Erba)
       3. Koślawo-szpotawe ustawienie KD
    2. Maski tężyczki
       1. Światłowstręt
@@ -275,10 +328,14 @@
 
 **EKG:**
 
+1. Wydłuża QT
+2. Odwrócone T
+
 **Leczenie:**
 
-1. 10-40ml 10% CaCl2
-2. Może być oporna na wyrównanie jeśli jest hipomagnezemia.
+1. 10-40ml 10% CaCl2 (lub glukonolaktobionian wapnia)
+2. +wit D w przewlekłym leczeniu
+3. Może być oporna na wyrównanie jeśli jest hipomagnezemia.
 
 
 
@@ -292,6 +349,7 @@
 2. Poliuria
 3. Niedożywienie
 4. Alkoholizm
+5. Zespół głodnych kości
 
 **Obraz kliniczny:**
 
@@ -304,6 +362,8 @@
 7. Może być powodem hipokalcemii i hipokaliemii opornych na leczenie. Należy wtedy również wyrównać poziom magnezu!
 
 **EKG:**
+
+1. TdP
 
 **Leczenie:**
 
@@ -323,6 +383,7 @@
 
 1. NN
 2. Jatrogenna (m.in. leczenie litem)
+3. Leczenie MgSO4 (TdP, rzucawki)
 
 **Obraz kliniczny:**
 
@@ -336,6 +397,8 @@
 8. Zatrzymanie moczu
 
 **EKG:**
+
+1. Blok serca (NZK)
 
 **Leczenie:**
 

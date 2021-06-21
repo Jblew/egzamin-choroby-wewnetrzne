@@ -131,3 +131,6 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        60. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, 
        61. TODO: EKG
        62. TODO: kluczowe badania poziomy (morfologia, biochemia)
+       63. RTG
+       64. Bad. ogólne moczu
+       65. Morfologia
