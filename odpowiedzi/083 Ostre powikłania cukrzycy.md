@@ -61,6 +61,11 @@
 4. LA > 10
 5. Ketony: w moczu lub w surowicy
 
+**Przebieg:**
+
+- Rozwija się nagle
+- Umieralność 2%
+
 **Przyczyny:**
 
 1. Niedobór insuliny: jak nie ma insuliny, to glukoza nie ma jak wejść do komórek, więc produkowane są ketony z tłuszczu
@@ -106,13 +111,47 @@ Kwasica ketonowa euglikemiczna - ?
 
 
 
-### Kwasica mleczanowa
-
-
-
 ### Zespół hiperglikemiczno-hiperosmolalny
 
-![Screenshot 2021-06-21 at 15.37.08](083%20Ostre%20powik%C5%82ania%20cukrzycy.assets/Screenshot%202021-06-21%20at%2015.37.08.png)
+**Przebieg:**
+
+- Rozwija się stopniowo, w ciągu kilku dni
+- Ma dużo większą śmiertelność niż kwasica ketonowa, ok 15%
+
+**Patofizjologia:** 
+
+- Mamy resztkowe wydzielanie insuliny, co hamuje wydzielanie ketonów
+- Więc nie ma ketonów ani kwasicy
+- Insuliny jest na tyle mało, że mamy niesamowicie wysokie poziomy glikemii
+- Co daje turboodwodnienie (diureza osmotyczna: glukoza ciągnie za sobą wodę przez nerki) => może dojść AKI
+
+**Czynniki ryzyka:**
+
+1. Dotyczy starszych osób z różnymi choroba
+
+**Powikłania:**
+
+1. Rabdomioliza z powodu hiperosmolalności
+
+**Rozpoznanie:**
+
+![Screenshot 2021-06-21 at 15.37.08](083%20Ostre%20powik%C5%82ania%20cukrzycy.assets/Screenshot%202021-06-21%20at%2015.37.08.png)**Leczenie**:
+
+1. Podobne jak do kwasicy ketonowej, ale jest mniej sztywnych reguł
+2. Największym problemem jest odwodnienie i hipernatremia, nie martwimy się o pH, ketony czy potas (ale też go wyrównujemy)
+   1. Podajemy płyny hipotoniczne
+      1. 1000ml w 1h
+      2. ... podobnie jak k.ketonowa
+   2. Maksymalnie zmniejszamy osmolalność 3mOsm/kgh2o/h
+3. Podajemy insulinę
+
+
+
+
+
+### Kwasica mleczanowa
+
+**Przyczyny:** związana tylko z metforminą
 
 
 
