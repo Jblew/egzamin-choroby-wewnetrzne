@@ -8,5 +8,113 @@
   - Kwasica mleczanowa ...TODO
   - Z. hiperglikemiczno-hiperosmolalny ...TODO
 
+
+
+### Hipoglikemia
+
+**Definicja:**
+
+- \<70
+- Istotna klinicznie: <54
+
+**Przyczyny:**
+
+1. Za dużo insuliny
+2. Za mało jedzenia
+3. Wysiłek
+4. Leki
+   1. Poch. sulfonylomocznika
+5. Biegunka, wymioty
+
+**Objawy:**
+
+1. Pobudzenie współczulne
+   1. Tachykardia, tachypnoe
+   2. Poty, bladość
+   3. Lęk
+   4. Turbo głód
+   5. Szerokie źrenice
+2. Neuroglikopenia
+   1. Zab. świadomości: splątanie => śpiączki
+   2. Epilepsja
+   3. Nawet zab. ogniskowe
+
+**Postępowanie:**
+
+1. Jeśli przytomny
+   1. Zjeść 15g glukozy. Pomiar (zależnie od źródła) po 15min albo po 1h
+2. Jeśli nieprzytomny i możliwość wkłucia
+   1. 20% GLU bolus 0,2g/kgmc (1ml/kgmc)
+   2. (zasadniczo podajemy aż otworzy oczy)
+3. Jeśli nieprzytomny i nie ma możliwości wkłucia
+   1. 1mg glukagonu sc lub im
+
+
+
+### Kwasica ketonowa
+
+**Kryteria wskazujące na rozpoznanie:** 
+
+1. GLU > 250
+2. pH < 7,30
+3. HCO3- <18
+4. LA > 10
+5. Ketony: w moczu lub w surowicy
+
+**Przyczyny:**
+
+1. Niedobór insuliny: jak nie ma insuliny, to glukoza nie ma jak wejść do komórek, więc produkowane są ketony z tłuszczu
+2. Sytuacje
+   1. Infekcja
+   2. Alkohol
+   3. OZT
+   4. Nowo rozpoznana DM1
+
+**Objawy:**
+
+1. Można pomylić z ostrym brzuchem
+   1. Ból brzucha
+   2. Wymioty
+   3. Deskowaty brzuch
+2. Zab. Świadomości, senność, osłabienie
+3. Dzikie pragnienie (bo mamy ogromny niedobór wody)
+4. Hipotensja i tachykardia (bo za mało wody)
+5. Oddech Kussmaula
+6. Zapach acetonu z ust
+7. Obniżone odruchy neurologiczne
+
+Kwasica ketonowa euglikemiczna - ?
+
+**Leczenie:**
+
+1. Intensywne nawadnianie: 
+   1. 1 Litr wody w 1h
+   2. 500ml/h 4-6h
+   3. 250ml/h do unormowania pH (około godziny)
+2. Insulina
+   1. Bolus 0,1j/kg
+   2. 0,1j/kg/h
+   3. co godzinę mierzymy cukier
+   4. Należy utrzymać stałe tempo obniżania ok 60mg/dl/h
+3. Jak cukier spadnie do 250 to włączamy 5% glukozę 100ml/h
+4. Potas
+   1. (podajemy go zawsze, chyba, że hiperkaliemia)
+   2. Dawka wg aktualnego stężenia, które monitorujemy co 2h
+   3. Jak potas zejdzie poniżej 3 to zatrzymujemy insulinę
+   4. Tempo ponad 15mmol/h do żyły głównej (lub 2 cewników naczyniowych)
+5. Należy pamiętać, że kwasica ustąpi później niż hiperglikemia i to jest w porządku.
+
+
+
+### Kwasica mleczanowa
+
+
+
+### Zespół hiperglikemiczno-hiperosmolalny
+
+![Screenshot 2021-06-21 at 15.37.08](083%20Ostre%20powik%C5%82ania%20cukrzycy.assets/Screenshot%202021-06-21%20at%2015.37.08.png)
+
+
+
 ## Brudnopis
 
