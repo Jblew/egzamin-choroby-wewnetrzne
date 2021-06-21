@@ -2732,7 +2732,7 @@ Okresy:
 
 ## 089 Wskazania do leczenia nerkozastępczego
 
-**Wskazania wg Małego Szczeklika (za KDIGO 2012):**
+**Wskazania w PChN wg Małego Szczeklika (za KDIGO 2012):**
 
 leczenie nerkozastępcze powinno się rozpocząć, zanim rozwiną się objawy mocznicy i powikłania narządowe (zwykle, gdy GFR 9–14 ml/min/1,73 m2). 
 
@@ -2747,9 +2747,17 @@ leczenie nerkozastępcze powinno się rozpocząć, zanim rozwiną się objawy mo
 
 U większości chorych problemy te pojawiają się, gdy GFR wynosi 5–10 ml/min/1,73 m2. W niektórych przypadkach leczenie dializami rozpoczyna się wcześniej ze względu na wskazania kliniczne, takie jak niewydolność serca z niepoddającym się kontroli przewodnieniem lub niedożywieniem.
 
-
-
 **Przeciwwskazania wg Małego Szczeklika:** rozsiana choroba nowotworowa, ciężki zespół otępienny lub inne nieodwracalne zaburzenia psychiczne uniemożliwiające przestrzeganie wymogów związanych z leczeniem nerkozastępczym.
+
+
+
+**Wskazania do leczenia nerkozastępczego AKI:**
+
+1. Acid base disturbances
+2. Electrolyte disturbances
+3. Intoxication = skaza krwotoczna na skutek mocznicy
+4. Overload = przewodnienie
+5. Uremia
 
 
 
