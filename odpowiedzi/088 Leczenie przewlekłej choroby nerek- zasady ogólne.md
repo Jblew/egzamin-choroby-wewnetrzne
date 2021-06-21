@@ -2,6 +2,11 @@
 
 ## Final
 
-## Brudnopis
+**Przyczynowe:**
 
+**Hamowanie postępu:**
+
+1. Zmniejszanie białkomoczu (naszym celem jest A1)
+
+## Brudnopis
 
