@@ -39,27 +39,28 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 31. [075 Rozpoznanie choroby Hashimoto](./odpowiedzi/075%20Rozpoznanie%20choroby%20Hashimoto.md)
 32. [076 Postępowanie przy stwierdzeniu guzka tarczycy](./odpowiedzi/076%20Postępowanie%20przy%20stwierdzeniu%20guzka%20tarczycy.md)
 33. [078 Przyczyny nieczynności kory nadnerczy](./odpowiedzi/078%20Przyczyny%20nieczynności%20kory%20nadnerczy.md)
-34. [080 Incydentaloma nadnerczy - postępowanie](./odpowiedzi/080%20Incydentaloma%20nadnerczy%20-%20postępowanie.md)
-35. [081 Algorytm rozpoznawania cukrzycy](./odpowiedzi/081%20Algorytm%20rozpoznawania%20cukrzycy.md)
-36. [082 Kryteria wyrównania cukrzycy](./odpowiedzi/082%20Kryteria%20wyrównania%20cukrzycy.md)
-37. [083 Ostre powikłania cukrzycy](./odpowiedzi/083%20Ostre%20powikłania%20cukrzycy.md)
-38. [084 Przewlekłe powikłania cukrzycy typu 2](./odpowiedzi/084%20Przewlekłe%20powikłania%20cukrzycy%20typu%202.md)
-39. [085 Algorytm farmakoterapii cukrzycy typu 2](./odpowiedzi/085%20Algorytm%20farmakoterapii%20cukrzycy%20typu%202.md)
-40. [086 Przyczyny ostrego uszkodzenia nerek](./odpowiedzi/086%20Przyczyny%20ostrego%20uszkodzenia%20nerek.md)
-41. [087 Rozpoznanie przewlekłej choroby nerek](./odpowiedzi/087%20Rozpoznanie%20przewlekłej%20choroby%20nerek.md)
-42. [088 Leczenie przewlekłej choroby nerek- zasady ogólne](./odpowiedzi/088%20Leczenie%20przewlekłej%20choroby%20nerek-%20zasady%20ogólne.md)
-43. [089 Wskazania do leczenia nerkozastępczego](./odpowiedzi/089%20Wskazania%20do%20leczenia%20nerkozastępczego.md)
-44. [093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie](./odpowiedzi/093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20postępowanie.md)
-45. [099 Objawy niedoboru witaminy B12 i B9](./odpowiedzi/099%20Objawy%20niedoboru%20witaminy%20B12%20i%20B9.md)
-46. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100%20Objawy%20ostrej%20białaczki%20szpikowej.md)
-47. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101%20Zespoły%20mielodysplastyczne%20-%20objawy.md)
-48. [102 Przyczyny małopłytkowości](./odpowiedzi/102%20Przyczyny%20małopłytkowości.md)
-49. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103%20Postępowanie%20w%20przewlekłej%20białaczce%20limfocytowej.md)
-50. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104%20Szpiczak%20mnogi%20–%20objawy,%20rozpoznawanie,%20postępowanie.md)
-51. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108%20Rozpoznanie%20reumatoidalnego%20zapalenia%20stawów.md)
-52. [114 Objawy napadu dny](./odpowiedzi/114%20Objawy%20napadu%20dny.md)
-53. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
-54. WIP
+34. [079 Diagnostyka choroby i zespołu Cushinga](./odpowiedzi/079%20Diagnostyka%20choroby%20i%20zespołu%20Cushinga.md)
+35. [080 Incydentaloma nadnerczy - postępowanie](./odpowiedzi/080%20Incydentaloma%20nadnerczy%20-%20postępowanie.md)
+36. [081 Algorytm rozpoznawania cukrzycy](./odpowiedzi/081%20Algorytm%20rozpoznawania%20cukrzycy.md)
+37. [082 Kryteria wyrównania cukrzycy](./odpowiedzi/082%20Kryteria%20wyrównania%20cukrzycy.md)
+38. [083 Ostre powikłania cukrzycy](./odpowiedzi/083%20Ostre%20powikłania%20cukrzycy.md)
+39. [084 Przewlekłe powikłania cukrzycy typu 2](./odpowiedzi/084%20Przewlekłe%20powikłania%20cukrzycy%20typu%202.md)
+40. [085 Algorytm farmakoterapii cukrzycy typu 2](./odpowiedzi/085%20Algorytm%20farmakoterapii%20cukrzycy%20typu%202.md)
+41. [086 Przyczyny ostrego uszkodzenia nerek](./odpowiedzi/086%20Przyczyny%20ostrego%20uszkodzenia%20nerek.md)
+42. [087 Rozpoznanie przewlekłej choroby nerek](./odpowiedzi/087%20Rozpoznanie%20przewlekłej%20choroby%20nerek.md)
+43. [088 Leczenie przewlekłej choroby nerek- zasady ogólne](./odpowiedzi/088%20Leczenie%20przewlekłej%20choroby%20nerek-%20zasady%20ogólne.md)
+44. [089 Wskazania do leczenia nerkozastępczego](./odpowiedzi/089%20Wskazania%20do%20leczenia%20nerkozastępczego.md)
+45. [093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie](./odpowiedzi/093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20postępowanie.md)
+46. [099 Objawy niedoboru witaminy B12 i B9](./odpowiedzi/099%20Objawy%20niedoboru%20witaminy%20B12%20i%20B9.md)
+47. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100%20Objawy%20ostrej%20białaczki%20szpikowej.md)
+48. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101%20Zespoły%20mielodysplastyczne%20-%20objawy.md)
+49. [102 Przyczyny małopłytkowości](./odpowiedzi/102%20Przyczyny%20małopłytkowości.md)
+50. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103%20Postępowanie%20w%20przewlekłej%20białaczce%20limfocytowej.md)
+51. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104%20Szpiczak%20mnogi%20–%20objawy,%20rozpoznawanie,%20postępowanie.md)
+52. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108%20Rozpoznanie%20reumatoidalnego%20zapalenia%20stawów.md)
+53. [114 Objawy napadu dny](./odpowiedzi/114%20Objawy%20napadu%20dny.md)
+54. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
+55. WIP
        5. [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./odpowiedzi/012%20Zasady%20profilaktyki%20powikłań%20zatorowo-zakrzepowych%20u%20pacjenta%20z%20migotaniem%20przedsionków.md)
        6. [013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu](./odpowiedzi/013%20Istotne%20elementy%20badania%20podmiotowego%20u%20pacjenta%20po%20przebytym%20omdleniu.md)
        8. [016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory](./odpowiedzi/016%20Podstawowy%20algorytm%20terapeutyczny%20niewydolności%20serca%20z%20upośledzona%20frakcją%20wyrzutową%20lewej%20komory.md)
@@ -72,7 +73,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           10. [091 Przyczyny wtórnych kłębuszkowych zapaleń nerek](./odpowiedzi/091%20Przyczyny%20wtórnych%20kłębuszkowych%20zapaleń%20nerek.md)
           11. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
           12. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
-   55. Pytania jeszcze bez odpowiedzi
+   56. Pytania jeszcze bez odpowiedzi
 
        1. [022 Postępowanie w ostrych zespole wieńcowym](./odpowiedzi/022%20Postępowanie%20w%20ostrych%20zespole%20wieńcowym.md)
        2. [023 Powikłania zawału serca](./odpowiedzi/023%20Powikłania%20zawału%20serca.md)
@@ -110,27 +111,26 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        34. [066 Objawy ostrego zapalenia pęcherzyka żółciowego](./odpowiedzi/066%20Objawy%20ostrego%20zapalenia%20pęcherzyka%20żółciowego.md)
        35. [068 Powikłania marskości wątroby - postępowanie](./odpowiedzi/068%20Powikłania%20marskości%20wątroby%20-%20postępowanie.md)
        36. [069 Postępowanie w wyrównanej marskości wątroby](./odpowiedzi/069%20Postępowanie%20w%20wyrównanej%20marskości%20wątroby.md)
-       37. [079 Diagnostyka choroby i zespołu Cushinga](./odpowiedzi/079%20Diagnostyka%20choroby%20i%20zespołu%20Cushinga.md)
-       38. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090%20Objawy%20przewlekłych%20kłębuszkowych%20zapaleń%20nerek.md)
-       39. [092 Postępowanie w zakażeniu układu moczowego](./odpowiedzi/092%20Postępowanie%20w%20zakażeniu%20układu%20moczowego.md)
-       40. [094 Diagnostyka różnicowa białkomoczu](./odpowiedzi/094%20Diagnostyka%20różnicowa%20białkomoczu.md)
-       41. [095 Diagnostyka różnicowa krwinkomoczu](./odpowiedzi/095%20Diagnostyka%20różnicowa%20krwinkomoczu.md)
-       42. [096 Wskazania i przeciwwskazania do biopsji nerki](./odpowiedzi/096%20Wskazania%20i%20przeciwwskazania%20do%20biopsji%20nerki.md)
-       43. [098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza](./odpowiedzi/098%20Różnicowanie%20niedokrwistość%20chorób%20przewlekłych%20i%20niedoboru%20żelaza.md)
-       44. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
-       45. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
-       46. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
-       47. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
-       48. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
-       49. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
-       50. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
-       51. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
-       52. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
-       53. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
-       54. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
-       55. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, 
-       56. TODO: EKG
-       57. TODO: kluczowe badania poziomy (morfologia, biochemia)
-       58. RTG
-       59. Bad. ogólne moczu
-       60. Morfologia
+       37. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090%20Objawy%20przewlekłych%20kłębuszkowych%20zapaleń%20nerek.md)
+       38. [092 Postępowanie w zakażeniu układu moczowego](./odpowiedzi/092%20Postępowanie%20w%20zakażeniu%20układu%20moczowego.md)
+       39. [094 Diagnostyka różnicowa białkomoczu](./odpowiedzi/094%20Diagnostyka%20różnicowa%20białkomoczu.md)
+       40. [095 Diagnostyka różnicowa krwinkomoczu](./odpowiedzi/095%20Diagnostyka%20różnicowa%20krwinkomoczu.md)
+       41. [096 Wskazania i przeciwwskazania do biopsji nerki](./odpowiedzi/096%20Wskazania%20i%20przeciwwskazania%20do%20biopsji%20nerki.md)
+       42. [098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza](./odpowiedzi/098%20Różnicowanie%20niedokrwistość%20chorób%20przewlekłych%20i%20niedoboru%20żelaza.md)
+       43. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
+       44. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
+       45. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
+       46. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
+       47. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
+       48. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
+       49. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
+       50. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
+       51. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
+       52. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
+       53. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
+       54. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, 
+       55. TODO: EKG
+       56. TODO: kluczowe badania poziomy (morfologia, biochemia)
+       57. RTG
+       58. Bad. ogólne moczu
+       59. Morfologia
