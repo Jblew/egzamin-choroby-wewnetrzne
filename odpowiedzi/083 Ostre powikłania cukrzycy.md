@@ -151,7 +151,26 @@ Kwasica ketonowa euglikemiczna - ?
 
 ### Kwasica mleczanowa
 
-**Przyczyny:** związana tylko z metforminą
+**Przyczyny:** 
+
+1) typ A (beztlenowa) – występuje w stanach niedotlenienia tkankowego (sepsa, wstrząs, niewydolność serca, niewydolność oddechowa)
+
+2) typ B (tlenowa) – przyczyny inne niż niedotlenienie; u chorych na cukrzycę towarzyszy ciężkim powikłaniom cukrzycy (np. kwasicy ketonowej), niewydolności nerek lub wątroby, nowotworom złośliwym albo jest następstwem niewłaściwego stosowania [metforminy](https://indeks.mp.pl/subst.php?id=550) (przeciwwskazania →[tab. 13.1-3](https://www.mp.pl/interna/table/B16.13.1-5.)), spożycia dużej dawki salicylanów, alkoholu metylowego lub etylowego.
+
+**Przebieg:**
+
+1. Śmiertelność 50%
+2. Kwasica mleczanowa nie jest swoistym powikłaniem cukrzycy, rozwija się pod wpływem czynników wywołujących (→niżej) i najczęściej występuje u chorych we wstrząsie.
+
+**Rozpoznanie:**
+
+Rozpoznanie ustala się na podstawie wyników badań laboratoryjnych: niewielka hiperglikemia (niekiedy normoglikemia), **stężenie kwasu mlekowego w surowicy >5 mmol/l** (rosnące w miarę pogarszania się czynności nerek), obniżone pH krwi <7,30, stężenie wodorowęglanów <10 mmol/l, luka anionowa >16 mmol/l, zwykle hiperkaliemia i prawidłowe stężenie sodu w surowicy (u alkoholików może być zmniejszone).
+
+**Objawy:** jak w kwasicy ketonowej
+
+
+
+zasadniczo powyższe 3 leczą się prawie tak samo
 
 
 
