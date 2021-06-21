@@ -77,6 +77,8 @@
 
 
 
+Z. Nelsona = po obustronnej adrenalektomii => gruczolak przysadki wydzielający ACTH
+
 
 
 ## Brudnopis
