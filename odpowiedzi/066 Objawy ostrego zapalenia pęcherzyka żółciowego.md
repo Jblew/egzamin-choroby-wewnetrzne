@@ -2,6 +2,10 @@
 
 ## Final
 
+WNL Chirurgia 4, slajd 32
+
+
+
 **Definicja:** 
 
 **Epidemiologia:** 

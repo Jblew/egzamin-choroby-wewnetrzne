@@ -2,6 +2,9 @@
 
 ## Final
 
-## Brudnopis
+WNL Chirurgia 3, slajd 111
 
+
+
+## Brudnopis
 

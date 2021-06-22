@@ -1039,7 +1039,7 @@ Po 1pkt za każde. Duże ryzyko krwawienia = co najmniej 3pkt
 
 Zapalenia naczyń:
 
-- Dużych
+- Dużych ([112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md))
   1. Olbrzymiokomórkowe zapalenie tętnic (=zap. tętnicy skroniowej); to z zaniewidzeniem
   2. Ch. Takayasu
 - Średnich
@@ -4906,6 +4906,8 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 ### 052 Postępowanie w krwawieniu z górnego odcinka przewodu pokarmowego
 
+WNL Chirurgia 3, slajd 111
+
 
 
 &nbsp;
@@ -4942,11 +4944,15 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 ### 060 Przyczyny krwawienia z dolnego odcinka przewodu pokarmowego
 
+WNL Chirurgia 3, slajd 128
+
 
 
 &nbsp;
 
 ### 061 Objawy niedrożności przewodu pokarmowego
+
+WNL Chirurgia 3, prezentacja 2, slajd 55
 
 
 
@@ -4960,11 +4966,15 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 ### 063 Postępowanie z chorym z bólami brzucha
 
+WNL Chirurgia 3, prezentacja "ostry brzuch"
+
 
 
 &nbsp;
 
 ### 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
+
+Chirurgia 4, slajd 116
 
 
 
@@ -4977,6 +4987,10 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 &nbsp;
 
 ### 066 Objawy ostrego zapalenia pęcherzyka żółciowego
+
+WNL Chirurgia 4, slajd 32
+
+
 
 **Definicja:** 
 
@@ -5086,6 +5100,39 @@ Obrazy kliniczne:
 &nbsp;
 
 ### 112 Objawy zapaleń dużych naczyń
+
+Zapalenia naczyń:
+
+- Dużych
+  1. Olbrzymiokomórkowe zapalenie tętnic (=zap. tętnicy skroniowej); to z zaniewidzeniem
+  2. Ch. Takayasu
+- Średnich
+  1. Ch. kawasaki
+  2. Guzkowe zap. Tętnic (zapalenie jelit => ból brzucha, plamica uniesiona, mononeuropatia ogniskowa)
+- Małych ([027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie](./odpowiedzi/027%20Zapalenia%20drobnych%20naczyń%20–%20objawy,%20diagnostyka,%20leczenie.md))
+  - GPA (dawniej Wegenera)
+  - EGPA (dawniej Churga-Strauss)
+  - MPA
+  - z. Goodpasteura
+  - zapalenie naczyń IgA (dawniej Schoenline-Henocha)
+  - ch. Behceta
+  - Zap. naczyń związane z krioglobulinemią
+
+
+
+**Olbrzymiokomórkowe zap. tętnic (zap. t. skroniowej:** mapa 056
+
+
+
+**Ch. Takayasu:** P8 Endokrynologia / Reumatologia, slajd 180; mapa 079
+
+
+
+**Ch. Kawasaki: ** (zap. średnich naczyń) P8 Endokrynologia / Reumatologia, slajd 169; mapa 079
+
+
+
+**Guzkowe zap. Tętnic** (zap. średnich naczyń) mapa 056
 
 
 

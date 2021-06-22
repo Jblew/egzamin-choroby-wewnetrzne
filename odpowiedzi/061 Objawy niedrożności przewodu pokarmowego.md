@@ -2,6 +2,9 @@
 
 ## Final
 
-## Brudnopis
+WNL Chirurgia 3, prezentacja 2, slajd 55
 
+
+
+## Brudnopis
 

@@ -2,6 +2,9 @@
 
 ## Final
 
-## Brudnopis
+Chirurgia 4, slajd 116
 
+
+
+## Brudnopis
 

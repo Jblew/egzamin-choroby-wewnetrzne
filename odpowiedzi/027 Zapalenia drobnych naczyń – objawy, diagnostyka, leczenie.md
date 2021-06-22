@@ -4,7 +4,7 @@
 
 Zapalenia naczyń:
 
-- Dużych
+- Dużych ([112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md))
   1. Olbrzymiokomórkowe zapalenie tętnic (=zap. tętnicy skroniowej); to z zaniewidzeniem
   2. Ch. Takayasu
 - Średnich
