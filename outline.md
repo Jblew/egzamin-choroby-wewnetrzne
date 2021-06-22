@@ -77,10 +77,11 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           6. [021 Uniwersalna definicja zawału serca](./odpowiedzi/021%20Uniwersalna%20definicja%20zawału%20serca.md)
           7. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039%20Obraz%20kliniczny%20i%20leczenie%20odmy%20opłucnowej.md)
           8. [048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc](./odpowiedzi/048%20Obraz%20kliniczny%20i%20leczenie%20pozaszpitalnego%20zapalenia%20płuc.md)
-          9. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077%20Objawy%20pierwotnej%20nadczynności%20przytarczyc.md)
-          10. [091 Przyczyny wtórnych kłębuszkowych zapaleń nerek](./odpowiedzi/091%20Przyczyny%20wtórnych%20kłębuszkowych%20zapaleń%20nerek.md)
-          11. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
-          12. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
+          9. [064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki](./odpowiedzi/064%20Przyczyny,%20objawy%20i%20postępowanie%20w%20ostrym%20zapaleniu%20trzustki.md)
+          10. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077%20Objawy%20pierwotnej%20nadczynności%20przytarczyc.md)
+          11. [091 Przyczyny wtórnych kłębuszkowych zapaleń nerek](./odpowiedzi/091%20Przyczyny%20wtórnych%20kłębuszkowych%20zapaleń%20nerek.md)
+          12. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
+          13. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
    64. Pytania jeszcze bez odpowiedzi
 
        1. [022 Postępowanie w ostrych zespole wieńcowym](./odpowiedzi/022%20Postępowanie%20w%20ostrych%20zespole%20wieńcowym.md)
@@ -110,27 +111,26 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        25. [061 Objawy niedrożności przewodu pokarmowego](./odpowiedzi/061%20Objawy%20niedrożności%20przewodu%20pokarmowego.md)
        26. [062 Dysfagia – przyczyny, postępowanie](./odpowiedzi/062%20Dysfagia%20–%20przyczyny,%20postępowanie.md)
        27. [063 Postępowanie z chorym z bólami brzucha](./odpowiedzi/063%20Postępowanie%20z%20chorym%20z%20bólami%20brzucha.md)
-       28. [064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki](./odpowiedzi/064%20Przyczyny,%20objawy%20i%20postępowanie%20w%20ostrym%20zapaleniu%20trzustki.md)
-       29. [065 Ubytek masy ciała - postępowanie](./odpowiedzi/065%20Ubytek%20masy%20ciała%20-%20postępowanie.md)
-       30. [066 Objawy ostrego zapalenia pęcherzyka żółciowego](./odpowiedzi/066%20Objawy%20ostrego%20zapalenia%20pęcherzyka%20żółciowego.md)
-       31. [068 Powikłania marskości wątroby - postępowanie](./odpowiedzi/068%20Powikłania%20marskości%20wątroby%20-%20postępowanie.md)
-       32. [069 Postępowanie w wyrównanej marskości wątroby](./odpowiedzi/069%20Postępowanie%20w%20wyrównanej%20marskości%20wątroby.md)
-       33. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090%20Objawy%20przewlekłych%20kłębuszkowych%20zapaleń%20nerek.md)
-       34. [094 Diagnostyka różnicowa białkomoczu](./odpowiedzi/094%20Diagnostyka%20różnicowa%20białkomoczu.md)
-       35. [095 Diagnostyka różnicowa krwinkomoczu](./odpowiedzi/095%20Diagnostyka%20różnicowa%20krwinkomoczu.md)
-       36. [098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza](./odpowiedzi/098%20Różnicowanie%20niedokrwistość%20chorób%20przewlekłych%20i%20niedoboru%20żelaza.md)
-       37. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
-       38. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
-       39. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
-       40. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
-       41. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
-       42. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
-       43. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
-       44. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
-       45. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
-       46. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, SOFA
-       47. TODO: EKG
-       48. TODO: kluczowe badania poziomy (morfologia, biochemia)
-       49. RTG
-       50. Bad. ogólne moczu
-       51. Morfologia
+       28. [065 Ubytek masy ciała - postępowanie](./odpowiedzi/065%20Ubytek%20masy%20ciała%20-%20postępowanie.md)
+       29. [066 Objawy ostrego zapalenia pęcherzyka żółciowego](./odpowiedzi/066%20Objawy%20ostrego%20zapalenia%20pęcherzyka%20żółciowego.md)
+       30. [068 Powikłania marskości wątroby - postępowanie](./odpowiedzi/068%20Powikłania%20marskości%20wątroby%20-%20postępowanie.md)
+       31. [069 Postępowanie w wyrównanej marskości wątroby](./odpowiedzi/069%20Postępowanie%20w%20wyrównanej%20marskości%20wątroby.md)
+       32. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090%20Objawy%20przewlekłych%20kłębuszkowych%20zapaleń%20nerek.md)
+       33. [094 Diagnostyka różnicowa białkomoczu](./odpowiedzi/094%20Diagnostyka%20różnicowa%20białkomoczu.md)
+       34. [095 Diagnostyka różnicowa krwinkomoczu](./odpowiedzi/095%20Diagnostyka%20różnicowa%20krwinkomoczu.md)
+       35. [098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza](./odpowiedzi/098%20Różnicowanie%20niedokrwistość%20chorób%20przewlekłych%20i%20niedoboru%20żelaza.md)
+       36. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
+       37. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
+       38. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
+       39. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
+       40. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
+       41. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
+       42. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
+       43. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
+       44. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
+       45. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, SOFA
+       46. TODO: EKG
+       47. TODO: kluczowe badania poziomy (morfologia, biochemia)
+       48. RTG
+       49. Bad. ogólne moczu
+       50. Morfologia
