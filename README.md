@@ -4143,12 +4143,30 @@ Niedokrwistość to zmniejszenie stężenia hemoglobiny (Hb), hematokrytu (Ht) i
    - Spaczone łaknienie (glina, kreda, krochmal).
 
    - Zapalenie języka (ból, pieczenie i wygładzenie powierzchni języka).
-
    - Suchość skóry.
-
    - Cheilitis = Bolesne pęknięcia kącików ust.
-
    - Zmiany paznokci (blade, kruche, z podłużnymi rowkami).
+
+4. Przyczyny niedoboru żelaza:
+
+   1. Niedobór w diecie — wegetarianizm
+   2. Przewlekła utrata krwi
+      1. Nowotwór PP
+   3. Upośledzone wchłanianie
+      1. ChLC
+
+5. Leczenie:
+
+   1. Szukanie przyczyny krwawienia
+      1. U wszystkich BOM + przesiew celiakii
+      2. Gastro i kolonoskopia u mężczyzn i u kobiet po menopauzie
+   2. Suplementacja Fe do 3 mc po wyhrównaniu Hb i ferrytyny
+      1. Uwaga, pacjent może zgłosić że ma czarny stolec
+   3. Kryterikum skuteczności suplementacji Fe:
+      1. Wzrost RET po 1 tyg
+      2. Hb powinna wzrosność po 2tyg o 2g/dl
+   4. Jeśli się nie ruszy Hb to zrobić krzywą wchłaniania
+   5. Jeśli ma zab. wchłaniania to podajemy je i.v.
 
 
 
@@ -4201,13 +4219,14 @@ B9 = kw. foliowy
 - Niedokrwistość megaloblastyczna
 - Utrata apetytu, chudnięcie
 - Pieczenie języka. Język jest bawoli i gładki
-- Żółtaczka
+- Bladożółta skóra — cytrynowa
 - Zaparcie/biegunka
-- Układu nerwowego
+- Układu nerwowego (jeśli nie wyrównamy przez 6mc to neuropatie się wyrównają)
   - Parestezje
-  - Objaw Lhermitte'a (nieprzyjemne uczucie prądu wzdłuż kręgosłupa przy zginaniu głowy)
+  - Objaw Lhermitte'a (nieprzyjemne uczucie prądu wzdłuż kręgosłupa przy zginaniu głowy) (zwyrodnienie sznurów tylno-bocznych. Najwcześniejszym objawem jest utrata czucia położenia 2 palca stopy)
   - Zab. chodu
   - Zab. mikcji
+- Obniżone LEU
 
 **Objawy niedoboru kw. foliowego:**
 
@@ -4216,10 +4235,10 @@ B9 = kw. foliowy
 
 **Przyczyny niedoboru:**
 
-- wit B12
+- wit B12 (jest w mięsie i nabiale, w bardzo małych ilościach jest w glonie nori)
   - Niedokrwistość Addisona-Biermera (przeciwciała przeciwko kom. okładzinowym produkującym cz. Castle'a (IF) lub przeciwko samemu czynnikowi)
   - Mało w diecie (rzadziej)
-- Kw. foliowy
+- Kw. foliowy (jest w sałacie. Folium to liść po łacinie)
   - Niedbór w diecie
   - Ciąża, laktacja
   - Alkoholizm
@@ -4229,11 +4248,11 @@ B9 = kw. foliowy
 **Leczenie:**
 
 - B12
-  - 1mg B12 im przez 14 dni
+  - 1mg B12 i.m. przez 14 dni
   - potem 1mg/mc do końca życia
 - Kw foliowy — TODO zweryfikować profilaktykę
   - 1mg/d 3-4mc do normalizacji
-  - W ciąży przez pierwsze 12 tyg 0,4mg/d. 0,8mg jeśli podwyższone ryzyko
+  - W ciąży przez pierwsze 12 tyg 0,4mg/d. 0,8mg jeśli podwyższone ryzyko (w bardzo wysokim nawet 5mg). Najlepiej zacząć suplementować już przy planowaniu ciąży
   - Karmienie: 0,5mg/d
 
 
@@ -4350,14 +4369,16 @@ Małopłytkowość = <150G/l
     - Poradiacyjna
     - Wirus
     - Ch. szpiku
+    - Polekowe
 - Obwodowe (wzmożone niszczenie)
+  - Poprzetoczeniowa = z rozcieńczenia
   - Immunologiczne
-    - Poprzetoczeniowa
     - ITP
     - HIT
   - Nieimmunologiczne (PF: mikroangiopatia zakrzepowa)
     - TTP
     - HUS
+    - aHUS
 
 
 
@@ -4365,6 +4386,7 @@ Małopłytkowość = <150G/l
 
 - Najczęstsza u dzieci
 - Rozpoznanie: <100G/l + niezidentyfikowana przyczyna
+  - Należy sprawdzić różyczkę, H. pylori
 - PF: p/GPIb,GPIIb,GPIIIa => opłaszczają płytki => płytki są fagocytowane przez makrofagi w śledzionie i wątrobie
 - Leczenie: 1* GKS => 2* TPO-RA
 
@@ -4386,8 +4408,9 @@ Małopłytkowość = <150G/l
   - Po 4-5 dniach leczenia
   - Zwiększa ryzyko zakrzepicy
 - Leczenie (tylko typ 2 + kryteria leczenia): 
-  - zamiana heparyny na biwalirudynę, lepirudynę
+  - zamiana heparyny na biwalirudynę, lepirudynę. Dabigatran? (bo ma ten sam mechanizm co biwalirudyna)
   - nie wolno toczyć płytek
+  - W przyszłości będziemy stosować fondaparynuks zamiast HDCz
 
 
 
@@ -4407,9 +4430,16 @@ Małopłytkowość = <150G/l
 
 **HUS**:
 
+- 
 - Objawy jak w TTP + AKI (oliguria). Triada: niedokrwistość hemolityczna, AKI, małopłytkowość
-- Typowy HUS spowodowany werotoksyną wytwarzaną przez E.coli O157:1
+- Typowy HUS spowodowany werotoksyną wytwarzaną przez E.coli O157:1. Może też być toksyna Shiga albo Shigalike
 - Często poprzedzony biegunką
+
+
+
+**aHUS:**
+
+- w aHUS jest niszczony śródbłonek i aktywuje się cośtam
 
 
 
@@ -4417,6 +4447,34 @@ Małopłytkowość = <150G/l
 
 - Nabyte: leki p/płytkowe
 - Wrodzone: płytkowy typ ch vWB, trombastenia Glanzmana
+
+
+
+**DIC:**
+
+- Przyczyny:
+  - Sepsa
+  - Ciężkie zakażenia
+  - Urazy wielonarządowe
+  - OZT
+  - Powikłania położnicze: przedwczesne oddzielanie
+  - Ostry odczyn hemolityczny poprzetoczeniowy
+  - Odrzucanie nadostre
+  - Ostra białaczka promielocytowa
+  - Przewlekłe DIC w nowotworach i dużych tętniakach aorty
+- Mnogie zakrzepy w mikrokrążeniu a nawet dużych naczyniach
+
+### Wskazania do KKP
+
+**1. Wskazania profilaktyczne (zapobieganie krwawieniom):** liczba płytek ≤10 000/µl; wyjątki – ≤10 000–20 000/µl w przypadku dodatkowych czynników ryzyka (np. sepsy, osoczowych zaburzeń krzepnięcia), <20 000/µl w przypadku planowego zakładania centralnego cewnika żylnego (niekonieczne wg NICE i BCSH), <40 000–50 000/µl w przypadku planowego diagnostycznego nakłucia lędźwiowego, <80 000/μl w przypadku wprowadzenia lub usunięcia cewnika zewnątrzoponowego, <50 000/µl w przypadku wykonywania inwazyjnego zabiegu diagnostycznego lub chirurgicznego poza OUN (przy dużym ryzyku krwawienia docelowa liczba płytek może być większa, np. 50 000–75 000/ µl), <100 000/µl w przypadku zabiegów na OUN lub tylnym odcinku oka. Nie przetaczaj profilaktycznie KKP przed operacją zaćmy. Nie zaleca się profilaktycznego przetaczania KKP przed biopsją szpiku, choć niektórzy wybierają takie postępowanie, aby uzyskać liczbę płytek ≥20 000/µl. Nie przetaczaj profilaktycznie KKP u chorych z małopłytkowością immunologiczną, zakrzepową plamicą małopłytkową lub immunologiczną małopłytkowością wywołaną przez heparynę. Możesz odstąpić od profilaktycznego przetaczania KKP u chorych z przewlekłą i stabilną małopłytkowością (m.in. w przebiegu niedokrwistości aplastycznej lub zespołu mielodysplastycznego), u których nie stosuje się leczenia przyczynowego.
+
+**2. Wskazania lecznicze (w razie wystąpienia krwawień):**
+
+1) małopłytkowość <30 000/µl u chorych z klinicznie istotnym krwawieniem (2. stopnia wg WHO, np. przedłużające się krwawienie z nosa, obfite krwawienie ze skóry, krwiste wymioty, smoliste stolce)
+
+2) małopłytkowość <50 000/µl w przypadku ciężkiego krwawienia (3. i 4. stopnia wg WHO, czyli każdego wymagającego przetoczenia KKCz, powodującego niestabilność hemodynamiczną lub ciężkiego krwawienia do jam ciała powodującego objawową dysfunkcję narządu lub konieczność interwencji)
+
+3) małopłytkowość <100 000/µl w przypadkach krwawienia w narządach, w których może być ono szczególnie groźne (OUN, gałka oczna) oraz utrzymujących się krwawieniach wymagających przetaczania KKCz.
 
 
 
@@ -5435,6 +5493,54 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 &nbsp;
 
+#### 106 Nabyte skazy krwotoczne
+
+1. Naczyniowe
+   1. Schoenline-Henocha
+   2. w ch. wątroby
+   3. DVT
+   4. Plamica starcza
+   5. Posterydowa
+   6. Z awitaminozą C
+2. Małopłytkowe ([102 Przyczyny małopłytkowości](./102%20Przyczyny%20małopłytkowości.md))
+3. Osoczowe
+   1. DIC
+   2. Nabyta hemofilia A
+   3. upośledzenie syntezy czynników krzepnięcia: niedobór witaminy K (najczęściej w wyniku stosowania VKA), choroby wątroby, stosowanie asparaginazy
+   4. hamowanie aktywności czynników krzepnięcia: leczenie przeciwkrzepliwe, nabyte inhibitory (autoprzeciwciała) czynników krzepnięcia – najczęściej inhibitor cz. VIII (nabyta hemofilia A)
+   5. zwiększone zużycie czynników krzepnięcia: DIC, zaburzenia krzepnięcia po masywnych przetoczeniach krwi
+   6. inne – m.in. leki trombolityczne, nabyty zespół von Willebranda.
+
+
+
+
+
+![Screenshot 2021-06-23 at 18.44.45](img/Screenshot%202021-06-23%20at%2018.44.45.png)
+
+
+
+
+
+
+
+**Zaburzenia krzepnięcia w chorobach wątroby:** https://www.mp.pl/interna/chapter/B16.II.15.23.3.
+
+**Rozsiane krzepnięcie wewnątrznaczyniowe (DIC):** https://www.mp.pl/interna/chapter/B16.II.15.21.
+
+**Nabyta hemofilia A (AHA):**
+
+1. PF: p/cz 8
+2. Etiologia: nieznana (50% przypadków), może wystąpić w okresie do 12 mies. po porodzie, w przebiegu chorób autoimmunologicznych, nowotworów złośliwych, chorób alergicznych i reakcji polekowych. Inhibitor cz. VIII występuje u ~20% osób zdrowych, ale nie prowadzi do objawów skazy krwotocznej.
+3. Badania przesiewowe: przedłużony APTT (zwykle 2–3-krotnie); prawidłowe PT, TT, liczba płytek krwi, stężenie fibrynogenu.
+2. Badania potwierdzające: przedłużony APTT mieszaniny równych objętości osocza badanego i osocza prawidłowego (ujemny wynik testu korekcji APTT), zmniejszona aktywność cz. VIII, miano inhibitora cz. VIII.
+5. Leczenie:
+   1. koncentrat rekombinowanego aktywnego cz. VII
+   2. GKS 4-6tyg, remisja u 70%
+
+
+
+&nbsp;
+
 #### 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
 
 **Definicja:** 
@@ -5703,12 +5809,6 @@ Obrazy kliniczne:
 &nbsp;
 
 ### 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
-
-
-
-&nbsp;
-
-### 106 Nabyte skazy krwotoczne
 
 
 

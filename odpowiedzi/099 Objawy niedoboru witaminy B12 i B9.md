@@ -9,13 +9,14 @@ B9 = kw. foliowy
 - Niedokrwistość megaloblastyczna
 - Utrata apetytu, chudnięcie
 - Pieczenie języka. Język jest bawoli i gładki
-- Żółtaczka
+- Bladożółta skóra — cytrynowa
 - Zaparcie/biegunka
-- Układu nerwowego
+- Układu nerwowego (jeśli nie wyrównamy przez 6mc to neuropatie się wyrównają)
   - Parestezje
-  - Objaw Lhermitte'a (nieprzyjemne uczucie prądu wzdłuż kręgosłupa przy zginaniu głowy)
+  - Objaw Lhermitte'a (nieprzyjemne uczucie prądu wzdłuż kręgosłupa przy zginaniu głowy) (zwyrodnienie sznurów tylno-bocznych. Najwcześniejszym objawem jest utrata czucia położenia 2 palca stopy)
   - Zab. chodu
   - Zab. mikcji
+- Obniżone LEU
 
 **Objawy niedoboru kw. foliowego:**
 
@@ -24,10 +25,10 @@ B9 = kw. foliowy
 
 **Przyczyny niedoboru:**
 
-- wit B12
+- wit B12 (jest w mięsie i nabiale, w bardzo małych ilościach jest w glonie nori)
   - Niedokrwistość Addisona-Biermera (przeciwciała przeciwko kom. okładzinowym produkującym cz. Castle'a (IF) lub przeciwko samemu czynnikowi)
   - Mało w diecie (rzadziej)
-- Kw. foliowy
+- Kw. foliowy (jest w sałacie. Folium to liść po łacinie)
   - Niedbór w diecie
   - Ciąża, laktacja
   - Alkoholizm
@@ -37,11 +38,11 @@ B9 = kw. foliowy
 **Leczenie:**
 
 - B12
-  - 1mg B12 im przez 14 dni
+  - 1mg B12 i.m. przez 14 dni
   - potem 1mg/mc do końca życia
 - Kw foliowy — TODO zweryfikować profilaktykę
   - 1mg/d 3-4mc do normalizacji
-  - W ciąży przez pierwsze 12 tyg 0,4mg/d. 0,8mg jeśli podwyższone ryzyko
+  - W ciąży przez pierwsze 12 tyg 0,4mg/d. 0,8mg jeśli podwyższone ryzyko (w bardzo wysokim nawet 5mg). Najlepiej zacząć suplementować już przy planowaniu ciąży
   - Karmienie: 0,5mg/d
 
 

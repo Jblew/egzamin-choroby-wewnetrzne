@@ -52,12 +52,30 @@ Niedokrwistość to zmniejszenie stężenia hemoglobiny (Hb), hematokrytu (Ht) i
    - Spaczone łaknienie (glina, kreda, krochmal).
 
    - Zapalenie języka (ból, pieczenie i wygładzenie powierzchni języka).
-
    - Suchość skóry.
-
    - Cheilitis = Bolesne pęknięcia kącików ust.
-
    - Zmiany paznokci (blade, kruche, z podłużnymi rowkami).
+
+4. Przyczyny niedoboru żelaza:
+
+   1. Niedobór w diecie — wegetarianizm
+   2. Przewlekła utrata krwi
+      1. Nowotwór PP
+   3. Upośledzone wchłanianie
+      1. ChLC
+
+5. Leczenie:
+
+   1. Szukanie przyczyny krwawienia
+      1. U wszystkich BOM + przesiew celiakii
+      2. Gastro i kolonoskopia u mężczyzn i u kobiet po menopauzie
+   2. Suplementacja Fe do 3 mc po wyhrównaniu Hb i ferrytyny
+      1. Uwaga, pacjent może zgłosić że ma czarny stolec
+   3. Kryterikum skuteczności suplementacji Fe:
+      1. Wzrost RET po 1 tyg
+      2. Hb powinna wzrosność po 2tyg o 2g/dl
+   4. Jeśli się nie ruszy Hb to zrobić krzywą wchłaniania
+   5. Jeśli ma zab. wchłaniania to podajemy je i.v.
 
 
 
