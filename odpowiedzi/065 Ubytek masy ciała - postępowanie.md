@@ -130,5 +130,12 @@ Badania:
 
 
 
+Średnie dzienne zapotrzebowanie energetyczne dla osób o umiarkowanej aktywności fizycznej wynosi:
+
+- 2000 kcal dla kobiety
+- 2500 kcal dla mężczyzny.
+
+
+
 ## Brudnopis
 

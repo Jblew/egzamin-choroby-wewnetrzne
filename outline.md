@@ -72,11 +72,12 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 64. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
 65. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
 66. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108%20Rozpoznanie%20reumatoidalnego%20zapalenia%20stawów.md)
-67. [114 Objawy napadu dny](./odpowiedzi/114%20Objawy%20napadu%20dny.md)
-68. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
-69. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
-70. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
-71. WIP
+67. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
+68. [114 Objawy napadu dny](./odpowiedzi/114%20Objawy%20napadu%20dny.md)
+69. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
+70. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
+71. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
+72. WIP
        5. [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./odpowiedzi/012%20Zasady%20profilaktyki%20powikłań%20zatorowo-zakrzepowych%20u%20pacjenta%20z%20migotaniem%20przedsionków.md)
        6. [013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu](./odpowiedzi/013%20Istotne%20elementy%20badania%20podmiotowego%20u%20pacjenta%20po%20przebytym%20omdleniu.md)
        8. [016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory](./odpowiedzi/016%20Podstawowy%20algorytm%20terapeutyczny%20niewydolności%20serca%20z%20upośledzona%20frakcją%20wyrzutową%20lewej%20komory.md)
@@ -91,7 +92,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           12. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
           13. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
           14. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
-   72. Pytania jeszcze bez odpowiedzi
+   73. Pytania jeszcze bez odpowiedzi
 
        1. [022 Postępowanie w ostrych zespole wieńcowym](./odpowiedzi/022%20Postępowanie%20w%20ostrych%20zespole%20wieńcowym.md)
        2. [023 Powikłania zawału serca](./odpowiedzi/023%20Powikłania%20zawału%20serca.md)
@@ -125,12 +126,11 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        30. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
        31. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
        32. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
-       33. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
-       34. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
-       35. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
-       36. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, SOFA
-       37. TODO: EKG
-       38. TODO: kluczowe badania poziomy (morfologia, biochemia)
-       39. RTG
-       40. Bad. ogólne moczu
-       41. Morfologia
+       33. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
+       34. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
+       35. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, SOFA
+       36. TODO: EKG
+       37. TODO: kluczowe badania poziomy (morfologia, biochemia)
+       38. RTG
+       39. Bad. ogólne moczu
+       40. Morfologia
