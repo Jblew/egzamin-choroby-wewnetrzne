@@ -34,7 +34,7 @@ Jeśli kryteria wycięcia niespełnione (tj nie podejrzewamy złośliwości i je
    1. Do 3 cm => co 12mc
    2. 4-5cm => co 3-6mc
 
-
+![Screenshot 2021-06-23 at 16.54.05](img/Screenshot%202021-06-23%20at%2016.54.05.png)
 
 ## Brudnopis
 

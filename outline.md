@@ -61,18 +61,19 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 53. [092 Postępowanie w zakażeniu układu moczowego](./odpowiedzi/092%20Postępowanie%20w%20zakażeniu%20układu%20moczowego.md)
 54. [093 Podstawowe zaburzenia wodno-elektrolitowe: Przyczyny i postępowanie](./odpowiedzi/093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20postępowanie.md)
 55. [096 Wskazania i przeciwwskazania do biopsji nerki](./odpowiedzi/096%20Wskazania%20i%20przeciwwskazania%20do%20biopsji%20nerki.md)
-56. [099 Objawy niedoboru witaminy B12 i B9](./odpowiedzi/099%20Objawy%20niedoboru%20witaminy%20B12%20i%20B9.md)
-57. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100%20Objawy%20ostrej%20białaczki%20szpikowej.md)
-58. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101%20Zespoły%20mielodysplastyczne%20-%20objawy.md)
-59. [102 Przyczyny małopłytkowości](./odpowiedzi/102%20Przyczyny%20małopłytkowości.md)
-60. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103%20Postępowanie%20w%20przewlekłej%20białaczce%20limfocytowej.md)
-61. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104%20Szpiczak%20mnogi%20–%20objawy,%20rozpoznawanie,%20postępowanie.md)
-62. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108%20Rozpoznanie%20reumatoidalnego%20zapalenia%20stawów.md)
-63. [114 Objawy napadu dny](./odpowiedzi/114%20Objawy%20napadu%20dny.md)
-64. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
-65. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
-66. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
-67. WIP
+56. [098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza](./odpowiedzi/098%20Różnicowanie%20niedokrwistość%20chorób%20przewlekłych%20i%20niedoboru%20żelaza.md)
+57. [099 Objawy niedoboru witaminy B12 i B9](./odpowiedzi/099%20Objawy%20niedoboru%20witaminy%20B12%20i%20B9.md)
+58. [100 Objawy ostrej białaczki szpikowej](./odpowiedzi/100%20Objawy%20ostrej%20białaczki%20szpikowej.md)
+59. [101 Zespoły mielodysplastyczne - objawy](./odpowiedzi/101%20Zespoły%20mielodysplastyczne%20-%20objawy.md)
+60. [102 Przyczyny małopłytkowości](./odpowiedzi/102%20Przyczyny%20małopłytkowości.md)
+61. [103 Postępowanie w przewlekłej białaczce limfocytowej](./odpowiedzi/103%20Postępowanie%20w%20przewlekłej%20białaczce%20limfocytowej.md)
+62. [104 Szpiczak mnogi – objawy, rozpoznawanie, postępowanie](./odpowiedzi/104%20Szpiczak%20mnogi%20–%20objawy,%20rozpoznawanie,%20postępowanie.md)
+63. [108 Rozpoznanie reumatoidalnego zapalenia stawów](./odpowiedzi/108%20Rozpoznanie%20reumatoidalnego%20zapalenia%20stawów.md)
+64. [114 Objawy napadu dny](./odpowiedzi/114%20Objawy%20napadu%20dny.md)
+65. [115 Czynniki ryzyka rozwoju osteoporozy](./odpowiedzi/115%20Czynniki%20ryzyka%20rozwoju%20osteoporozy.md)
+66. [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Profilaktyka%20powikłań%20osteoporozy.md)
+67. [117 Rak nerki – objawy, rozpoznanie, postępowanie](./odpowiedzi/117%20Rak%20nerki%20–%20objawy,%20rozpoznanie,%20postępowanie.md)
+68. WIP
        5. [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./odpowiedzi/012%20Zasady%20profilaktyki%20powikłań%20zatorowo-zakrzepowych%20u%20pacjenta%20z%20migotaniem%20przedsionków.md)
        6. [013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu](./odpowiedzi/013%20Istotne%20elementy%20badania%20podmiotowego%20u%20pacjenta%20po%20przebytym%20omdleniu.md)
        8. [016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory](./odpowiedzi/016%20Podstawowy%20algorytm%20terapeutyczny%20niewydolności%20serca%20z%20upośledzona%20frakcją%20wyrzutową%20lewej%20komory.md)
@@ -86,7 +87,7 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           11. [091 Przyczyny wtórnych kłębuszkowych zapaleń nerek](./odpowiedzi/091%20Przyczyny%20wtórnych%20kłębuszkowych%20zapaleń%20nerek.md)
           12. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
           13. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
-   68. Pytania jeszcze bez odpowiedzi
+   69. Pytania jeszcze bez odpowiedzi
 
        1. [022 Postępowanie w ostrych zespole wieńcowym](./odpowiedzi/022%20Postępowanie%20w%20ostrych%20zespole%20wieńcowym.md)
        2. [023 Powikłania zawału serca](./odpowiedzi/023%20Powikłania%20zawału%20serca.md)
@@ -118,19 +119,18 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        28. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090%20Objawy%20przewlekłych%20kłębuszkowych%20zapaleń%20nerek.md)
        29. [094 Diagnostyka różnicowa białkomoczu](./odpowiedzi/094%20Diagnostyka%20różnicowa%20białkomoczu.md)
        30. [095 Diagnostyka różnicowa krwinkomoczu](./odpowiedzi/095%20Diagnostyka%20różnicowa%20krwinkomoczu.md)
-       31. [098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza](./odpowiedzi/098%20Różnicowanie%20niedokrwistość%20chorób%20przewlekłych%20i%20niedoboru%20żelaza.md)
-       32. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
-       33. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
-       34. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
-       35. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
-       36. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
-       37. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
-       38. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
-       39. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
-       40. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
-       41. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, SOFA
-       42. TODO: EKG
-       43. TODO: kluczowe badania poziomy (morfologia, biochemia)
-       44. RTG
-       45. Bad. ogólne moczu
-       46. Morfologia
+       31. [105 Diagnostyka różnicowa powiększenia węzłów chłonnych](./odpowiedzi/105%20Diagnostyka%20różnicowa%20powiększenia%20węzłów%20chłonnych.md)
+       32. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
+       33. [107 Objawy trombofilii](./odpowiedzi/107%20Objawy%20trombofilii.md)
+       34. [110 Rozpoznanie tocznia rumieniowatego układowego](./odpowiedzi/110%20Rozpoznanie%20tocznia%20rumieniowatego%20układowego.md)
+       35. [111 Narządowe objawy tocznia rumieniowatego układowego](./odpowiedzi/111%20Narządowe%20objawy%20tocznia%20rumieniowatego%20układowego.md)
+       36. [112 Objawy zapaleń dużych naczyń](./odpowiedzi/112%20Objawy%20zapaleń%20dużych%20naczyń.md)
+       37. [113 Rozpoznanie zesztywniającego zapalenia stawów kręgosłupa](./odpowiedzi/113%20Rozpoznanie%20zesztywniającego%20zapalenia%20stawów%20kręgosłupa.md)
+       38. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
+       39. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
+       40. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, SOFA
+       41. TODO: EKG
+       42. TODO: kluczowe badania poziomy (morfologia, biochemia)
+       43. RTG
+       44. Bad. ogólne moczu
+       45. Morfologia

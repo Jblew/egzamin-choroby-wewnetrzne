@@ -8,14 +8,14 @@
 
 **Postacie:**
 
-1. Subkliniczna
-2. Kliniczna
+1. Subkliniczna (ft3, ft4 jest w normie = subkliniczna. Objawy mogą być lub nie)
+2. Kliniczna (TSH podwyższone, ft3, ft4 obniżone, objawy)
 3. Przełom hipometaboliczny
 
 **Przyczyny:**
 
 1. Zapalenia tarczycy
-   1. [Hashimoto](./odpowiedzi/075%20Rozpoznanie%20choroby%20Hashimoto.md)
+   1. [Hashimoto](./075%20Rozpoznanie%20choroby%20Hashimoto.md)
    2. Faza 3 podostrego zapalenia de Curvain
    3. Poporodowe zap. tarczycy
    4. Niebolesne zap. tarczycy
@@ -30,6 +30,10 @@
    4. Tyreostatyki
    5. Kontrast
    6. Amiodaron (typy 1,2 są w nadczynności tarczycy)
+   7. Lit
+   8. TALK = Tyreostatyki, Amiodaron, Lit, Kontrast
+5. Wtórna — niedoczynność przysadki
+6. Trzeciorzędowa — niedoczynność podwzgórza 
 
 **Obraz kliniczny:** 
 
@@ -50,9 +54,9 @@
    6. Łamliwe, kruche, wypadające włosy. Niekiedy też wypadanie brwi
 4. U. krążenia
    1. Bradykardia zatokowa
-   2. Hipotensja
+   2. Hipotensja (ale wzrost rozkurczowego, bo wzrost oporu obwodowego)
    3. Nietolerancja wysiłku
-   4. Powiększenie sylwetki serca
+   4. Powiększenie sylwetki serca (ciśń. rozkurczowe)
 5. U. pokarmowy
    1. Zaparcie
    2. Wodobrzusze (w zaawansowanej hipotyreozie jest retencja płynów)
@@ -98,6 +102,19 @@
    2. Wlew kroplowy LT4 (ew LT3)
    3. Unikać ogrzewania pacjenta, bo powoduje to rozszerzenie naczyń i pogłębia wstrząs
    4. Jeśli wstrząs to GKS
+
+
+
+**Leczenie:**
+
+1. Wskazania do leczenia subklinicznej
+
+   1. Ciąża >2.5 TSH
+   2. Wcześniej choroba tarczycy 
+
+   
+
+   ![Screenshot 2021-06-23 at 15.17.40](073%20Przyczyny%20niedoczynnos%CC%81ci%20tarczycy.assets/Screenshot%202021-06-23%20at%2015.17.40.png)
 
 
 

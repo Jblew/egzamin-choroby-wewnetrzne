@@ -16,11 +16,31 @@
    1. Hipotonia ortostatyczna
    2. Apetyt na słone
    3. Nudności i wymioty
-   4. wzrost CREA, spadek Na+, Cl-, GLU, wzrost K+ i H+
+   4. wzrost CREA, spadek Na+, Cl-, GLU, wzrost **K+** i H+
 5. Objawy niedoboru androgenów
    1. Sucha, swędząca skóra
    2. Spadek libido
    3. Zanik owłosienia łonowego
+
+
+
+Przyczyny:
+
+1. Pierwotna niedoczynność: ch. Addisona
+   1. 80% autoimmunizacja (p/21-hydroksylazie)
+   2. Z. Watehrousa-friedriehsena (posocznica, szczególnie meningokokowa, powoduje DIC i krwawienie do nadnerczy). Dodatkowy objaw: wybroczyny na skórze
+   3. Leki: mitotan, ketokonazol
+   4. WPN (wrodzony przerost nadnerczy)
+   5. Zakaźne: gruźlica, AIDS, kiła
+   6. Przerzuty (nerka, płuco)
+   7. Hemochromatoza, amyloidoza
+2. Wtórna niedoczynność
+   1. Przewlekła terapia GKS => hamowanie zwrotne ACTH
+   2. Duże guzy przysadki, czaskogardlaki
+   3. Leczenie chirurgiczne przysadki
+   4. Udar przysadki
+   5. Z. sheehana (martwica poporodowa)
+3. Ostra niedoczynność = Przełom nadnerczowy
 
 
 

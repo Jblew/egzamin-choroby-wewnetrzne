@@ -24,16 +24,26 @@
    1. Zaburzenia pola widzenia
 3. Objawy wzrostu ICP:
    1. Ból głowy
+4. Może być osteoporoza (estro)
 
-**Diagnostyka:**
+![Screenshot 2021-06-23 at 14.34.06](071%20Objawy%20prolaktynoma.assets/Screenshot%202021-06-23%20at%2014.34.06.png)
 
-1. Diagnostyka hiperprolaktynemii: lista wykluczeń (ciąża, niedoczynność tarczycy, niewydolność wątroby, niewydolność nerek, makroprolaktynemia, leki), test z metoklopramidem (jeśli dodatni to rozpoznajemy hiperprolaktynemię czynnościową)
-2. Diagnostyka guza: MR przysadki — zawsze przy hiperprolaktynemii należy go wykonać (TODO potwierdzić)
+
+
+**Diagnostyka:** 
+
+1. Diagnostyka hiperprolaktynemii: lista wykluczeń (ciąża, stosunek, drażnienie brodawek, niedoczynność tarczycy, niewydolność wątroby, niewydolność nerek, makroprolaktynemia, leki), test z metoklopramidem (jeśli dodatni to rozpoznajemy hiperprolaktynemię czynnościową)
+2. Diagnostyka guza: MR przysadki — zawsze przy hiperprolaktynemii należy go wykonać, nawet czynnościowej
+3. Nie powinniśmy leczyć hiperprolaktynemii czynnościowej (na świecie nie ma dowodów), ale w PL się to robi.
 
 **Leczenie:**
 
 1. Farmakologiczne: agoniści dopaminowi: bromokryptyna, karbelogina. Powodują zmniejszanie guza.
 2. Jeśli farmakoterapia nieskuteczna to resekcja przezklinowa guza.  
+
+
+
+![016_8619](071%20Objawy%20prolaktynoma.assets/016_8619-4451806.jpg)
 
 
 

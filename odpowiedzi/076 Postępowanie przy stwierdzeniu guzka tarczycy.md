@@ -38,5 +38,13 @@
 
 
 
+![Screenshot 2021-06-23 at 16.32.04](img/Screenshot%202021-06-23%20at%2016.32.04.png)
+
+
+
+![Screenshot 2021-06-23 at 16.35.25](img/Screenshot%202021-06-23%20at%2016.35.25.png)
+
+
+
 ## Brudnopis
 

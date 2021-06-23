@@ -24,8 +24,8 @@ Objawy hiperkalcemii:
 
 1. Stones — kamica żółciowa i moczowa
 2. Bones — bóle kostne
-3. Abdominal groans — bóle brzucha, nudności, wymioty
-4. Thrones — zaparcie. Poliuria (odwodnienie)
+3. Abdominal groans — bóle brzucha, nudności, wymioty. zap. trzustki + ch. wrzodowa
+4. Thrones — zaparcie. Poliuria (odwodnienie) + polidypsja (hiperkaliemia uniewrażliwia rec V2 na ADH)
 5. Psychiatric overtones — depresja, senność, śpiączka
 
 **Diagnostyka:** 

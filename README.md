@@ -2194,16 +2194,26 @@ Wyjaśnienie:
    1. Zaburzenia pola widzenia
 3. Objawy wzrostu ICP:
    1. Ból głowy
+4. Może być osteoporoza (estro)
 
-**Diagnostyka:**
+![Screenshot 2021-06-23 at 14.34.06](071%20Objawy%20prolaktynoma.assets/Screenshot%202021-06-23%20at%2014.34.06.png)
 
-1. Diagnostyka hiperprolaktynemii: lista wykluczeń (ciąża, niedoczynność tarczycy, niewydolność wątroby, niewydolność nerek, makroprolaktynemia, leki), test z metoklopramidem (jeśli dodatni to rozpoznajemy hiperprolaktynemię czynnościową)
-2. Diagnostyka guza: MR przysadki — zawsze przy hiperprolaktynemii należy go wykonać (TODO potwierdzić)
+
+
+**Diagnostyka:** 
+
+1. Diagnostyka hiperprolaktynemii: lista wykluczeń (ciąża, stosunek, drażnienie brodawek, niedoczynność tarczycy, niewydolność wątroby, niewydolność nerek, makroprolaktynemia, leki), test z metoklopramidem (jeśli dodatni to rozpoznajemy hiperprolaktynemię czynnościową)
+2. Diagnostyka guza: MR przysadki — zawsze przy hiperprolaktynemii należy go wykonać, nawet czynnościowej
+3. Nie powinniśmy leczyć hiperprolaktynemii czynnościowej (na świecie nie ma dowodów), ale w PL się to robi.
 
 **Leczenie:**
 
 1. Farmakologiczne: agoniści dopaminowi: bromokryptyna, karbelogina. Powodują zmniejszanie guza.
-2. Jeśli farmakoterapia nieskuteczna to resekcja przezklinowa guza.
+2. Jeśli farmakoterapia nieskuteczna to resekcja przezklinowa guza.  
+
+
+
+![016_8619](071%20Objawy%20prolaktynoma.assets/016_8619-4451806.jpg)
 
 
 
@@ -2219,6 +2229,7 @@ Wyjaśnienie:
 
 - Najczęstsza przyczyna: makrogruczolak (>1cm) przysadki.
 - Insulinooporność, wzmożenie lipolizy, wzmożenie syntezy białek
+- GH działa przez IGF1
 
 **Obraz kliniczny:** 
 
@@ -2228,14 +2239,18 @@ Wyjaśnienie:
   - Zmiana barwy głosu
   - Bóle głowy
   - Pogrubienie rysów twarzy
-  - Wzmożenie potliwości
+  - Wzmożenie potliwości, zlewne poty
 - Powikłania narządowe:
   - NT
   - OBPS
-  - Tyreomegalia
+  - Tyreomegalia, wole tarczycy
+  - Hipogonadyzm, mlekotok — dlaczego?
   - HCM=kardiomiopatia przerostowa
   - IGT
   - z. cieśni nadgarstka i inne neuropatie spowodowane przerostem tkanek miękkich
+  - Mogą rosnąć guzki w jelicie => podwyższone ryzyko nowotworów
+  - Nowotwory: JG>tarczyca>stercz
+  - Rozstrzeń oskrzeli, astma
 
 **Rozpoznanie:** 
 
@@ -2261,14 +2276,14 @@ Wyjaśnienie:
 
 **Postacie:**
 
-1. Subkliniczna
-2. Kliniczna
+1. Subkliniczna (ft3, ft4 jest w normie = subkliniczna. Objawy mogą być lub nie)
+2. Kliniczna (TSH podwyższone, ft3, ft4 obniżone, objawy)
 3. Przełom hipometaboliczny
 
 **Przyczyny:**
 
 1. Zapalenia tarczycy
-   1. [Hashimoto](./odpowiedzi/075%20Rozpoznanie%20choroby%20Hashimoto.md)
+   1. [Hashimoto](./075%20Rozpoznanie%20choroby%20Hashimoto.md)
    2. Faza 3 podostrego zapalenia de Curvain
    3. Poporodowe zap. tarczycy
    4. Niebolesne zap. tarczycy
@@ -2283,6 +2298,10 @@ Wyjaśnienie:
    4. Tyreostatyki
    5. Kontrast
    6. Amiodaron (typy 1,2 są w nadczynności tarczycy)
+   7. Lit
+   8. TALK = Tyreostatyki, Amiodaron, Lit, Kontrast
+5. Wtórna — niedoczynność przysadki
+6. Trzeciorzędowa — niedoczynność podwzgórza 
 
 **Obraz kliniczny:** 
 
@@ -2303,9 +2322,9 @@ Wyjaśnienie:
    6. Łamliwe, kruche, wypadające włosy. Niekiedy też wypadanie brwi
 4. U. krążenia
    1. Bradykardia zatokowa
-   2. Hipotensja
+   2. Hipotensja (ale wzrost rozkurczowego, bo wzrost oporu obwodowego)
    3. Nietolerancja wysiłku
-   4. Powiększenie sylwetki serca
+   4. Powiększenie sylwetki serca (ciśń. rozkurczowe)
 5. U. pokarmowy
    1. Zaparcie
    2. Wodobrzusze (w zaawansowanej hipotyreozie jest retencja płynów)
@@ -2354,6 +2373,19 @@ Wyjaśnienie:
 
 
 
+**Leczenie:**
+
+1. Wskazania do leczenia subklinicznej
+
+   1. Ciąża >2.5 TSH
+   2. Wcześniej choroba tarczycy 
+
+   
+
+   ![Screenshot 2021-06-23 at 15.17.40](073%20Przyczyny%20niedoczynnos%CC%81ci%20tarczycy.assets/Screenshot%202021-06-23%20at%2015.17.40.png)
+
+
+
 &nbsp;
 
 ## 074 Przyczyny i objawy nadczynności tarczycy
@@ -2373,8 +2405,8 @@ Wyjaśnienie:
 1. Pobudzenie rec. TSH
    1. Ch. Gravesa-basedowa
    2. Gruczolak przysadki wydzielający TSH
-   3. Wole toksyczne
-   4. Guzek autonomiczny
+   3. Wole toksyczne (mutacje aktywujące rec TSH)
+   4. Guzek autonomiczny (mutacje aktywujące rec TSH)
    5. Tyreotoksykoza ciążowa (hCG)
    6. Nabłoniak kosmówkowy (hCG)
 2. Zwrost masy kom. tarczycowych lub nadmiar jodu
@@ -2389,37 +2421,54 @@ Wyjaśnienie:
    2. Hashitoxicosis
    3. Poamiodaronowa typu 2
 
+
+
+![Screenshot 2021-06-23 at 15.48.38](img/Screenshot%202021-06-23%20at%2015.48.38.png)
+
+
+
 **Obraz kliniczny:** 
 
 1. [triada Basedowa (merseburska): wole + tachykardia + wytrzeszcz]
+
 2. Ogólne
    1. Nietolerancja ciepła
    2. Utrata masy ciała mimo dobrego apetytu
    3. Osłabienie
    4. Obrzęki (wynikają z niewydolności serca)
+   
 3. U. nerwowy
    1. Niepokój, drażliwość, 
    2. Pobudzenie psychoruchowe (zachowania hiperkinetyczne)
    3. Drobnofaliste drżenie rąk
    4. Bezsenność
    5. Śpiączka w przełomie tarczycowym
+   
 4. Oczne
    1. Retrakcja powiek
-   2. Graefego — rąbek przy ruchu gałek w dół
-   3. Kochera — rąbek przy ruchu gałek w górę
-   4. Moebiusa — zbaczanie jednej z gałek przy zbieżnym patrzeniu (bo osłabienie m. prostego przyśrodkowego)
-   5. Stellwaga — rzadkie mruganie
-   6. Popowa — skokowe opadanie powieki przy ruchu w dół (bo przykurcz mm. powieki górnej)
+   2. Graefego — rąbek przy ruchu gałek w dół (na garaż)
+   3. Kochera — rąbek przy ruchu gałek w górę (na komin)
+   4. Moebiusa — zbaczanie jednej z gałek przy zbieżnym patrzeniu (bo osłabienie m. prostego przyśrodkowego) — jedno oko na Maroko drugie na kaukaz
+   5. Stellwaga — rzadkie mruganie (ważę co mam powiedzieć)
+   6. Popowa — skokowe opadanie powieki przy ruchu w dół (bo przykurcz mm. powieki górnej) (pop-pop-pop-pop)
+   
+   ![Screenshot 2021-06-23 at 15.49.33](img/Screenshot%202021-06-23%20at%2015.49.33.png)
+   
+   ![Screenshot 2021-06-23 at 15.50.04](img/Screenshot%202021-06-23%20at%2015.50.04.png)
+   
 5. U. ruchu
    1. Miopatia tyreotoksyczna — mm. dystalne kończyn i mm. twarzy — osłabienie siły
+   
 6. Skórne
    1. Ciepła, wilgotna, nadmiernie gładka
    2. Wzmożona potliwość
    3. Pokrzywka
    4. Cienkie, nadmiernie wypadające włosy
    5. Onycholiza, bo przedwcześnie oddziela się paznokieć od łożyska
+   
 7. Szyja
    1. Powiększona tarczyca (+ szmer/drżenie => wole naczyniowe, + nadczynność => wole toksyczne)
+   
 8. U. krążenia
    1. Kołatanie
    2. Tachykardia
@@ -2427,14 +2476,20 @@ Wyjaśnienie:
    4. Migotanie przedsionków
    5. Obrzęki
    6. Głośne tony serca
+   
 9. U. pokarmowy
-   1. Biegunka
-   2. Uszkodzenie wątroby => żółtaczka
+   1. Biegunka — warto zrobić TSH w biegunce
+   2. Uszkodzenie wątroby (bezpośrednie działanie hormonów tarczycy) => żółtaczka
+   
 10. U. rozrodczy
     1. Zmniejszenie libido
     2. Rzadkie miesiączki, ale owulacyjne
     3. Zab. wzwodu
     4. Ginekomastia
+    
+11. Inne
+
+    1. Osteoporoza
 
 
 
@@ -2445,8 +2500,8 @@ Wyjaśnienie:
    2. 20-50rż => pełnoobjawowa hipertyreoza
    3. 50+rż: dominuje AF
 2. Dodatkowe objawy:
-   1. Akropachia tarczycowa
-   2. Obrzęk przedgoleniowy — objaw patognomoniczny
+   1. Akropachia tarczycowa = niebolesnego obrzęku palców rąk lub niekiedy stóp z towarzyszącym podokostnowym zgrubieniem kości
+   2. Obrzęk przedgoleniowy = dermatopatia — objaw patognomoniczny
    3. Wytrzeszcz oczu
    4. Wole naczyniowe
    5. Uwrażliwienie na katecholaminy
@@ -2458,6 +2513,8 @@ Wyjaśnienie:
 4. Leczenie:
    1. Najpierw osiągnięcie eutyreozy
    2. Potem jedno spośród: I131 (z wyboru ale p/wskazane w umiarkowanej i ciężkiej orbitopatii), 2-3 lata tyreostatyków, operacja
+   3. Tyreostatyki: tiamazon albo propylotiouracyl. Tiamazolu nie można w ciąży.
+      1. Odstawiamy gdy: zapalenie wątroby, agranulocytoza, zap. naczyń z ACNA, żółtaczka holestatyczna
 
 
 
@@ -2476,7 +2533,7 @@ Wyjaśnienie:
 **Obraz kliniczny:** 
 
 1. Dwa przebiegi: hypothyreoza + wole LUB hypothyreoza + zanik gruczołu.
-2. Niedoczynność tarczycy: [073 Przyczyny niedoczynności tarczycy](./odpowiedzi/073%20Przyczyny%20niedoczynności%20tarczycy.md)
+2. Niedoczynność tarczycy: [073 Przyczyny niedoczynności tarczycy](./073%20Przyczyny%20niedoczynności%20tarczycy.md)
 3. Hashitoxicosis — przejściowa hipertyreoza w wyniku niszczenia tarczycy przez limfocyty.
 
 **Diagnostyka:** 
@@ -2490,7 +2547,8 @@ Wyjaśnienie:
 
 1. Niedoczynność + p/TPO / p/TG
 2. Wole + p/TPO / p/TG
-3. Niedoczynność + BAC
+3. Niedoczynność + BAC (nacieki limfocytarne i charakterystyczne komórki o wielu imionach)
+4. (jak nie ma przeciwciał to zrobić BAC)
 
 **Leczenie:** 
 
@@ -2540,6 +2598,14 @@ Wyjaśnienie:
 
 
 
+![Screenshot 2021-06-23 at 16.32.04](img/Screenshot%202021-06-23%20at%2016.32.04.png)
+
+
+
+![Screenshot 2021-06-23 at 16.35.25](img/Screenshot%202021-06-23%20at%2016.35.25.png)
+
+
+
 &nbsp;
 
 ## 078 Przyczyny nieczynności kory nadnerczy
@@ -2558,11 +2624,31 @@ Wyjaśnienie:
    1. Hipotonia ortostatyczna
    2. Apetyt na słone
    3. Nudności i wymioty
-   4. wzrost CREA, spadek Na+, Cl-, GLU, wzrost K+ i H+
+   4. wzrost CREA, spadek Na+, Cl-, GLU, wzrost **K+** i H+
 5. Objawy niedoboru androgenów
    1. Sucha, swędząca skóra
    2. Spadek libido
    3. Zanik owłosienia łonowego
+
+
+
+Przyczyny:
+
+1. Pierwotna niedoczynność: ch. Addisona
+   1. 80% autoimmunizacja (p/21-hydroksylazie)
+   2. Z. Watehrousa-friedriehsena (posocznica, szczególnie meningokokowa, powoduje DIC i krwawienie do nadnerczy). Dodatkowy objaw: wybroczyny na skórze
+   3. Leki: mitotan, ketokonazol
+   4. WPN (wrodzony przerost nadnerczy)
+   5. Zakaźne: gruźlica, AIDS, kiła
+   6. Przerzuty (nerka, płuco)
+   7. Hemochromatoza, amyloidoza
+2. Wtórna niedoczynność
+   1. Przewlekła terapia GKS => hamowanie zwrotne ACTH
+   2. Duże guzy przysadki, czaskogardlaki
+   3. Leczenie chirurgiczne przysadki
+   4. Udar przysadki
+   5. Z. sheehana (martwica poporodowa)
+3. Ostra niedoczynność = Przełom nadnerczowy
 
 
 
@@ -2777,6 +2863,8 @@ Jeśli kryteria wycięcia niespełnione (tj nie podejrzewamy złośliwości i je
 1. Obserwacja w USG 
    1. Do 3 cm => co 12mc
    2. 4-5cm => co 3-6mc
+
+![Screenshot 2021-06-23 at 16.54.05](img/Screenshot%202021-06-23%20at%2016.54.05.png)
 
 
 
@@ -4003,6 +4091,107 @@ Przeciwwskazania:
 
 &nbsp;
 
+## 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
+
+Niedokrwistość: Hb <13.5M, <12K
+
+
+
+Niedokrwistość to zmniejszenie stężenia hemoglobiny (Hb), hematokrytu (Ht) i liczby erytrocytów we krwi o >2 odchylenia standardowe od wartości prawidłowych. **Podział** ze względu na nasilenie:
+
+1) **łagodna** – Hb 10–12,0 g/dl u kobiet, 13,5 g/dl u mężczyzn
+
+2) **umiarkowana** – Hb 8–9,9 g/dl
+
+3) **ciężka** – Hb 6,5–7,9 g/dl
+
+4) **zagrażająca życiu** – Hb <6,5 g/dl.
+
+
+
+**Niedokrwistość chorób przewlekłych:**
+
+1. Mikro lub normo
+2. Diagnostyka:
+   1. \<Żelaza
+   2. \>Ferrytyny
+   3. \<TIBC
+   4. \<RET
+3. Obraz:
+   1. Rzadko ciężka, rzadko poniżej 9
+   2. Często towarzyszy nadpłytkowość, odczyn zapalny, leukocytoza
+
+![Screenshot 2021-06-23 at 17.34.44](img/Screenshot%202021-06-23%20at%2017.34.44.png)
+
+
+
+
+
+**Niedokrwistośc z niedoboru żelaza:**
+
+1. Mikrocytarna, ale wczesna faza normocytarna
+
+2. Diagnostyka:
+
+   1. \<Żelaza, Ferrytyny
+   2. \>TIBC i >sFer
+   3. \<RET
+   4. \>RDW
+
+3. Objawy charakterystyczne dla niedokrwistości z niedoboru żelaza:
+
+   - Spaczone łaknienie (glina, kreda, krochmal).
+
+   - Zapalenie języka (ból, pieczenie i wygładzenie powierzchni języka).
+
+   - Suchość skóry.
+
+   - Cheilitis = Bolesne pęknięcia kącików ust.
+
+   - Zmiany paznokci (blade, kruche, z podłużnymi rowkami).
+
+
+
+
+
+![Screenshot 2021-06-23 at 17.36.14](img/Screenshot%202021-06-23%20at%2017.36.14.png)
+
+
+
+
+
+Niedokrwistość wymagająca przetoczenia erytrocytów:
+
+1) u hemodynamicznie stabilnych pacjentów hospitalizowanych przestrzegaj restrykcyjnej strategii przetoczeń
+
+- rozważ przetoczenie przy Hb ≤7 g/dl (u chorych poddanych operacji ortopedycznej lub kardiochirurgicznej
+- lub w przypadku istniejącej choroby układu sercowo-naczyniowego – przy Hb ≤8 g/dl
+- lub w razie wystąpienia klinicznych objawów niedokrwistości (ból w klatce piersiowej, hipotensja ortostatyczna, tachykardia niereagująca na przetaczanie płynów, zastoinowa niewydolność serca)
+
+2) u niektórych chorych w stanie zagrożenia życia należy przyjąć bardziej liberalne kryteria przetoczeń:
+
+a) u chorych z ostrym zespołem wieńcowym – utrzymuj Hb 8–10 g/dl
+
+b) we wczesnym (pierwsze 6 h) okresie ciężkiej sepsy, w razie stwierdzenia niedostatecznego dostarczania tlenu – rozważ przetoczenie w celu utrzymania Hb 9–10 g/dl
+
+3) u chorych z niedokrwiennym udarem mózgu, a także w przypadkach urazowego uszkodzenia mózgu z objawami jego niedokrwienia – utrzymaj Hb >9 g/dl, a u chorych z krwawieniem podpajęczynówkowym – Hb >8 g/dl.
+
+
+
+Poniżej 6,5Hb zagrożenie życia
+
+
+
+Przetoczenie 1 j. zwiększa stężenie Hb zwykle o ~1 g/dl.
+
+
+
+Crossmatch ważny 24h
+
+
+
+&nbsp;
+
 ## 099 Objawy niedoboru witaminy B12 i B9
 
 B9 = kw. foliowy
@@ -4011,7 +4200,7 @@ B9 = kw. foliowy
 
 - Niedokrwistość megaloblastyczna
 - Utrata apetytu, chudnięcie
-- Pieczenie języka
+- Pieczenie języka. Język jest bawoli i gładki
 - Żółtaczka
 - Zaparcie/biegunka
 - Układu nerwowego
@@ -5150,8 +5339,8 @@ Objawy hiperkalcemii:
 
 1. Stones — kamica żółciowa i moczowa
 2. Bones — bóle kostne
-3. Abdominal groans — bóle brzucha, nudności, wymioty
-4. Thrones — zaparcie. Poliuria (odwodnienie)
+3. Abdominal groans — bóle brzucha, nudności, wymioty. zap. trzustki + ch. wrzodowa
+4. Thrones — zaparcie. Poliuria (odwodnienie) + polidypsja (hiperkaliemia uniewrażliwia rec V2 na ADH)
 5. Psychiatric overtones — depresja, senność, śpiączka
 
 **Diagnostyka:** 
@@ -5508,12 +5697,6 @@ Obrazy kliniczne:
 &nbsp;
 
 ### 095 Diagnostyka różnicowa krwinkomoczu
-
-
-
-&nbsp;
-
-### 098 Różnicowanie niedokrwistość chorób przewlekłych i niedoboru żelaza
 
 
 

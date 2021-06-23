@@ -10,6 +10,7 @@
 
 - Najczęstsza przyczyna: makrogruczolak (>1cm) przysadki.
 - Insulinooporność, wzmożenie lipolizy, wzmożenie syntezy białek
+- GH działa przez IGF1
 
 **Obraz kliniczny:** 
 
@@ -19,14 +20,18 @@
   - Zmiana barwy głosu
   - Bóle głowy
   - Pogrubienie rysów twarzy
-  - Wzmożenie potliwości
+  - Wzmożenie potliwości, zlewne poty
 - Powikłania narządowe:
   - NT
   - OBPS
-  - Tyreomegalia
+  - Tyreomegalia, wole tarczycy
+  - Hipogonadyzm, mlekotok — dlaczego?
   - HCM=kardiomiopatia przerostowa
   - IGT
   - z. cieśni nadgarstka i inne neuropatie spowodowane przerostem tkanek miękkich
+  - Mogą rosnąć guzki w jelicie => podwyższone ryzyko nowotworów
+  - Nowotwory: JG>tarczyca>stercz
+  - Rozstrzeń oskrzeli, astma
 
 **Rozpoznanie:** 
 

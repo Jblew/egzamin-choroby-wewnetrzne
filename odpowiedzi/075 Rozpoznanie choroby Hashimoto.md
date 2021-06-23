@@ -13,7 +13,7 @@
 **Obraz kliniczny:** 
 
 1. Dwa przebiegi: hypothyreoza + wole LUB hypothyreoza + zanik gruczołu.
-2. Niedoczynność tarczycy: [073 Przyczyny niedoczynności tarczycy](./odpowiedzi/073%20Przyczyny%20niedoczynności%20tarczycy.md)
+2. Niedoczynność tarczycy: [073 Przyczyny niedoczynności tarczycy](./073%20Przyczyny%20niedoczynności%20tarczycy.md)
 3. Hashitoxicosis — przejściowa hipertyreoza w wyniku niszczenia tarczycy przez limfocyty.
 
 **Diagnostyka:** 
@@ -27,7 +27,8 @@
 
 1. Niedoczynność + p/TPO / p/TG
 2. Wole + p/TPO / p/TG
-3. Niedoczynność + BAC
+3. Niedoczynność + BAC (nacieki limfocytarne i charakterystyczne komórki o wielu imionach)
+4. (jak nie ma przeciwciał to zrobić BAC)
 
 **Leczenie:** 
 

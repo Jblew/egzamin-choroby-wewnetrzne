@@ -8,7 +8,7 @@ B9 = kw. foliowy
 
 - Niedokrwistość megaloblastyczna
 - Utrata apetytu, chudnięcie
-- Pieczenie języka
+- Pieczenie języka. Język jest bawoli i gładki
 - Żółtaczka
 - Zaparcie/biegunka
 - Układu nerwowego
