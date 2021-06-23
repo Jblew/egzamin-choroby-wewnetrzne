@@ -24,9 +24,8 @@
 
 **Ocena zaawansowania:**
 
-1. RAI
+1. RAI (0=LYM>5G/l)
 
-   1. LYM>5G/l
    2. +limfadenopatia
    3. +hs-megalia
    4. +Hb<11
@@ -46,10 +45,21 @@
    1. Nie leczymy. Tylko obserwacja
 2. Okres pośredni (8+ lat życia) = RAI1-2, BINET.B
    1. Nie leczymy. Tylko obserwacja
-3. Choroba zaawansowana (6,5rż) = RAI3+, BINET.C
+3. Choroba zaawansowana (6,5rż) = RAI3+, BINET.C (w obu dołącza się niedokrwistość lub małopłytkowość)
    1. Leczymy jeśli stan chorego pozwala i są odpowiednie wskazania.
 
-Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wyleczenie jest allo-HSCT, ale kwalifikuje się tylko 10% chorych. 
+**Wskazania do rozpoczęcia leczenia wg Szczeklika:**
+
+1. objawy ogólne (w tym tzw. objawy B)
+2. niedokrwistość (≤10 g/dl) lub małopłytkowość (<100 000/µl) wywołane nacieczeniem szpiku
+3. oporne na GKS cytopenie autoimmunologiczne (niedokrwistość lub małopłytkowość)
+4. znaczne (≥10 cm) lub postępujące, lub objawowe powiększenie węzłów chłonnych bądź znaczne (≥6 cm poniżej łuku żebrowego) lub postępujące, lub objawowe powiększenie śledziony
+5. szybko narastająca limfocytoza (≥50% w ciągu 2 mies.), czas podwojenia liczby limfocytów <6 mies. (w przypadku wyjściowej limfocytozy <30 000/µl chorzy mogą wymagać dłuższej obserwacji)
+6.  objawowe zajęcie narządów pozawęzłowych.
+
+**Leczenie:** analogi purynowe (fludarabina, kladrybina) + rytuksymab. Jedyną szansą na wyleczenie jest allo-HSCT, ale kwalifikuje się tylko 10% chorych. 
+
+**Powikłania:** może dojść do zespołu Richtera czyli transformacji w inny nowotwór, szczególnie DLBCL
 
 
 

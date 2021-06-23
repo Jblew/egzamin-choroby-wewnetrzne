@@ -23,7 +23,8 @@
 - Renal: Kreatynina > 2mg/dl (czyli GFR ok poniżej 60)
 - Anemia: Hb<10
 - Bones: osteoporoza + złamania patologiczne LUB ogniska osteolityczne
-- Other: nawracające infekcje, nadlepkość krwi
+- Other: nawracające infekcje, nadlepkość krwi (objaw — szum w głowie)
+- Konwekwencje hiperkalcemii: polidypsja, poliuria, zaparcia, Bones...
 
 **Diagnostyka:** 
 
@@ -34,7 +35,10 @@
 - Elektroforeza moczu: białko Bence'a-Jonesa (białka tak małe, że od razu przechodzą do moczu)
 - RTG: liczne ogniska osteolityczne = futro wygryzione przez mole
 
-**Rozpoznanie:** >10% klonalnych plazmocytów w szpiku LUB potwierdzony histologicznie guz plazmocytowy (w szpiku lub poza) i co najmniej jeden z objawów CRAB
+**Rozpoznanie:** 
+
+- \>10% klonalnych plazmocytów w szpiku LUB potwierdzony histologicznie guz plazmocytowy (w szpiku lub poza) i co najmniej jeden z objawów CRAB
+- SLIM (m.in. \> 60%)
 
 **Leczenie:** 
 
@@ -47,7 +51,7 @@
   - Talidomid
   - Melfalan (dawki niższe od mieloablacyjnych)
   - Deksametazon
-- W szpiczaku objawowym i u kwalifikujących się do autoHSCL
+- W szpiczaku objawowym i u kwalifikujących się do autoHSCT
   - Przygotowanie: Talidomid, dexametazon i melfalan w dawce mieloablacyjnej!
   - autoHSCT
 

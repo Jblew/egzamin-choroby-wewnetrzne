@@ -15,8 +15,11 @@
   - Niewyjaśniona utrata mc
 - Objawy hematologiczne
   - Objawy leukostatyczne — zatykanie małych naczyń przez limfocyty
+    - W mózgu: zab. Widzenia, bóle głowy, szumy uszne
+    - Prącie: priapizm
   - Osoczowe zaburzenia krzepnięcia
 - Objawy niewydolności szpiku: pancytopenii: niedokrwistość, małopłytkowość, neutropenia
+- w AML: przerost dziąseł
 
 **Diagnostyka:** 
 

@@ -1970,6 +1970,138 @@ Wyjaśnienie:
 
 &nbsp;
 
+## 065 Ubytek masy ciała - postępowanie
+
+Niedożywienie:
+
+- BMI<18,5 lub BMI<20 po 65rż
+- Utrata ponad 10% w 6mc lub 5% w 3mc
+- Nie przyjmowanie pożywienia przez 7 dni lub zmniejszone o 60% przez 10 dni
+- Ponad 3pkt w skali NRS
+
+
+
+**Przyczyny:**
+
+1. Zmniejszone spożywanie pokarmów
+   1. Psychogenne (też celowe)
+   2. Dysfagia
+   3. Niesprawność
+   4. Zmniejszony apetyt w nowotworach
+   5. Alkoholizm, narkomania
+2. Procesy kataboliczne
+   1. Nadczynność tarczycy
+   2. Nowotwory
+   3. ch. układowe
+   4. w ciężkich infekcjach
+   5. w zapaleniu płuc
+   6. przewlekłe wyniszczające choroby: POChP, marskość wątroby, cushing, PChN, anemia, NS
+3. Zaburzenia wchłaniania
+   1. OZT, PZT
+   2. Zespół krótkiego jelita
+   3. Choroby zapalne jelit
+   4. Przetoki
+   5. Celiakia
+   6. Niedrożność
+4. Straty substancji odżywczych
+   1. Dializy
+   2. Zespół nerczycowy
+   3. Biegunki
+5. Inne
+   1. DM1 — blok wejścia cukru do komórki, ew szybka utrata w DM2
+
+
+
+Badania:
+
+1. Wywiad pogłębiony
+2. Badanie przedmiotowe
+3. Laboratoryjne
+   1. Morfologia — proc. rozrostowe
+   2. Mocz
+   3. Albuminy
+   4. Wątrobowe próby
+   5. Amylaza w kierunku OZT
+   6. CRP
+   7. Kreatynina
+   8. Elektrolity
+   9. Cukier, OGTT
+4. Celiakia: HLA-DR4 i HLA-DR8?, p/TG p/EMA
+5. RTG KLP, RTG Abd (jeśli objawy brzuszne)
+6. Kał na krew utajoną, per rectum
+7. NT-proBNP, ECHO w kierunku LVEF
+8. USG brzucha
+
+
+
+**Kwestionariusze żywienia:**
+
+- NRS (używany w PL)
+
+
+
+**Postępowanie:**
+
+1. Ocena stopnia niedożywienia proaktywna — skala NRS w PL
+
+2. Wskazania do leczenia żywieniowego:
+
+   1. Pacjenci wyniszczeni.
+
+   2. Pacjenci niedożywieni, u których przewiduje się brak możliwości
+      skutecznego odżywiania drogą doustną przez okres 7-10 dni.
+
+   3. Pacjenci krytycznie chorzy, u  których okres głodzenia będzie dłuższy niż 5 dni.
+
+   4. Zwiększony katabolizm.
+
+   5. Powikłania pooperacyjne bez możliwości skutecznego żywienia doustnego.
+
+   6. Reoperacja w okresie 30 dni po poprzedniej operacji.
+
+   7. Niewydolność przewodu pokarmowego ostra lub przewlekła.
+
+      ![Screenshot 2021-06-23 at 20.33.17](img/Screenshot%202021-06-23%20at%2020.33.17.png)
+
+3. Żywienie dojelitowe - EN (enteral nutrition):
+
+   1. doustne,
+      1. Nutridrink
+      2. Mieszanki białkowe do gotowania
+   2. przez zgłębnik (nosowo-żołądkowy, nosowo-dwunastniczy, nosowo-jelitowy),
+      1. max 30 dni, u pacjentów nieprzytomnych (ale przytomni też miewają)
+      2. Powikłanie: odleżyny
+   3. przez przetokę odżywczą (gastrostomia*, jejunostomia) gdy >30 dni
+      1. PEG
+      2. gastrostomia klasyczna
+      3. jejunostomia
+   4. Zalety: Zalety żywienia dojelitowego to zachowanie integralności śluzówki jelit, co zabezpiecza przed translokacją bakterii do krążenia systemowego, zapobiega również atrofii kosmków jelitowych, poprawia tolerancję glukozy.
+
+4. Żywienie hybrydowe
+
+5. Żywienie pozajelitowe - PN (parenteral nutrition):
+
+   1. dostęp centralny - cewnik do żyły głównej górnej (metoda PREFEROWANA) = żywienie całkowite
+   2. dostęp obwodowy = żywienie niepełne, nie zapewnia całości potrzeb
+   3. Wskazania
+      1. Chorzy z zespołem krótkiego jelita po rozległych resekcjach jelita cienkiego (ponad połowa jelita).
+      2. Pacjenci po cięższych operacjach w obrębie przewodu pokarmowego.
+      3. Chorzy niedożywieni  przed operacją w trybie planowym, aby poprawić stan ich zdrowia (zazwyczaj łącznie z żywieniem dojelitowym).
+      4. Chorzy z przetokami przewodu pokarmowego (w celu ułatwienia samoistnego zamknięcia się przetoki).
+      5. Chorzy z zaostrzeniem choroby Leśniowskiego-Crohna.
+      6. Pacjenci oddziałów intensywnej terapii (zazwyczaj łącznie z żywieniem dojelitowym).
+      7. Inni pacjenci niedożywieni, kiedy żywienie drogą dojelitową jest niewystarczające (łącznie z żywieniem dojelitowym).
+
+
+
+![Screenshot 2021-06-23 at 20.40.49](img/Screenshot%202021-06-23%20at%2020.40.49.png)
+
+![Screenshot 2021-06-23 at 20.40.35](img/Screenshot%202021-06-23%20at%2020.40.35.png)
+
+
+
+&nbsp;
+
 ## 066 Objawy ostrego zapalenia pęcherzyka żółciowego
 
 **Kamica żółciowa**
@@ -4274,8 +4406,11 @@ B9 = kw. foliowy
   - Niewyjaśniona utrata mc
 - Objawy hematologiczne
   - Objawy leukostatyczne — zatykanie małych naczyń przez limfocyty
+    - W mózgu: zab. Widzenia, bóle głowy, szumy uszne
+    - Prącie: priapizm
   - Osoczowe zaburzenia krzepnięcia
 - Objawy niewydolności szpiku: pancytopenii: niedokrwistość, małopłytkowość, neutropenia
+- w AML: przerost dziąseł
 
 **Diagnostyka:** 
 
@@ -4504,9 +4639,8 @@ Małopłytkowość = <150G/l
 
 **Ocena zaawansowania:**
 
-1. RAI
+1. RAI (0=LYM>5G/l)
 
-   1. LYM>5G/l
    2. +limfadenopatia
    3. +hs-megalia
    4. +Hb<11
@@ -4526,10 +4660,21 @@ Małopłytkowość = <150G/l
    1. Nie leczymy. Tylko obserwacja
 2. Okres pośredni (8+ lat życia) = RAI1-2, BINET.B
    1. Nie leczymy. Tylko obserwacja
-3. Choroba zaawansowana (6,5rż) = RAI3+, BINET.C
+3. Choroba zaawansowana (6,5rż) = RAI3+, BINET.C (w obu dołącza się niedokrwistość lub małopłytkowość)
    1. Leczymy jeśli stan chorego pozwala i są odpowiednie wskazania.
 
-Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wyleczenie jest allo-HSCT, ale kwalifikuje się tylko 10% chorych.
+**Wskazania do rozpoczęcia leczenia wg Szczeklika:**
+
+1. objawy ogólne (w tym tzw. objawy B)
+2. niedokrwistość (≤10 g/dl) lub małopłytkowość (<100 000/µl) wywołane nacieczeniem szpiku
+3. oporne na GKS cytopenie autoimmunologiczne (niedokrwistość lub małopłytkowość)
+4. znaczne (≥10 cm) lub postępujące, lub objawowe powiększenie węzłów chłonnych bądź znaczne (≥6 cm poniżej łuku żebrowego) lub postępujące, lub objawowe powiększenie śledziony
+5. szybko narastająca limfocytoza (≥50% w ciągu 2 mies.), czas podwojenia liczby limfocytów <6 mies. (w przypadku wyjściowej limfocytozy <30 000/µl chorzy mogą wymagać dłuższej obserwacji)
+6.  objawowe zajęcie narządów pozawęzłowych.
+
+**Leczenie:** analogi purynowe (fludarabina, kladrybina) + rytuksymab. Jedyną szansą na wyleczenie jest allo-HSCT, ale kwalifikuje się tylko 10% chorych. 
+
+**Powikłania:** może dojść do zespołu Richtera czyli transformacji w inny nowotwór, szczególnie DLBCL
 
 
 
@@ -4558,7 +4703,8 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 - Renal: Kreatynina > 2mg/dl (czyli GFR ok poniżej 60)
 - Anemia: Hb<10
 - Bones: osteoporoza + złamania patologiczne LUB ogniska osteolityczne
-- Other: nawracające infekcje, nadlepkość krwi
+- Other: nawracające infekcje, nadlepkość krwi (objaw — szum w głowie)
+- Konwekwencje hiperkalcemii: polidypsja, poliuria, zaparcia, Bones...
 
 **Diagnostyka:** 
 
@@ -4569,7 +4715,10 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
 - Elektroforeza moczu: białko Bence'a-Jonesa (białka tak małe, że od razu przechodzą do moczu)
 - RTG: liczne ogniska osteolityczne = futro wygryzione przez mole
 
-**Rozpoznanie:** >10% klonalnych plazmocytów w szpiku LUB potwierdzony histologicznie guz plazmocytowy (w szpiku lub poza) i co najmniej jeden z objawów CRAB
+**Rozpoznanie:** 
+
+- \>10% klonalnych plazmocytów w szpiku LUB potwierdzony histologicznie guz plazmocytowy (w szpiku lub poza) i co najmniej jeden z objawów CRAB
+- SLIM (m.in. \> 60%)
 
 **Leczenie:** 
 
@@ -4582,9 +4731,58 @@ Leczenie: analogi purynowe (fludarabina, kladrybina). Jedyną szansą na wylecze
   - Talidomid
   - Melfalan (dawki niższe od mieloablacyjnych)
   - Deksametazon
-- W szpiczaku objawowym i u kwalifikujących się do autoHSCL
+- W szpiczaku objawowym i u kwalifikujących się do autoHSCT
   - Przygotowanie: Talidomid, dexametazon i melfalan w dawce mieloablacyjnej!
   - autoHSCT
+
+
+
+&nbsp;
+
+## 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
+
+1. Uogólniona
+   1. Odczynowa
+      1. Infekcja
+         1. EBV, CMV, HIV
+         2. Gruźlica
+         3. Hepatitis: HAV...
+      2. Ch. układowe — SLE, sarkoidoza, RZS, pseudotumor, Sjogren, ch. Stilla, mieszana ch. tkanki łącznej, PM/DM, Kawasaki
+      3. Inne: ACNE (trądzik), alergie, nadczynność tarczycy
+   2. Nowotworowe
+      1. Białaczki
+      2. Chłoniaki
+2. Zlokalizowana
+   1. Infekcyjne
+      1. Miejscowe zakażenie — szczególnie bakteryjne
+   2. Nowotworowe
+      1. Zlokalizowane chłoniaki — HL, ew NHL
+      2. Przerzuty do węzłów (np węzeł Virchova)
+   3. Inne
+      1. Serkoidoza
+
+
+
+Powiększony:
+
+- \>1cm
+- Pachwinowe >2cm
+
+
+
+Cechy nowotworowe:
+
+1. Nieruchomy
+2. Nie zaczyna się zmniejszać po 4-6 tygodniach od infekcji
+3. Twarde
+4. Niebolesne
+5. Nieprzesuwalne
+
+
+
+Powikłania:
+
+- Powiększone węzły chłonne mogą dawać objawy takie, jak: dyskomfort w JB, kaszel, duszność. zespół żyły głównej górnej, utrudnione odpływanie moczu, zaparcia, niedrożność
 
 
 
@@ -5763,6 +5961,10 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 ### 054 Diagnostyka różnicowa przewlekłych biegunek
 
+[059 Postępowanie w ostrej biegunce](./059%20Postępowanie%20w%20ostrej%20biegunce.md)
+
+https://www.mp.pl/interna/chapter/B16.I.1.2.
+
 
 
 &nbsp;
@@ -5781,6 +5983,14 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 ### 059 Postępowanie w ostrej biegunce
 
+[054 Diagnostyka różnicowa przewlekłych biegunek](./odpowiedzi/054%20Diagnostyka%20różnicowa%20przewlekłych%20biegunek.md)
+
+https://www.mp.pl/interna/chapter/B16.I.1.2.
+
+
+
+![016_5595](img/016_5595.jpg)
+
 
 
 &nbsp;
@@ -5794,12 +6004,6 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 ### 063 Postępowanie z chorym z bólami brzucha
 
 WNL Chirurgia 3, prezentacja "ostry brzuch"
-
-
-
-&nbsp;
-
-### 065 Ubytek masy ciała - postępowanie
 
 
 
@@ -5850,11 +6054,36 @@ Obrazy kliniczne:
 
 ### 095 Diagnostyka różnicowa krwinkomoczu
 
+https://www.mp.pl/interna/chapter/B16.I.1.18.
 
 
-&nbsp;
 
-### 105 Diagnostyka różnicowa powiększenia węzłów chłonnych
+Zwiększona liczba erytrocytów w moczu – >3 wpw w odwirowanej próbce moczu. Krwiomocz 
+
+- mikroskopowy (krwinkomocz) – zabarwienie moczu jest niezmienione. Krwiomocz
+- makroskopowy – barwa moczu sugeruje obecność krwi.
+
+
+
+1.  kłębuszkowe (glomerulopatie) – nefropatia IgA, nefropatia cienkich błon podstawnych, zespół Alporta, każde ostre lub przewlekłe kłębuszkowe zapalenie nerek
+2. 90% pozakłębuszkowe:
+   1. górny odcinek układu moczowego – kamica moczowa, torbiele nerek, nowotwór (nerki, miedniczki, kielichów, moczowodu), hiperkalciuria, hiperurykozuria, odmiedniczkowe zapalenie nerek, uraz nerki, martwica brodawek nerkowych, zawał nerki, zakrzepica żył nerki, gruźlica nerek
+   2. pęcherz moczowy – zapalenie, rak, polip, uraz, kamień, endometrioza
+   3. cewka moczowa – zapalenie, uraz, zwężenie, nowotwór, ciało obce
+   4. stercz – rak, łagodny rozrost, zapalenie
+3. inne – intensywny wysiłek fizyczny, gorączka, stosunek płciowy, skaza krwotoczna, domieszka krwi miesiączkowej, przyczyna nieokreślona.
+
+
+
+**Diagnostyka:**
+
+- test paskowy => potwierdzić w rozmazie moczu
+
+- można odstąpić gdy:
+
+  1) u młodej kobiety z typowym obrazem zapalenia pęcherza moczowego i potwierdzonym ZUM (bakteriomocz znamienny), jeśli w wyniku leczenia ustąpiły dolegliwości i krwiomocz oraz nie stwierdza się krwiomoczu w kontrolnych badaniach moczu
+
+  2) w związku z intensywnym wysiłkiem fizycznym, gorączką, miesiączką, potencjalnym urazem dróg moczowych (np. stosunek płciowy), a w kontrolnych badaniach moczu wykonanych po >48 h od ustąpienia przypuszczalnej przyczyny nie stwierdza się krwiomoczu.
 
 
 
