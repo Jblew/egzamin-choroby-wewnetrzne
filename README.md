@@ -1549,6 +1549,18 @@ ChTH = cisplatyna + etopozyd
 
 
 
+![Screenshot 2021-06-24 at 23.48.20](img/Screenshot%202021-06-24%20at%2023.48.20.png)
+
+
+
+![Screenshot 2021-06-24 at 23.48.31](img/Screenshot%202021-06-24%20at%2023.48.31.png)
+
+
+
+![Screenshot 2021-06-24 at 23.48.43](img/Screenshot%202021-06-24%20at%2023.48.43.png)
+
+
+
 &nbsp;
 
 ## 046 Nieinwazyjne leczenie obturacyjnego bezdechu podczas snu
