@@ -28,7 +28,7 @@
    4. Przyczyny: Nefropatia IgA pierwotna lub wtórna (marskość, celiakia, Schoenline-Henoch)
    5. Leczenie ACEI + GKS (w zależności od szybkości spadku GFR)
    6. Rokowanie: powolny postę, u 20% chorych po 20 latach schyłkowa PChN
-2. Błoniaste KZN (najczęstsza przyczyna zesp. nerczycowego u dorosłych)
+2. **Błoniaste KZN** (najczęstsza przyczyna zesp. nerczycowego u dorosłych)
    1. PF: kompleksy imunologiczne uszkadzają GBM
    2. Epi: M, 40-60rż
    3. Objawy: z. nerczycowy + krwinkomocz. NT późno
@@ -65,6 +65,14 @@
       1. Pierwotny
       2. Wtórne: stany hiperfiltracji
    5. Leczenie: prednizon
+   6. Rokowanie: bardzo szybko niewydolność nerek i dializa
+
+
+
+Ostre: 
+
+- GPKZN: z. nefrytyczny
+- Ostre poinfekcyjne KZN: z. nefrytyczny
 
 
 
