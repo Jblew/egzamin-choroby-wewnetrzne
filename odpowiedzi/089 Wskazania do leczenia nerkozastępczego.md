@@ -35,7 +35,7 @@ U większości chorych problemy te pojawiają się, gdy GFR wynosi 5–10 ml/min
 
 > 5.1.2: We recommend timely referral for planning renal replacement therapy (RRT) in people with progressive CKD in whom the risk of kidney failure within 1 year is 10–20% or higher, as determined by validated risk prediction tools. (1B)
 
-![Screenshot 2021-06-17 at 17.00.59](089%20Wskazania%20do%20leczenia%20nerkozaste%CC%A8pczego.assets/Screenshot%202021-06-17%20at%2017.00.59-3942065.png)
+![Screenshot 2021-06-17 at 17.00.59](img/Screenshot%202021-06-17%20at%2017.00.59-3942065.png)
 
 
 

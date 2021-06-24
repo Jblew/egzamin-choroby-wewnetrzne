@@ -12,11 +12,11 @@ EHRA — skala objawów klinicznych migotania przedsionków
 
 **CHA2DS2-VASc:**
 
-![Screenshot 2021-06-22 at 10.13.27](026%20Skale%20oceny%20ryzyka%20powik%C5%82an%CC%81%20migotania%20przedsionko%CC%81w.assets/Screenshot%202021-06-22%20at%2010.13.27-4349611.png)
+![Screenshot 2021-06-22 at 10.13.27](img/Screenshot%202021-06-22%20at%2010.13.27-4349611.png)
 
 U pacjentów z wynikiem równym lub większym niż 2, zaleca się stosowanie doustnych antykoagulantów
 
-![Screenshot 2021-06-22 at 10.17.45](026%20Skale%20oceny%20ryzyka%20powik%C5%82an%CC%81%20migotania%20przedsionko%CC%81w.assets/Screenshot%202021-06-22%20at%2010.17.45-4349869.png)
+![Screenshot 2021-06-22 at 10.17.45](img/Screenshot%202021-06-22%20at%2010.17.45-4349869.png)
 
 
 
@@ -38,7 +38,7 @@ Po 1pkt za każde. Duże ryzyko krwawienia = co najmniej 3pkt
 
 **EHRA:**
 
-![Screenshot 2021-06-22 at 10.10.41](026%20Skale%20oceny%20ryzyka%20powik%C5%82an%CC%81%20migotania%20przedsionko%CC%81w.assets/Screenshot%202021-06-22%20at%2010.10.41-4349447.png)
+![Screenshot 2021-06-22 at 10.10.41](img/Screenshot%202021-06-22%20at%2010.10.41-4349447.png)
 
 ## Brudnopis
 

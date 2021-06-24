@@ -6,9 +6,9 @@
 
 1. Cukrzyca automatycznie umieszcza pacjenta w stadium 2 NT, natomiast cukrzyca z powikłaniami umieszcza pacjenta w stadium 3.
 
-   ![Screenshot 2021-06-02 at 18.15.58](004%20Farmakoterapia%20nadcis%CC%81nienia%20te%CC%A8tniczego%20u%20pacjenta%20z%20cukrzyca%CC%A8.assets/Screenshot%202021-06-02%20at%2018.15.58.png)
+   ![Screenshot 2021-06-02 at 18.15.58](img/Screenshot%202021-06-02%20at%2018.15.58.png)
 
-   ![Screenshot 2021-06-02 at 18.16.55](004%20Farmakoterapia%20nadcis%CC%81nienia%20te%CC%A8tniczego%20u%20pacjenta%20z%20cukrzyca%CC%A8.assets/Screenshot%202021-06-02%20at%2018.16.55-2650622.png)
+   ![Screenshot 2021-06-02 at 18.16.55](img/Screenshot%202021-06-02%20at%2018.16.55-2650622.png)
 
 2. Natychmiastowe rozpoczęcie farmakoterapii u wszystkich z NT (normalnie rozpoczyna się od interwencji stylu życia). Jeśli jest białkomocz to rozpocząć farmakoterepię od wysokiego prawidłowego poziomu ciśnienia. (jak wynika z modelu Framingham)
 

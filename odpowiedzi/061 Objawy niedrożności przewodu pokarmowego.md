@@ -8,7 +8,7 @@
 
 **Patofizjologia:** 
 
-![Screenshot 2021-06-22 at 15.14.01](061%20Objawy%20niedroz%CC%87nos%CC%81ci%20przewodu%20pokarmowego.assets/Screenshot%202021-06-22%20at%2015.14.01-4367649.png)
+![Screenshot 2021-06-22 at 15.14.01](img/Screenshot%202021-06-22%20at%2015.14.01-4367649.png)
 
 **Przyczyny:**
 
@@ -22,7 +22,7 @@
    3. Urazy
    4. Kolka nerkowa/wątrobowa
 
-![Screenshot 2021-06-22 at 15.17.06](061%20Objawy%20niedroz%CC%87nos%CC%81ci%20przewodu%20pokarmowego.assets/Screenshot%202021-06-22%20at%2015.17.06-4367832.png)
+![Screenshot 2021-06-22 at 15.17.06](img/Screenshot%202021-06-22%20at%2015.17.06-4367832.png)
 
 Wyjaśnienie:
 

@@ -23,9 +23,9 @@
 
 **Stadia:**
 
-![Screenshot 2021-06-21 at 18.16.19](087%20Rozpoznanie%20przewlek%C5%82ej%20choroby%20nerek.assets/Screenshot%202021-06-21%20at%2018.16.19-4292188.png)
+![Screenshot 2021-06-21 at 18.16.19](img/Screenshot%202021-06-21%20at%2018.16.19-4292188.png)
 
-![Screenshot 2021-06-21 at 18.16.37](087%20Rozpoznanie%20przewlek%C5%82ej%20choroby%20nerek.assets/Screenshot%202021-06-21%20at%2018.16.37-4292201.png)
+![Screenshot 2021-06-21 at 18.16.37](img/Screenshot%202021-06-21%20at%2018.16.37-4292201.png)
 
 **Objawy:**
 

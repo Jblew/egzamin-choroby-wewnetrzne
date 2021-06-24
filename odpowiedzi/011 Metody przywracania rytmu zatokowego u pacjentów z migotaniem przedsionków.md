@@ -56,7 +56,7 @@ Podsumowując leczenie przewlekłe: Ablacja jest możliwa we wszystkich poniższ
 
 Zasady w zależności od rodzaju AF:
 
-![Screenshot 2021-06-04 at 15.20.16](011%20Metody%20przywracania%20rytmu%20zatokowego%20u%20pacjento%CC%81w%20z%20migotaniem%20przedsionko%CC%81w.assets/Screenshot%202021-06-04%20at%2015.20.16.png)
+![Screenshot 2021-06-04 at 15.20.16](img/Screenshot%202021-06-04%20at%2015.20.16.png)
 
 1. Napadowe (do 7 dni, często samoograniczające <48h): 
    1. Eliminacja czynników proarytmicznych: kofeiny, nikotyny, alkoholu

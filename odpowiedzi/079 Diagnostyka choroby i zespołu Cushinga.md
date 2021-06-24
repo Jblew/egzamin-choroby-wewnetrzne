@@ -63,7 +63,7 @@
 
 
 
-![Screenshot 2021-06-21 at 18.52.00](079%20Diagnostyka%20choroby%20i%20zespo%C5%82u%20Cushinga.assets/Screenshot%202021-06-21%20at%2018.52.00-4294331.png)
+![Screenshot 2021-06-21 at 18.52.00](img/Screenshot%202021-06-21%20at%2018.52.00-4294331.png)
 
 
 

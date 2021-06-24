@@ -15,7 +15,7 @@ Stany przedcukrzycowe:
 - IGT <= OGTT 140-199
 - Jeśli na czczo <= 126 => OGTT i OGTT > 140
 
-![016_1743-1](081%20Algorytm%20rozpoznawania%20cukrzycy.assets/016_1743-1-4280783.jpg)
+![016_1743-1](img/016_1743-1-4280783.jpg)
 
 **P/w do diagnostyki cukrzycy:**
 

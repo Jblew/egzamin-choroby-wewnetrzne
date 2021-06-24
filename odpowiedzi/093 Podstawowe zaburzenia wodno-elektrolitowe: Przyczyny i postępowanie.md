@@ -12,9 +12,9 @@ EKG:
 
 - wydłużane PQ: wszystko oprócz hiperkalcemii
 
-![Screenshot 2021-06-21 at 13.23.19](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/Screenshot%202021-06-21%20at%2013.23.19-4274607.png)
+![Screenshot 2021-06-21 at 13.23.19](img/Screenshot%202021-06-21%20at%2013.23.19-4274607.png)
 
-![Screenshot 2021-06-21 at 14.48.39](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/Screenshot%202021-06-21%20at%2014.48.39.png)
+![Screenshot 2021-06-21 at 14.48.39](img/Screenshot%202021-06-21%20at%2014.48.39.png)
 
 
 
@@ -76,7 +76,7 @@ EKG:
    2. Forsowna diureza: 20-40mg furosemidu + 0,9%NaCl iv
    3. ew Hemoliza gdy ciężkie, oporne
 
-![Screenshot 2021-06-21 at 13.36.10](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/Screenshot%202021-06-21%20at%2013.36.10-4275376.png)
+![Screenshot 2021-06-21 at 13.36.10](img/Screenshot%202021-06-21%20at%2013.36.10-4275376.png)
 
 
 
@@ -192,7 +192,7 @@ EKG:
 
   - Diuretyki (zwł. tiazydy)
 
-    ![thiazides-2](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/thiazides-2.png)
+    ![thiazides-2](img/thiazides-2.png)
 
   - Pocenie się
 

@@ -45,7 +45,7 @@ Mnemonika:
 
 **Obraz kliniczny:** 
 
-![Screenshot 2021-06-22 at 14.52.50](064%20Przyczyny,%20objawy%20i%20poste%CC%A8powanie%20w%20ostrym%20zapaleniu%20trzustki.assets/Screenshot%202021-06-22%20at%2014.52.50-4366378.png)
+![Screenshot 2021-06-22 at 14.52.50](img/Screenshot%202021-06-22%20at%2014.52.50-4366378.png)
 
 - Obrzękowe
   - Ból: Umiarkowanie silny ból, opasujący, w nadbrzuszu, promieniuje między łopatki. Nasila się podczas stania
@@ -86,7 +86,7 @@ Mnemonika:
 
 1. Ocena ciężkości w klasyfikacji Ciężkości OZT Glasgow (jeśli co najmniej 3 pkt => zapalenie ciężkie i leczenie musi być intensywne)
 
-   ![Screenshot 2021-06-22 at 15.02.17](064%20Przyczyny,%20objawy%20i%20poste%CC%A8powanie%20w%20ostrym%20zapaleniu%20trzustki.assets/Screenshot%202021-06-22%20at%2015.02.17-4366941.png)
+   ![Screenshot 2021-06-22 at 15.02.17](img/Screenshot%202021-06-22%20at%2015.02.17-4366941.png)
 
 2. Skala Ransona — podatność choroby na leczenie (jeśli co najmniej 3pkt)
 

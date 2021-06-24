@@ -66,7 +66,7 @@ Jatrogenne:
 
 (wszystkie schematy 3mc z możliwością przedłużenia, oprócz ciąży, tam 3-6mc) (z WNL)
 
-![Screenshot 2021-06-15 at 18.13.11](009%20Profilaktyka%20wto%CC%81rna%20z%CC%87ylnej%20choroby%20zakrzepowo-zatorowej.assets/Screenshot%202021-06-15%20at%2018.13.11-3773599.png)
+![Screenshot 2021-06-15 at 18.13.11](img/Screenshot%202021-06-15%20at%2018.13.11-3773599.png)
 
 
 
@@ -83,7 +83,7 @@ Jatrogenne:
 
 Przeciwwskazania do trombolizy:
 
-![Screenshot 2021-06-14 at 17.07.17](009%20Profilaktyka%20wto%CC%81rna%20z%CC%87ylnej%20choroby%20zakrzepowo-zatorowej.assets/Screenshot%202021-06-14%20at%2017.07.17.png)
+![Screenshot 2021-06-14 at 17.07.17](img/Screenshot%202021-06-14%20at%2017.07.17.png)
 
 
 

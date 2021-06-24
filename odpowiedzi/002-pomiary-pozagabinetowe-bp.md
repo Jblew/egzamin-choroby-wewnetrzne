@@ -21,7 +21,7 @@ Wg wytycznych PTNT 2019:
 
 Wartości: (źródło: PTNT 2019)
 
-![Screenshot 2021-06-15 at 17.25.52](002-pomiary-pozagabinetowe-bp.assets/Screenshot%202021-06-15%20at%2017.25.52.png)
+![Screenshot 2021-06-15 at 17.25.52](img/Screenshot%202021-06-15%20at%2017.25.52.png)
 
 
 

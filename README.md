@@ -96,7 +96,7 @@ Wg wytycznych PTNT 2019:
 
 Wartości: (źródło: PTNT 2019)
 
-![Screenshot 2021-06-15 at 17.25.52](002-pomiary-pozagabinetowe-bp.assets/Screenshot%202021-06-15%20at%2017.25.52.png)
+![Screenshot 2021-06-15 at 17.25.52](img/Screenshot%202021-06-15%20at%2017.25.52.png)
 
 
 
@@ -174,9 +174,9 @@ PF: martwica włóknikowata małych tętnic i tętniczek w obrębie nerek, siatk
 
 1. Cukrzyca automatycznie umieszcza pacjenta w stadium 2 NT, natomiast cukrzyca z powikłaniami umieszcza pacjenta w stadium 3.
 
-   ![Screenshot 2021-06-02 at 18.15.58](004%20Farmakoterapia%20nadcis%CC%81nienia%20te%CC%A8tniczego%20u%20pacjenta%20z%20cukrzyca%CC%A8.assets/Screenshot%202021-06-02%20at%2018.15.58.png)
+   ![Screenshot 2021-06-02 at 18.15.58](img/Screenshot%202021-06-02%20at%2018.15.58.png)
 
-   ![Screenshot 2021-06-02 at 18.16.55](004%20Farmakoterapia%20nadcis%CC%81nienia%20te%CC%A8tniczego%20u%20pacjenta%20z%20cukrzyca%CC%A8.assets/Screenshot%202021-06-02%20at%2018.16.55-2650622.png)
+   ![Screenshot 2021-06-02 at 18.16.55](img/Screenshot%202021-06-02%20at%2018.16.55-2650622.png)
 
 2. Natychmiastowe rozpoczęcie farmakoterapii u wszystkich z NT (normalnie rozpoczyna się od interwencji stylu życia). Jeśli jest białkomocz to rozpocząć farmakoterepię od wysokiego prawidłowego poziomu ciśnienia. (jak wynika z modelu Framingham)
 
@@ -613,7 +613,7 @@ Jatrogenne:
 
 (wszystkie schematy 3mc z możliwością przedłużenia, oprócz ciąży, tam 3-6mc) (z WNL)
 
-![Screenshot 2021-06-15 at 18.13.11](009%20Profilaktyka%20wto%CC%81rna%20z%CC%87ylnej%20choroby%20zakrzepowo-zatorowej.assets/Screenshot%202021-06-15%20at%2018.13.11-3773599.png)
+![Screenshot 2021-06-15 at 18.13.11](img/Screenshot%202021-06-15%20at%2018.13.11-3773599.png)
 
 
 
@@ -630,7 +630,7 @@ Jatrogenne:
 
 Przeciwwskazania do trombolizy:
 
-![Screenshot 2021-06-14 at 17.07.17](009%20Profilaktyka%20wto%CC%81rna%20z%CC%87ylnej%20choroby%20zakrzepowo-zatorowej.assets/Screenshot%202021-06-14%20at%2017.07.17.png)
+![Screenshot 2021-06-14 at 17.07.17](img/Screenshot%202021-06-14%20at%2017.07.17.png)
 
 
 
@@ -750,7 +750,7 @@ Podsumowując leczenie przewlekłe: Ablacja jest możliwa we wszystkich poniższ
 
 Zasady w zależności od rodzaju AF:
 
-![Screenshot 2021-06-04 at 15.20.16](011%20Metody%20przywracania%20rytmu%20zatokowego%20u%20pacjento%CC%81w%20z%20migotaniem%20przedsionko%CC%81w.assets/Screenshot%202021-06-04%20at%2015.20.16.png)
+![Screenshot 2021-06-04 at 15.20.16](img/Screenshot%202021-06-04%20at%2015.20.16.png)
 
 1. Napadowe (do 7 dni, często samoograniczające <48h): 
    1. Eliminacja czynników proarytmicznych: kofeiny, nikotyny, alkoholu
@@ -847,11 +847,11 @@ Zwężenie...
 
 ## 017 Postępowanie w nagłym zatrzymaniu krążenia
 
-![016_1327](017%20Poste%CC%A8powanie%20w%20nag%C5%82ym%20zatrzymaniu%20kra%CC%A8z%CC%87enia.assets/016_1327.jpg)
+![016_1327](img/016_1327.jpg)
 
 
 
-![016_2604](017%20Poste%CC%A8powanie%20w%20nag%C5%82ym%20zatrzymaniu%20kra%CC%A8z%CC%87enia.assets/016_2604.jpg)
+![016_2604](img/016_2604.jpg)
 
 
 
@@ -892,7 +892,7 @@ Zwężenie...
 4. Jeśli w PTP duże prawdopodobieństwo, oraz objawy są nasilone oraz kryterium 3: pacjent jest oporny na leki LUB ma profil dużego ryzyka s-n, to od razu rozpoznajemy PZW z wysokim ryzykiem i wykonujemy koronarografię z możliwością rewaskularyzacji.
 5. W pozostałych przypadkach po rozpoznaniu oceniamy ryzyko s-n. Jeśli jest duże, to wykonujemy koronarografię jw. Jeśli nie jest duże to leczymy farmakologicznie.
 
-![Screenshot 2021-06-14 at 12.07.38](020%20Farmakoterapia%20stabilnej%20choroby%20wien%CC%81cowej.assets/Screenshot%202021-06-14%20at%2012.07.38.png)
+![Screenshot 2021-06-14 at 12.07.38](img/Screenshot%202021-06-14%20at%2012.07.38.png)
 
 
 
@@ -1003,11 +1003,11 @@ EHRA — skala objawów klinicznych migotania przedsionków
 
 **CHA2DS2-VASc:**
 
-![Screenshot 2021-06-22 at 10.13.27](026%20Skale%20oceny%20ryzyka%20powik%C5%82an%CC%81%20migotania%20przedsionko%CC%81w.assets/Screenshot%202021-06-22%20at%2010.13.27-4349611.png)
+![Screenshot 2021-06-22 at 10.13.27](img/Screenshot%202021-06-22%20at%2010.13.27-4349611.png)
 
 U pacjentów z wynikiem równym lub większym niż 2, zaleca się stosowanie doustnych antykoagulantów
 
-![Screenshot 2021-06-22 at 10.17.45](026%20Skale%20oceny%20ryzyka%20powik%C5%82an%CC%81%20migotania%20przedsionko%CC%81w.assets/Screenshot%202021-06-22%20at%2010.17.45-4349869.png)
+![Screenshot 2021-06-22 at 10.17.45](img/Screenshot%202021-06-22%20at%2010.17.45-4349869.png)
 
 
 
@@ -1029,7 +1029,7 @@ Po 1pkt za każde. Duże ryzyko krwawienia = co najmniej 3pkt
 
 **EHRA:**
 
-![Screenshot 2021-06-22 at 10.10.41](026%20Skale%20oceny%20ryzyka%20powik%C5%82an%CC%81%20migotania%20przedsionko%CC%81w.assets/Screenshot%202021-06-22%20at%2010.10.41-4349447.png)
+![Screenshot 2021-06-22 at 10.10.41](img/Screenshot%202021-06-22%20at%2010.10.41-4349447.png)
 
 
 
@@ -1243,7 +1243,7 @@ Zapalenia naczyń:
 
 **Klasyfikacja:** Fontaine'a i Rutheforda
 
-- ![Screenshot 2021-06-22 at 13.11.15](030%20Chromanie%20przestankowe%20-%20poste%CC%A8powanie%20zachowawcze.assets/Screenshot%202021-06-22%20at%2013.11.15-4360280.png)
+- ![Screenshot 2021-06-22 at 13.11.15](img/Screenshot%202021-06-22%20at%2013.11.15-4360280.png)
 
 **Krytyczne niedokrwienie kończyny (CLI):**
 
@@ -1815,9 +1815,9 @@ Informacje ogólne w: [060 Przyczyny krwawienia z dolnego odcinka przewodu pokar
 - Krwotok z PP = utrata co najmniej 25% krwi krążącej
 - Laboratoryjne wskazania do toczenia KKCz: Hgb<8, Ht<30, RBC<3G
 
-![Screenshot 2021-06-22 at 17.30.22](060%20Przyczyny%20krwawienia%20z%20dolnego%20odcinka%20przewodu%20pokarmowego.assets/Screenshot%202021-06-22%20at%2017.30.22-4375832.png)
+![Screenshot 2021-06-22 at 17.30.22](img/Screenshot%202021-06-22%20at%2017.30.22-4375832.png)
 
-![Screenshot 2021-06-22 at 17.30.47](060%20Przyczyny%20krwawienia%20z%20dolnego%20odcinka%20przewodu%20pokarmowego.assets/Screenshot%202021-06-22%20at%2017.30.47-4375851.png)
+![Screenshot 2021-06-22 at 17.30.47](img/Screenshot%202021-06-22%20at%2017.30.47-4375851.png)
 
 **Przyczyny:**
 
@@ -1865,7 +1865,7 @@ Informacje ogólne w: [060 Przyczyny krwawienia z dolnego odcinka przewodu pokar
 
 **Patofizjologia:** 
 
-![Screenshot 2021-06-22 at 15.14.01](061%20Objawy%20niedroz%CC%87nos%CC%81ci%20przewodu%20pokarmowego.assets/Screenshot%202021-06-22%20at%2015.14.01-4367649.png)
+![Screenshot 2021-06-22 at 15.14.01](img/Screenshot%202021-06-22%20at%2015.14.01-4367649.png)
 
 **Przyczyny:**
 
@@ -1879,7 +1879,7 @@ Informacje ogólne w: [060 Przyczyny krwawienia z dolnego odcinka przewodu pokar
    3. Urazy
    4. Kolka nerkowa/wątrobowa
 
-![Screenshot 2021-06-22 at 15.17.06](061%20Objawy%20niedroz%CC%87nos%CC%81ci%20przewodu%20pokarmowego.assets/Screenshot%202021-06-22%20at%2015.17.06-4367832.png)
+![Screenshot 2021-06-22 at 15.17.06](img/Screenshot%202021-06-22%20at%2015.17.06-4367832.png)
 
 Wyjaśnienie:
 
@@ -2335,7 +2335,7 @@ Badania:
    1. Ból głowy
 4. Może być osteoporoza (estro)
 
-![Screenshot 2021-06-23 at 14.34.06](071%20Objawy%20prolaktynoma.assets/Screenshot%202021-06-23%20at%2014.34.06.png)
+![Screenshot 2021-06-23 at 14.34.06](img/Screenshot%202021-06-23%20at%2014.34.06.png)
 
 
 
@@ -2352,7 +2352,7 @@ Badania:
 
 
 
-![016_8619](071%20Objawy%20prolaktynoma.assets/016_8619-4451806.jpg)
+![016_8619](img/016_8619-4451806.jpg)
 
 
 
@@ -2521,7 +2521,7 @@ Badania:
 
    
 
-   ![Screenshot 2021-06-23 at 15.17.40](073%20Przyczyny%20niedoczynnos%CC%81ci%20tarczycy.assets/Screenshot%202021-06-23%20at%2015.17.40.png)
+   ![Screenshot 2021-06-23 at 15.17.40](img/Screenshot%202021-06-23%20at%2015.17.40.png)
 
 
 
@@ -2949,7 +2949,7 @@ Przyczyny:
 
 
 
-![Screenshot 2021-06-21 at 18.52.00](079%20Diagnostyka%20choroby%20i%20zespo%C5%82u%20Cushinga.assets/Screenshot%202021-06-21%20at%2018.52.00-4294331.png)
+![Screenshot 2021-06-21 at 18.52.00](img/Screenshot%202021-06-21%20at%2018.52.00-4294331.png)
 
 
 
@@ -3024,7 +3024,7 @@ Stany przedcukrzycowe:
 - IGT <= OGTT 140-199
 - Jeśli na czczo <= 126 => OGTT i OGTT > 140
 
-![016_1743-1](081%20Algorytm%20rozpoznawania%20cukrzycy.assets/016_1743-1-4280783.jpg)
+![016_1743-1](img/016_1743-1-4280783.jpg)
 
 **P/w do diagnostyki cukrzycy:**
 
@@ -3221,7 +3221,7 @@ Kwasica ketonowa euglikemiczna - ?
 
 **Rozpoznanie:**
 
-![Screenshot 2021-06-21 at 15.37.08](083%20Ostre%20powik%C5%82ania%20cukrzycy.assets/Screenshot%202021-06-21%20at%2015.37.08.png)**Leczenie**:
+![Screenshot 2021-06-21 at 15.37.08](img/Screenshot%202021-06-21%20at%2015.37.08.png)**Leczenie**:
 
 1. Podobne jak do kwasicy ketonowej, ale jest mniej sztywnych reguł
 2. Największym problemem jest odwodnienie i hipernatremia, nie martwimy się o pH, ketony czy potas (ale też go wyrównujemy)
@@ -3623,9 +3623,9 @@ Okresy:
 
 **Stadia:**
 
-![Screenshot 2021-06-21 at 18.16.19](087%20Rozpoznanie%20przewlek%C5%82ej%20choroby%20nerek.assets/Screenshot%202021-06-21%20at%2018.16.19-4292188.png)
+![Screenshot 2021-06-21 at 18.16.19](img/Screenshot%202021-06-21%20at%2018.16.19-4292188.png)
 
-![Screenshot 2021-06-21 at 18.16.37](087%20Rozpoznanie%20przewlek%C5%82ej%20choroby%20nerek.assets/Screenshot%202021-06-21%20at%2018.16.37-4292201.png)
+![Screenshot 2021-06-21 at 18.16.37](img/Screenshot%202021-06-21%20at%2018.16.37-4292201.png)
 
 **Objawy:**
 
@@ -3717,7 +3717,7 @@ U większości chorych problemy te pojawiają się, gdy GFR wynosi 5–10 ml/min
 
 > 5.1.2: We recommend timely referral for planning renal replacement therapy (RRT) in people with progressive CKD in whom the risk of kidney failure within 1 year is 10–20% or higher, as determined by validated risk prediction tools. (1B)
 
-![Screenshot 2021-06-17 at 17.00.59](089%20Wskazania%20do%20leczenia%20nerkozaste%CC%A8pczego.assets/Screenshot%202021-06-17%20at%2017.00.59-3942065.png)
+![Screenshot 2021-06-17 at 17.00.59](img/Screenshot%202021-06-17%20at%2017.00.59-3942065.png)
 
 
 
@@ -3789,9 +3789,9 @@ EKG:
 
 - wydłużane PQ: wszystko oprócz hiperkalcemii
 
-![Screenshot 2021-06-21 at 13.23.19](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/Screenshot%202021-06-21%20at%2013.23.19-4274607.png)
+![Screenshot 2021-06-21 at 13.23.19](img/Screenshot%202021-06-21%20at%2013.23.19-4274607.png)
 
-![Screenshot 2021-06-21 at 14.48.39](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/Screenshot%202021-06-21%20at%2014.48.39.png)
+![Screenshot 2021-06-21 at 14.48.39](img/Screenshot%202021-06-21%20at%2014.48.39.png)
 
 ### Hiperkaliemia
 
@@ -3851,7 +3851,7 @@ EKG:
    2. Forsowna diureza: 20-40mg furosemidu + 0,9%NaCl iv
    3. ew Hemoliza gdy ciężkie, oporne
 
-![Screenshot 2021-06-21 at 13.36.10](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/Screenshot%202021-06-21%20at%2013.36.10-4275376.png)
+![Screenshot 2021-06-21 at 13.36.10](img/Screenshot%202021-06-21%20at%2013.36.10-4275376.png)
 
 
 
@@ -3971,7 +3971,7 @@ EKG:
 
   - Diuretyki (zwł. tiazydy)
 
-    ![thiazides-2](093%20Podstawowe%20zaburzenia%20wodno-elektrolitowe:%20Przyczyny%20i%20poste%CC%A8powanie.assets/thiazides-2.png)
+    ![thiazides-2](img/thiazides-2.png)
 
   - Pocenie się
 
@@ -5799,7 +5799,7 @@ Mnemonika:
 
 **Obraz kliniczny:** 
 
-![Screenshot 2021-06-22 at 14.52.50](064%20Przyczyny,%20objawy%20i%20poste%CC%A8powanie%20w%20ostrym%20zapaleniu%20trzustki.assets/Screenshot%202021-06-22%20at%2014.52.50-4366378.png)
+![Screenshot 2021-06-22 at 14.52.50](img/Screenshot%202021-06-22%20at%2014.52.50-4366378.png)
 
 - Obrzękowe
   - Ból: Umiarkowanie silny ból, opasujący, w nadbrzuszu, promieniuje między łopatki. Nasila się podczas stania
@@ -5840,7 +5840,7 @@ Mnemonika:
 
 1. Ocena ciężkości w klasyfikacji Ciężkości OZT Glasgow (jeśli co najmniej 3 pkt => zapalenie ciężkie i leczenie musi być intensywne)
 
-   ![Screenshot 2021-06-22 at 15.02.17](064%20Przyczyny,%20objawy%20i%20poste%CC%A8powanie%20w%20ostrym%20zapaleniu%20trzustki.assets/Screenshot%202021-06-22%20at%2015.02.17-4366941.png)
+   ![Screenshot 2021-06-22 at 15.02.17](img/Screenshot%202021-06-22%20at%2015.02.17-4366941.png)
 
 2. Skala Ransona — podatność choroby na leczenie (jeśli co najmniej 3pkt)
 

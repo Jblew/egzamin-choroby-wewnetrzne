@@ -20,7 +20,7 @@
 
 **Klasyfikacja:** Fontaine'a i Rutheforda
 
-- ![Screenshot 2021-06-22 at 13.11.15](030%20Chromanie%20przestankowe%20-%20poste%CC%A8powanie%20zachowawcze.assets/Screenshot%202021-06-22%20at%2013.11.15-4360280.png)
+- ![Screenshot 2021-06-22 at 13.11.15](img/Screenshot%202021-06-22%20at%2013.11.15-4360280.png)
 
 **Krytyczne niedokrwienie kończyny (CLI):**
 

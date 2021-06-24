@@ -114,7 +114,7 @@
 
    
 
-   ![Screenshot 2021-06-23 at 15.17.40](073%20Przyczyny%20niedoczynnos%CC%81ci%20tarczycy.assets/Screenshot%202021-06-23%20at%2015.17.40.png)
+   ![Screenshot 2021-06-23 at 15.17.40](img/Screenshot%202021-06-23%20at%2015.17.40.png)
 
 
 

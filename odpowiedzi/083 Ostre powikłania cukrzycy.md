@@ -135,7 +135,7 @@ Kwasica ketonowa euglikemiczna - ?
 
 **Rozpoznanie:**
 
-![Screenshot 2021-06-21 at 15.37.08](083%20Ostre%20powik%C5%82ania%20cukrzycy.assets/Screenshot%202021-06-21%20at%2015.37.08.png)**Leczenie**:
+![Screenshot 2021-06-21 at 15.37.08](img/Screenshot%202021-06-21%20at%2015.37.08.png)**Leczenie**:
 
 1. Podobne jak do kwasicy ketonowej, ale jest mniej sztywnych reguł
 2. Największym problemem jest odwodnienie i hipernatremia, nie martwimy się o pH, ketony czy potas (ale też go wyrównujemy)

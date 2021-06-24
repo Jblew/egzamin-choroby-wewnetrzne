@@ -10,7 +10,7 @@
 4. Jeśli w PTP duże prawdopodobieństwo, oraz objawy są nasilone oraz kryterium 3: pacjent jest oporny na leki LUB ma profil dużego ryzyka s-n, to od razu rozpoznajemy PZW z wysokim ryzykiem i wykonujemy koronarografię z możliwością rewaskularyzacji.
 5. W pozostałych przypadkach po rozpoznaniu oceniamy ryzyko s-n. Jeśli jest duże, to wykonujemy koronarografię jw. Jeśli nie jest duże to leczymy farmakologicznie.
 
-![Screenshot 2021-06-14 at 12.07.38](020%20Farmakoterapia%20stabilnej%20choroby%20wien%CC%81cowej.assets/Screenshot%202021-06-14%20at%2012.07.38.png)
+![Screenshot 2021-06-14 at 12.07.38](img/Screenshot%202021-06-14%20at%2012.07.38.png)
 
 
 

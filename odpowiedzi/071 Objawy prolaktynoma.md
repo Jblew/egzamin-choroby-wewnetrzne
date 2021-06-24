@@ -26,7 +26,7 @@
    1. Ból głowy
 4. Może być osteoporoza (estro)
 
-![Screenshot 2021-06-23 at 14.34.06](071%20Objawy%20prolaktynoma.assets/Screenshot%202021-06-23%20at%2014.34.06.png)
+![Screenshot 2021-06-23 at 14.34.06](img/Screenshot%202021-06-23%20at%2014.34.06.png)
 
 
 
@@ -43,7 +43,7 @@
 
 
 
-![016_8619](071%20Objawy%20prolaktynoma.assets/016_8619-4451806.jpg)
+![016_8619](img/016_8619-4451806.jpg)
 
 
 

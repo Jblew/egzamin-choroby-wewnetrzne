@@ -2,11 +2,11 @@
 
 ## Final
 
-![016_1327](017%20Poste%CC%A8powanie%20w%20nag%C5%82ym%20zatrzymaniu%20kra%CC%A8z%CC%87enia.assets/016_1327.jpg)
+![016_1327](img/016_1327.jpg)
 
 
 
-![016_2604](017%20Poste%CC%A8powanie%20w%20nag%C5%82ym%20zatrzymaniu%20kra%CC%A8z%CC%87enia.assets/016_2604.jpg)
+![016_2604](img/016_2604.jpg)
 
 
 

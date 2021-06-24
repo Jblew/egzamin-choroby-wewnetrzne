@@ -12,9 +12,9 @@
 - Krwotok z PP = utrata co najmniej 25% krwi krążącej
 - Laboratoryjne wskazania do toczenia KKCz: Hgb<8, Ht<30, RBC<3G
 
-![Screenshot 2021-06-22 at 17.30.22](060%20Przyczyny%20krwawienia%20z%20dolnego%20odcinka%20przewodu%20pokarmowego.assets/Screenshot%202021-06-22%20at%2017.30.22-4375832.png)
+![Screenshot 2021-06-22 at 17.30.22](img/Screenshot%202021-06-22%20at%2017.30.22-4375832.png)
 
-![Screenshot 2021-06-22 at 17.30.47](060%20Przyczyny%20krwawienia%20z%20dolnego%20odcinka%20przewodu%20pokarmowego.assets/Screenshot%202021-06-22%20at%2017.30.47-4375851.png)
+![Screenshot 2021-06-22 at 17.30.47](img/Screenshot%202021-06-22%20at%2017.30.47-4375851.png)
 
 **Przyczyny:**
 
