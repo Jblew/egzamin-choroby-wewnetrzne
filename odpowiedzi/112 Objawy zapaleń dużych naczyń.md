@@ -103,6 +103,23 @@ Inne nazwy: ch. Hortona, zapalenie tętnicy skroniowej
 
 **Ch. Kawasaki: ** (zap. średnich naczyń) P8 Endokrynologia / Reumatologia, slajd 169; mapa 079
 
+1. Definicja: Ostre nekrotyzujące zapalenie tętnic, współistniejące z zapaleniem *śluzuwkowo-skórno-węzłowym*.
+2. Epi: 6mz-4rż. Szczyt 1rż.
+3. PF: ACA
+4. Objawy
+   1. Początek jako ostra gorączka
+   2. Rozlane zapalenie błon śluzowych + język truskawkowy
+   3. Wykwity wielopostaciowe
+   4. Obrzęk rąk i stóp — z łuszczeniem sie opuszek
+   5. Limfadenopatia szyjna
+   6. Gorączka "WOJSK"
+5. Leczenie: IVIG, ASA
+6. Powikłania: (aż u 25% chorych)
+   1. Tętniaki tt. wieńcowych
+   2. ZMS
+   3. Uszkodzenie zast. mitralnej i aortalnej
+   4. (najcz. lub 2 po gorączce reumatycznej przyczyna nabytych wad serca u dzieci)
+
 
 
 **Guzkowe zap. Tętnic** (zap. średnich naczyń) mapa 056
