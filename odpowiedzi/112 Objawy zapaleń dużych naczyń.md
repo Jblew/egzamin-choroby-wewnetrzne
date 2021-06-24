@@ -124,6 +124,20 @@ Inne nazwy: ch. Hortona, zapalenie tętnicy skroniowej
 
 **Guzkowe zap. Tętnic** (zap. średnich naczyń) mapa 056
 
+1. Definicja: martwicze zap. tt. średniego i malego kalibru, bez ANCA, bez KZN, baz zap. włośniczek
+2. Epi: M, 40-50rż, 10% w przebiegu HCV, HBV
+3. Objawy: 
+   1. rozpoczyna się ogólnymi: osłabienie, ból mięśni i stawów, chudnięcie, gorączka
+   2. Zmiany narządowe po kilku mc
+   3. Skóra: plamica uniesiona
+   4. UN: najczęściej mononeuropatia wieloogniskowa (zwykle porażenie nerwu strzałkowego)
+   5. Nerki: nadciśnienie tętnicze związane z zapaleniem naczyń zewnątrzkłębuszkowych
+   6. PP: ból brzucha, najczęściej związany z niedokrwieniem jelit wskutek zapalenia tętnic trzewnych (rzadko dochodzi do martwicy i perforacji jelita).
+4. Przebieg: bez leczenia zgon w ciągu 1–2 lat. Przebieg postaci skórnej jest łagodny, może ona ustąpić samoistnie, ale często nawraca.
+5. Leczenie: jak GPA i MPA: indukcja remisji, potem lecz. podtrzymujące 1-2 lata
+   1. Indukcja remisji: 1. cyklofosfamid, 2. GKS, rytuksymab
+   2. Leczenie podtrzymujące (2+ lata): GKS + 1 lek (AZA, MTX, rytuksymab)
+
 
 
 ## Brudnopis
