@@ -1,4 +1,4 @@
-# 069 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie
+# 067 Niealkoholowe stłuszczeniowe zapalenie wątroby (NASH) - objawy i postępowanie
 
 ## Final
 

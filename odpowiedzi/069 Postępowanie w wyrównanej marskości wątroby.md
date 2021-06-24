@@ -24,6 +24,10 @@
 - jelitowe zespolenie omijające (w leczeniu otyłości)
 - marskość kryptogenna (przyczyna nieznana)
 
+**Objawy:**
+
+![Screenshot 2021-06-24 at 17.58.01](img/Screenshot%202021-06-24%20at%2017.58.01.png)
+
 **Rozpoznanie:**
 
 - jednoznaczne: biopsja => histopat
