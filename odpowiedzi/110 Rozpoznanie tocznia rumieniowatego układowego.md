@@ -4,7 +4,7 @@
 
 **Definicja:** Złożone zaburzenie funkcjonowania układu odpornościowego powodujące przewlekły proces zapalny w wielu tkankach.
 
-**Epidemiologia:** młode kobiety
+**Epidemiologia:** młode kobiety. Kx6, 2/3 między 16 a 55rż. 50/100k
 
 **Patofizjologia:** 
 
