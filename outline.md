@@ -93,10 +93,11 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
           8. [048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc](./odpowiedzi/048%20Obraz%20kliniczny%20i%20leczenie%20pozaszpitalnego%20zapalenia%20płuc.md)
           9. [064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki](./odpowiedzi/064%20Przyczyny,%20objawy%20i%20postępowanie%20w%20ostrym%20zapaleniu%20trzustki.md)
           10. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077%20Objawy%20pierwotnej%20nadczynności%20przytarczyc.md)
-          11. [091 Przyczyny wtórnych kłębuszkowych zapaleń nerek](./odpowiedzi/091%20Przyczyny%20wtórnych%20kłębuszkowych%20zapaleń%20nerek.md)
-          12. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
-          13. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
-          14. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
+          11. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090%20Objawy%20przewlekłych%20kłębuszkowych%20zapaleń%20nerek.md)
+          12. [091 Przyczyny wtórnych kłębuszkowych zapaleń nerek](./odpowiedzi/091%20Przyczyny%20wtórnych%20kłębuszkowych%20zapaleń%20nerek.md)
+          13. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
+          14. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
+          15. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
    78. Pytania jeszcze bez odpowiedzi
 
        1. [022 Postępowanie w ostrych zespole wieńcowym](./odpowiedzi/022%20Postępowanie%20w%20ostrych%20zespole%20wieńcowym.md)
@@ -125,12 +126,11 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
        24. [063 Postępowanie z chorym z bólami brzucha](./odpowiedzi/063%20Postępowanie%20z%20chorym%20z%20bólami%20brzucha.md)
        25. [068 Powikłania marskości wątroby - postępowanie](./odpowiedzi/068%20Powikłania%20marskości%20wątroby%20-%20postępowanie.md)
        26. [069 Postępowanie w wyrównanej marskości wątroby](./odpowiedzi/069%20Postępowanie%20w%20wyrównanej%20marskości%20wątroby.md)
-       27. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090%20Objawy%20przewlekłych%20kłębuszkowych%20zapaleń%20nerek.md)
-       28. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
-       29. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
-       30. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, SOFA
-       31. TODO: EKG
-       32. TODO: kluczowe badania poziomy (morfologia, biochemia)
-       33. RTG
-       34. Bad. ogólne moczu
-       35. Morfologia
+       27. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
+       28. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
+       29. Skale: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA, SOFA
+       30. TODO: EKG
+       31. TODO: kluczowe badania poziomy (morfologia, biochemia)
+       32. RTG
+       33. Bad. ogólne moczu
+       34. Morfologia
