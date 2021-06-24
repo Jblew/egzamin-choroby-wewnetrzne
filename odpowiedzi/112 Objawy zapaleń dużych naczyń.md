@@ -51,7 +51,53 @@ Inne nazwy: ch. Hortona, zapalenie tętnicy skroniowej
 
 
 
-**Ch. Takayasu:** P8 Endokrynologia / Reumatologia, slajd 180; mapa 079
+**Ch. Takayasu:**
+
+1. Definicja: przewlekłe zapalenie dużych naczyń odchodzących od łuku aorty (w tym proksymalnego odcinka tt. wieńcowych)
+
+2. Inne nazwy: ch. bez tętna, zespół łuku aorty
+
+3. PF: typowo liczne odcinkowe zwężenia w gałęziach aorty; rzadko rozwarstwienie lub pęknięcie aorty
+
+4. Przebieg:
+
+   ![Screenshot 2021-06-24 at 10.22.39](img/Screenshot%202021-06-24%20at%2010.22.39.png)
+
+   1. faza 1 — objawy grypopodobne lub ch. reumatycznej
+   2. faza 2 (zapalenia naczyń) — zwężenia, tętniaki. Ból naczyniowy
+   3. faza 3 — może dojść do remisji
+
+5. Objawy:
+
+   1. Poprzedzone obj. grypopodobnymi
+
+   2. Ból szyi
+
+   3. Ból KLP umiarkowany
+
+   4. Ból stawów
+
+   5. Wysokie BP
+
+   6. Asymetria ciśnienia
+
+      ![Screenshot 2021-06-24 at 10.25.00](img/Screenshot%202021-06-24%20at%2010.25.00.png)
+
+6. Rozpoznanie: Według ACR1990 3+/6 kryteria:
+
+   1. początek choroby w wieku ≤40 lat
+   2. chromanie którejkolwiek z kończyn, zwłaszcza górnej
+   3. osłabienie tętna na tętnicy ramiennej
+   4. różnica >10 mm Hg w pomiarze ciśnienia skurczowego pomiędzy kończynami górnymi
+   5. szmer nad tętnicą podobojczykową lub aortą brzuszną
+   6. nieprawidłowości angiograficzne – zwężenie lub niedrożność aorty, jej gałęzi albo proksymalnych odcinków tętnic kończyn, zmiany odcinkowe lub ogniskowe
+   7. Te kryteria dotyczą późnej fazy choroby (obejmują zwężenia tętnic stwierdzone w klasycznej angiografii). Obecnie za równoważne uważa się inne badania obrazowe (USG, TK, MR, PET), które ujawniają typowe pogrubienie ściany tętnicy, zanim dojdzie do zwężenia światła naczyń. Dzięki temu można rozpoznać chorobę nawet w 1 fazie objawów prodromalnych.
+
+7. Leczenie: 
+
+   1. GKS prednizon 40-60mg do normalizacji parametrów zapalnych. I potem 2-3mc
+
+
 
 
 
