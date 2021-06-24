@@ -4196,6 +4196,70 @@ EKG:
 
 &nbsp;
 
+## 095 Diagnostyka różnicowa krwinkomoczu
+
+**Definicja:** >3 wpw erytrocyty w odwirowanej próbce moczu.
+
+- mikroskopowy (krwinkomocz) – zabarwienie moczu jest niezmienione
+- makroskopowy – barwa moczu sugeruje obecność krwi
+
+**Przyczyny:**
+
+1. 10% kłębuszkowe (glomerulopatie)
+   1. nefropatia IgA,
+   2. nefropatia cienkich błon podstawnych,
+   3. zespół Alporta,
+   4. każde KZN (ostre i przewlekłe)
+2. 90% pozakłębuszkowe u. moczowy:
+   1. górny odcinek
+      1. kamica moczowa
+      2. torbiele nerek
+      3. nowotwór (nerki, miedniczki, kielichów, moczowodu)
+      4. hiperkalciuria, hiperurykozuria
+      5. OOZN
+      6. Uraz nerki
+      7. Zawał nerki, zakrzepica żył nerki, gruźlica nerki, martwica brodawek nerkowych
+   2. pęcherz moczowy
+      1. zapalenie
+      2. rak
+      3. polip
+      4. uraz
+      5. kamień
+      6. endometrioza pęcherza (objawy podrażnienia pęcherza w endometriozie)
+   3. cewka moczowa
+      1. zapalenie, uraz, zwężenie, nowotwór, ciało obce
+   4. stercz – rak, łagodny rozrost!, zapalenie
+3. inne
+   1. intensywny wysiłek fizyczny
+   2. gorączka
+   3. stosunek płciowy
+   4. skaza krwotoczna
+   5. domieszka krwi miesiączkowej
+
+
+
+**Diagnostyka:**
+
+- (1) test paskowy => (2) potwierdzić w rozmazie moczu
+- można odstąpić od diagnostyki gdy:
+  1. młoda kobieta + typowy obraz zap. pęcherza + bakteriomocz znamienny = potwierdzony ZUM + krwiomocz ustąpił po leczeniu
+  2. Ustąpił po 48h w badaniu moczu oraz związek z intensywnym wysiłkiem fizycznym, gorączką, miesiączką, potencjalnym urazem dróg moczowych (np. stosunek płciowy)
+- Wskazują na przyczyny pozakłębuszkowe:
+  - Krwiomocz makroskopowy
+  - Starszy wiek
+- Wskazują na przyczyny kłębuszkowe:
+  - Białkomocz (>0,5 g/d)
+  - Wałeczki erytrocytowe
+- Diagnostyka w kierunku przyczyn pozakłębuszkowych + krwiomocz makroskopowy:
+  - Urografia lub urografia spiralnaTK
+  - Cystoskopia
+  - Cytologia moczu
+  - To badanie należy wykonać także jeśli krwiomocz w trakcie leczenia p/krzepliwego.
+
+
+
+&nbsp;
+
 ## 096 Wskazania i przeciwwskazania do biopsji nerki
 
 Wskazania:
@@ -6443,43 +6507,6 @@ Obrazy kliniczne:
 &nbsp;
 
 ### 094 Diagnostyka różnicowa białkomoczu
-
-
-
-&nbsp;
-
-### 095 Diagnostyka różnicowa krwinkomoczu
-
-https://www.mp.pl/interna/chapter/B16.I.1.18.
-
-
-
-Zwiększona liczba erytrocytów w moczu – >3 wpw w odwirowanej próbce moczu. Krwiomocz 
-
-- mikroskopowy (krwinkomocz) – zabarwienie moczu jest niezmienione. Krwiomocz
-- makroskopowy – barwa moczu sugeruje obecność krwi.
-
-
-
-1.  kłębuszkowe (glomerulopatie) – nefropatia IgA, nefropatia cienkich błon podstawnych, zespół Alporta, każde ostre lub przewlekłe kłębuszkowe zapalenie nerek
-2. 90% pozakłębuszkowe:
-   1. górny odcinek układu moczowego – kamica moczowa, torbiele nerek, nowotwór (nerki, miedniczki, kielichów, moczowodu), hiperkalciuria, hiperurykozuria, odmiedniczkowe zapalenie nerek, uraz nerki, martwica brodawek nerkowych, zawał nerki, zakrzepica żył nerki, gruźlica nerek
-   2. pęcherz moczowy – zapalenie, rak, polip, uraz, kamień, endometrioza
-   3. cewka moczowa – zapalenie, uraz, zwężenie, nowotwór, ciało obce
-   4. stercz – rak, łagodny rozrost, zapalenie
-3. inne – intensywny wysiłek fizyczny, gorączka, stosunek płciowy, skaza krwotoczna, domieszka krwi miesiączkowej, przyczyna nieokreślona.
-
-
-
-**Diagnostyka:**
-
-- test paskowy => potwierdzić w rozmazie moczu
-
-- można odstąpić gdy:
-
-  1) u młodej kobiety z typowym obrazem zapalenia pęcherza moczowego i potwierdzonym ZUM (bakteriomocz znamienny), jeśli w wyniku leczenia ustąpiły dolegliwości i krwiomocz oraz nie stwierdza się krwiomoczu w kontrolnych badaniach moczu
-
-  2) w związku z intensywnym wysiłkiem fizycznym, gorączką, miesiączką, potencjalnym urazem dróg moczowych (np. stosunek płciowy), a w kontrolnych badaniach moczu wykonanych po >48 h od ustąpienia przypuszczalnej przyczyny nie stwierdza się krwiomoczu.
 
 
 
