@@ -1707,6 +1707,64 @@ Informacje ogólne w: [060 Przyczyny krwawienia z dolnego odcinka przewodu pokar
 
 &nbsp;
 
+## 054 Diagnostyka różnicowa przewlekłych biegunek
+
+Ostra biegunka: [059 Postępowanie w ostrej biegunce](./059%20Postępowanie%20w%20ostrej%20biegunce.md) — opisana definicja i mechanizmy
+
+https://www.mp.pl/interna/chapter/B16.I.1.2.
+
+**Definicja:** przewlekła biegunka = 30+dni. Ale należy rozważać przyczyny już przy przetrwałej (15-29 dni)\
+
+**Przyczyny: **
+
+1. Triada 90%:
+   1. Nieswoiste zap. jelit
+   2. Rak okrężnicy
+   3. Zespół jelita drażliwego
+2. Przewlekłej sekrecyjnej
+   1. leki i toksyny jak w biegunce ostrej,
+   2. kwasy żółciowe,
+   3. kwasy tłuszczowe,
+   4. nowotwory czynne hormonalnie.
+3. Przewlekłej osmotycznej
+   1. leki,
+   2. produkty zawierające sorbitol, mannitol lub ksylitol,
+   3. niedobór laktazy i innych disacharydaz – pierwotny lub wtórny do zakażenia lub zapalenia jelit,
+   4. zespół krótkiego jelita, przetoki jelitowe.
+4. Przewlekłej tłuszczowej: zaburzenia trawienia (SIBO, niewydolność trzustki m.in. w ZT i mukowiscydozie) i zaburzenia wchłaniania (m.in. celiakia).
+5. Przyspieszony pasaż jelitowy:
+   1. zespół jelita drażliwego,
+   2. nadczynność tarczycy,
+   3. leki prokinetyczne – metoklopramid, cizapryd.
+6. Biegunka rzekoma: często małe ilości płynnego, brązowego stolca, czasem z nietrzymaniem stolca.
+   1. Rozdęcie okrężnicy z powodu przeszkody położonej w esicy lub odbytnicy — najczęściej z powodu zalegające masy kałowe w przebiegu ciężkiego zaparcia, rzadziej w przebiegu nowotworów jelita grubego powodujących niedrożność.
+
+
+
+**Diagnostyka biegunki przewlekłej:**
+
+![Screenshot 2021-06-24 at 19.33.22](img/Screenshot%202021-06-24%20at%2019.33.22.png)
+
+![Screenshot 2021-06-24 at 19.33.38](img/Screenshot%202021-06-24%20at%2019.33.38.png)
+
+
+
+**Leczenie objawowe biegunki:**
+
+1. Leczenie płynami obejmuje 2 fazy:
+   1. uzupełnianie niedoborów (rehydratacja) – pierwsze 3–4 h, wyrównanie ubytku masy ciała;
+   2. leczenie podtrzymujące – uzupełnianie bieżących strat, utrzymywane do czasu ustąpienia biegunki.
+2. Leki przeciwbiegunkowe – loperamid, diosmektyd, oktreotyd.
+3. Wyrównywanie innych zaburzeń (zwłaszcza w przebiegu ciężkiej biegunki):
+   1. kwasicy metabolicznej,
+   2. zaburzeń elektrolitowych: hipo- i hipernatremii, hipokaliemii, hipokalcemii, hipomagnezemii,
+   3. niedożywienia,
+   4. niedoborów witamin i pierwiastków śladowych.
+
+
+
+&nbsp;
+
 ## 055 Objawy zespołu jelita drażliwego
 
 **Definicja:** Przewlekła choroba obu jelit o nieznanej przyczynie objawiająca się bólem brzucha i zab. wypróżnień. Zaliczana do czynnościowych chorób jelit tj. zaburzeń interakcji mózgowo-jelitowych.
@@ -1761,6 +1819,54 @@ Informacje ogólne w: [060 Przyczyny krwawienia z dolnego odcinka przewodu pokar
 
 &nbsp;
 
+## 056 Powikłania nieswoistych zapaleń jelit
+
+**Powikłania jelitowe ChLC:**
+
+1. 80% ból brzucha, szczeg. prawy dolny i po posiłku
+2. Zespół złego wchłaniania: biegunka tłuszczowa, niedobór wit B12, hipoalbuminemia
+3. Biegunka, rzadko krwawienia
+4. Ropień zakątniczy: przykurcz zgięciowy w prawym dole biobrowym
+
+
+
+**Powikłania jelitowe CU:**
+
+1. 13% polipowatość zapalna
+2. Rak JG (2% po 10 latach)
+3. Megacolon toxicum — może być śmiertelne
+4. Perforacja
+5. Zwężenie
+6. Przetoka
+
+
+
+**Powikłania pozajelitowe wspólne:**
+
+1. Zapalenie stawów — najczęstsze, też osteopenia i osteoporoza
+2. Pierwotne stwardniające zap. dróg żółciowych
+3. Stłuszczenie wątroby
+4. Rumień guzowaty
+5. Piodermia zgorzelinowa
+6. Zap. oczu
+7. ŻChZZ
+
+
+
+**Powikłania pozajelitowe dodatkowe w ChLC:**
+
+1. 50% palce pałeczkowate
+2. 30% kamica żółciowa
+3. 10% kamica moczowa
+
+
+
+![Screenshot 2021-06-24 at 19.55.40](img/Screenshot%202021-06-24%20at%2019.55.40.png)
+
+
+
+&nbsp;
+
 ## 058 Rozpoznanie ostrego niedokrwienia jelit
 
 **PF:**
@@ -1798,6 +1904,93 @@ Informacje ogólne w: [060 Przyczyny krwawienia z dolnego odcinka przewodu pokar
   - Zakrzep – trombendarterektomia lub pomost, np. aortalno-krezkowy.
   - Martwica jelit — wycięcie chorego jelita w zdrowych granicach, rewizja po 24-48h + HDCz
   - Śmiertelność zabiegów jest duża
+
+
+
+&nbsp;
+
+## 059 Postępowanie w ostrej biegunce
+
+Przewlekła biegunka: [054 Diagnostyka różnicowa przewlekłych biegunek](./054%20Diagnostyka%20różnicowa%20przewlekłych%20biegunek.md)
+
+https://www.mp.pl/interna/chapter/B16.I.1.2.
+
+**Definicja:** 
+
+1. Zbyt luźne stolce (płynne lub półpłynne; typu 6–7 według bristolskiej skali uformowania stolca)
+2. ≥3/d lub >200 ml/d
+
+**Mechanizmy:**
+
+1. Upośledzenie wchłaniania w JC lub JG
+   1. Uszkodzenie nabłonka / zmniejszenie pow. adsorpcyjnej
+   2. Osmotyczna = w świetle są niewchłanialne osmolity
+   3. Przyspieszona motoryka => przyspieszony pasaż
+2. Sekrecyjna = zwiększone wydzielanie wody i elektrolitów do jelita z powodu aktywacji mech. transportowych enterocytów:
+   1. enterotoksyny bakterii,
+   - mediatory reakcji zapalnej (biegunka zapalna)
+   - enterohormony
+
+**Podział ze względu na czas:**
+
+1. Ostra <= 14 dni
+2. Przetrwała: 15-29 dni
+3. Przewlekła: 30+dni
+
+**Przyczyny:**
+
+1. Ostra
+   1. 90% bakterie lub ich toksyny
+   2. DzN leków (najcz. nieinfekcyjna) B-blokery, dilitiazem, metformina, h. tarczycy, nadużywanie leków przeczyszczających (ich odstawienie zwykle powoduje ustąpienie biegunki w ciągu 24–48 h)
+   3. Toksyny niebakteryjne: grzyby, arszenik, alkohol
+   4. Alergia/nadwrażliwość pokarmowa
+   5. ostre zapalenie uchyłków
+   6. niedokrwienne zapalenie okrężnicy.
+   7. Biegunka szpitalna to biegunka występująca w szpitalu lub do 3 dni po jego opuszczeniu. Przyczyna jest najczęściej niezakaźna:
+      1. działania niepożądane leków,
+      2. żywienie dojelitowe hiperosmotycznymi dietami płynnymi,
+      3. zabiegi na przewodzie pokarmowym,
+      4. reakcja na stres.
+      5. Najczęstszą przyczyna zakaźną: Clostridioides difficile. Podejrzewa się to zakażenie u chorych przyjmujących antybiotyki, z gorączką, wymiotami i kurczowym bólem brzucha.
+
+   8. Zatrucie pokarmowe to zespół ostrych objawów spowodowany spożyciem pokarmu skażonego bakteriami lub ich toksynami, a także pasożytami lub substancjami chemicznymi.
+   9. Biegunka podróżnych to objawy zakażenia przewodu pokarmowego u osób podróżujących do krajów o niższym standardzie sanitarno-higienicznym, spożywających skażoną żywność lub wodę pitną.
+
+
+
+**Postępowanie w ostrej biegunce infekcyjnej:**
+
+zakładamy, że jest spowodowana zakażeniem przewodu pokarmowego
+lub zatruciem pokarmowym i nie przeprowadzamy dalszej diagnostyki, chyba że:
+
+1. stwierdzono charakterystyczne dla innych przyczyn objawy,
+2. dane z wywiadu wskazują na przyczynę nieinfekcyjną (np. przyjmowane leki).
+
+![016_5595](img/016_5595.jpg)
+
+**Leczenie biegunki podróżnych:** gdy ciężki przebieg: azytromycyna 1 g p.o. jednorazowo lub 500 mg 1 × dz. przez 3 dni
+
+![Screenshot 2021-06-24 at 19.32.49](img/Screenshot%202021-06-24%20at%2019.32.49.png)
+
+
+
+**Powikłanie — odwodnienie:**
+
+![Screenshot 2021-06-24 at 19.34.05](img/Screenshot%202021-06-24%20at%2019.34.05.png)
+
+
+
+**Leczenie objawowe biegunki:**
+
+1. Leczenie płynami obejmuje 2 fazy:
+   1. uzupełnianie niedoborów (rehydratacja) – pierwsze 3–4 h, wyrównanie ubytku masy ciała;
+   2. leczenie podtrzymujące – uzupełnianie bieżących strat, utrzymywane do czasu ustąpienia biegunki.
+2. Leki przeciwbiegunkowe – loperamid, diosmektyd, oktreotyd.
+3. Wyrównywanie innych zaburzeń (zwłaszcza w przebiegu ciężkiej biegunki):
+   1. kwasicy metabolicznej,
+   2. zaburzeń elektrolitowych: hipo- i hipernatremii, hipokaliemii, hipokalcemii, hipomagnezemii,
+   3. niedożywienia,
+   4. niedoborów witamin i pierwiastków śladowych.
 
 
 
@@ -6977,37 +7170,7 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 &nbsp;
 
-### 054 Diagnostyka różnicowa przewlekłych biegunek
-
-[059 Postępowanie w ostrej biegunce](./059%20Postępowanie%20w%20ostrej%20biegunce.md)
-
-https://www.mp.pl/interna/chapter/B16.I.1.2.
-
-
-
-&nbsp;
-
-### 056 Powikłania nieswoistych zapaleń jelit
-
-
-
-&nbsp;
-
 ### 057 Diagnostyka nieswoistych zapaleń jelit
-
-
-
-&nbsp;
-
-### 059 Postępowanie w ostrej biegunce
-
-[054 Diagnostyka różnicowa przewlekłych biegunek](./odpowiedzi/054%20Diagnostyka%20różnicowa%20przewlekłych%20biegunek.md)
-
-https://www.mp.pl/interna/chapter/B16.I.1.2.
-
-
-
-![016_5595](img/016_5595.jpg)
 
 
 
