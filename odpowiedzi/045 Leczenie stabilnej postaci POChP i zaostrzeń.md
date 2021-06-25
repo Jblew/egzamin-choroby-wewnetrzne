@@ -2,29 +2,7 @@
 
 ## Final
 
-**Patofizjologia**
-
-![Screenshot 2021-06-25 at 08.47.09](img/Screenshot%202021-06-25%20at%2008.47.09.png)
-
-
-
-
-
-**Rozpoznanie**
-
-![Screenshot 2021-06-25 at 08.47.54](img/Screenshot%202021-06-25%20at%2008.47.54.png)
-
-![Screenshot 2021-06-25 at 08.48.13](img/Screenshot%202021-06-25%20at%2008.48.13.png)
-
-![Screenshot 2021-06-25 at 08.49.30](img/Screenshot%202021-06-25%20at%2008.49.30.png)
-
-
-
 **Ewaluacja wstępna:**
-
-![Screenshot 2021-06-25 at 08.49.41](img/Screenshot%202021-06-25%20at%2008.49.41.png)
-
-![Screenshot 2021-06-25 at 08.49.51](img/Screenshot%202021-06-25%20at%2008.49.51.png)
 
 ![Screenshot 2021-06-25 at 08.50.28](img/Screenshot%202021-06-25%20at%2008.50.28.png)
 
