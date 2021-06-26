@@ -18,9 +18,9 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 10. [010 Objawy zatoru tętnicy płucnej](./odpowiedzi/010%20Objawy%20zatoru%20tętnicy%20płucnej.md)
 11. [011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków](./odpowiedzi/011%20Metody%20przywracania%20rytmu%20zatokowego%20u%20pacjentów%20z%20migotaniem%20przedsionków.md)
 12. [014 Diagnostyka różnicowa bólów w klatce piersiowej](./odpowiedzi/014%20Diagnostyka%20różnicowa%20bólów%20w%20klatce%20piersiowej.md)
-13. [015 Rozpoznanie niewydolności serca](./odpowiedzi/015%20Rozpoznanie%20niewydolności%20serca.md)
-14. [017 Postępowanie w nagłym zatrzymaniu krążenia](./odpowiedzi/017%20Postępowanie%20w%20nagłym%20zatrzymaniu%20krążenia.md)
-15. [020 Farmakoterapia stabilnej choroby wieńcowej](./odpowiedzi/020%20Farmakoterapia%20stabilnej%20choroby%20wieńcowej.md)
+13. [017 Postępowanie w nagłym zatrzymaniu krążenia](./odpowiedzi/017%20Postępowanie%20w%20nagłym%20zatrzymaniu%20krążenia.md)
+14. [020 Farmakoterapia stabilnej choroby wieńcowej](./odpowiedzi/020%20Farmakoterapia%20stabilnej%20choroby%20wieńcowej.md)
+15. [025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory](./odpowiedzi/025%20Obraz%20kliniczny%20niewydolności%20serca%20z%20zachowaną%20frakcją%20wyrzutową%20lewej%20komory.md)
 16. [026 Skale oceny ryzyka powikłań migotania przedsionków](./odpowiedzi/026%20Skale%20oceny%20ryzyka%20powikłań%20migotania%20przedsionków.md)
 17. [027 Zapalenia drobnych naczyń – objawy, diagnostyka, leczenie](./odpowiedzi/027%20Zapalenia%20drobnych%20naczyń%20–%20objawy,%20diagnostyka,%20leczenie.md)
 18. [028 Objawy kardiomiopatii przerostowej](./odpowiedzi/028%20Objawy%20kardiomiopatii%20przerostowej.md)
@@ -107,31 +107,31 @@ Przykładowa baza pytań i odpowiedzi przygotowująca do egzaminu ustnego z Chor
 99. WIP
        5. [012 Zasady profilaktyki powikłań zatorowo-zakrzepowych u pacjenta z migotaniem przedsionków](./odpowiedzi/012%20Zasady%20profilaktyki%20powikłań%20zatorowo-zakrzepowych%20u%20pacjenta%20z%20migotaniem%20przedsionków.md)
        6. [013 Istotne elementy badania podmiotowego u pacjenta po przebytym omdleniu](./odpowiedzi/013%20Istotne%20elementy%20badania%20podmiotowego%20u%20pacjenta%20po%20przebytym%20omdleniu.md)
-       8. [016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory](./odpowiedzi/016%20Podstawowy%20algorytm%20terapeutyczny%20niewydolności%20serca%20z%20upośledzona%20frakcją%20wyrzutową%20lewej%20komory.md)
-       9. [018 Objawy kliniczne stenozy aortalnej](./odpowiedzi/018%20Objawy%20kliniczne%20stenozy%20aortalnej.md)
-       10. [019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia](./odpowiedzi/019%20Objawy%20i%20profilaktyka%20infekcyjnego%20zapalenia%20wsierdzia.md)
-          6. [021 Uniwersalna definicja zawału serca](./odpowiedzi/021%20Uniwersalna%20definicja%20zawału%20serca.md)
-          7. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039%20Obraz%20kliniczny%20i%20leczenie%20odmy%20opłucnowej.md)
-          8. [048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc](./odpowiedzi/048%20Obraz%20kliniczny%20i%20leczenie%20pozaszpitalnego%20zapalenia%20płuc.md)
-          9. [064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki](./odpowiedzi/064%20Przyczyny,%20objawy%20i%20postępowanie%20w%20ostrym%20zapaleniu%20trzustki.md)
-          10. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077%20Objawy%20pierwotnej%20nadczynności%20przytarczyc.md)
-          11. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090%20Objawy%20przewlekłych%20kłębuszkowych%20zapaleń%20nerek.md)
-          12. [091 Przyczyny wtórnych kłębuszkowych zapaleń nerek](./odpowiedzi/091%20Przyczyny%20wtórnych%20kłębuszkowych%20zapaleń%20nerek.md)
-          13. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
-          14. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
-          15. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
+       8. [015 Rozpoznanie niewydolności serca](./odpowiedzi/015%20Rozpoznanie%20niewydolności%20serca.md)
+          4. [016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory](./odpowiedzi/016%20Podstawowy%20algorytm%20terapeutyczny%20niewydolności%20serca%20z%20upośledzona%20frakcją%20wyrzutową%20lewej%20komory.md)
+          5. [018 Objawy kliniczne stenozy aortalnej](./odpowiedzi/018%20Objawy%20kliniczne%20stenozy%20aortalnej.md)
+          6. [019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia](./odpowiedzi/019%20Objawy%20i%20profilaktyka%20infekcyjnego%20zapalenia%20wsierdzia.md)
+          7. [021 Uniwersalna definicja zawału serca](./odpowiedzi/021%20Uniwersalna%20definicja%20zawału%20serca.md)
+          8. [039 Obraz kliniczny i leczenie odmy opłucnowej](./odpowiedzi/039%20Obraz%20kliniczny%20i%20leczenie%20odmy%20opłucnowej.md)
+          9. [048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc](./odpowiedzi/048%20Obraz%20kliniczny%20i%20leczenie%20pozaszpitalnego%20zapalenia%20płuc.md)
+          10. [064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki](./odpowiedzi/064%20Przyczyny,%20objawy%20i%20postępowanie%20w%20ostrym%20zapaleniu%20trzustki.md)
+          11. [077 Objawy pierwotnej nadczynności przytarczyc](./odpowiedzi/077%20Objawy%20pierwotnej%20nadczynności%20przytarczyc.md)
+          12. [090 Objawy przewlekłych kłębuszkowych zapaleń nerek](./odpowiedzi/090%20Objawy%20przewlekłych%20kłębuszkowych%20zapaleń%20nerek.md)
+          13. [091 Przyczyny wtórnych kłębuszkowych zapaleń nerek](./odpowiedzi/091%20Przyczyny%20wtórnych%20kłębuszkowych%20zapaleń%20nerek.md)
+          14. [097 Kamica nerkowa: diagnostyka i leczenie](./odpowiedzi/097%20Kamica%20nerkowa:%20diagnostyka%20i%20leczenie.md)
+          15. [106 Nabyte skazy krwotoczne](./odpowiedzi/106%20Nabyte%20skazy%20krwotoczne.md)
+          16. [109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów](./odpowiedzi/109%20Algorytm%20terapeutyczny%20reumatoidalnego%20zapalenia%20stawów.md)
    100. Pytania jeszcze bez odpowiedzi
 
         1. [022 Postępowanie w ostrych zespole wieńcowym](./odpowiedzi/022%20Postępowanie%20w%20ostrych%20zespole%20wieńcowym.md)
         2. [023 Powikłania zawału serca](./odpowiedzi/023%20Powikłania%20zawału%20serca.md)
         3. [024 Farmakoterapia po przebytym ostrym zespole wieńcowym](./odpowiedzi/024%20Farmakoterapia%20po%20przebytym%20ostrym%20zespole%20wieńcowym.md)
-        4. [025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory](./odpowiedzi/025%20Obraz%20kliniczny%20niewydolności%20serca%20z%20zachowaną%20frakcją%20wyrzutową%20lewej%20komory.md)
-        5. [Skale](./odpowiedzi/skale.md)
-        6. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
-        7. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
-        8. EKG: https://www.youtube.com/watch?v=N9AoGw9nUdg (jest pełen kurs do tego)
-        9. kluczowe badania poziomy (morfologia, biochemia)
-        10. RTG: https://www.youtube.com/watch?v=Xwh4M5LM8X4
-        11. Bad. przedmiotowe: https://www.youtube.com/watch?v=gRWSyqatWQQ
-        12. Bad. ogólne moczu
-        13. Morfologia
+        4. [Skale](./odpowiedzi/skale.md)
+        5. TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
+        6. TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
+        7. EKG: https://www.youtube.com/watch?v=N9AoGw9nUdg (jest pełen kurs do tego)
+        8. kluczowe badania poziomy (morfologia, biochemia)
+        9. RTG: https://www.youtube.com/watch?v=Xwh4M5LM8X4
+        10. Bad. przedmiotowe: https://www.youtube.com/watch?v=gRWSyqatWQQ
+        11. Bad. ogólne moczu
+        12. Morfologia

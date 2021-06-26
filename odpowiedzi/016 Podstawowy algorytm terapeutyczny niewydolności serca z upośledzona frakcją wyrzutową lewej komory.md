@@ -2,7 +2,7 @@
 
 ## Final
 
-**Definicja, rozpoznanie:** [015 Rozpoznanie niewydolności serca](./odpowiedzi/015%20Rozpoznanie%20niewydolności%20serca.md)
+**Definicja, rozpoznanie:** [015 Rozpoznanie niewydolności serca](./015%20Rozpoznanie%20niewydolności%20serca.md)
 
 **Leczenie bezobjawowej dysfunkcji skurczowej LV:** (LVEF<70) (opóźnia przejście w HF)
 

@@ -28,6 +28,10 @@
 
 **Rokowanie:**
 
+**NYHA:**
+
+![Screenshot 2021-06-26 at 23.06.48](img/Screenshot%202021-06-26%20at%2023.06.48.png)
+
 
 
 ## Brudnopis
