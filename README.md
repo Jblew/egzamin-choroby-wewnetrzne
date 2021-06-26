@@ -1424,6 +1424,114 @@ Brak poprawy po leczeniu zachowawczym, skracający się dystans chromania i poja
 
 &nbsp;
 
+## 035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność
+
+**Definicja:** Subiektywne odczucie braku powietrza, trudności w oddychaniu lub zadyszki.
+
+**Skale:** mMRC (Nyha jest już bardziej szczegółowa i dotyczy NS)
+
+![Screenshot 2021-06-26 at 12.07.48](img/Screenshot%202021-06-26%20at%2012.07.48.png)
+
+**Rodzaje:**
+
+1. Ortopnoe — nasila się w pozycji leżącej, natomiast zmniejsza się lub ustępuje w pozycji siedzącej i stojącej. Występuje często w postaci napadów duszności nocnej.
+   1. Niewydolność serca,
+   2. astma,
+   3. POChP.
+2. Platypnea — nasila się w pozycji siedzącej i stojącej, natomiast zmniejsza się lub ustępuje w pozycji leżącej. Zjawisku temu może towarzyszyć ortodeoxia — zmniejszenie ciśnienia parcjalnego tlenu we krwi po pionizacji.
+   1. Ubytek w przegrodzie międzyprzedsionkowej,
+   2. drożny otwór owalny,
+   3. zespół wątrobowo-płucny w przebiegu marskości wątroby.
+
+**Różnicowanie:**
+
+![Screenshot 2021-06-26 at 12.10.04](img/Screenshot%202021-06-26%20at%2012.10.04.png)
+
+
+
+**Postępowanie:**
+
+1. Ocena parametrów życiowych
+2. Badania wg przyczyny
+3. Leczenie przyczynowe: np tlenoterapia, wentylacja
+4. Leczenie niefarmakologiczne: ćwiczenia relaksacyjne, ewakuacja wydzieliny,  pozycja ciała, edukacja
+5. Paliatywna farmakoterapia
+   1. Opioidy — morfina jest lekiem pierwszego wyboru
+   2. Benzodiazepiny — jedynie w napadzie paniki oddechowej, żeby przerwać błędne koło lęk–duszność–lęk
+   3. Tlenoterapia —  łagodzi duszność u chorych na nowotwory z hipoksemią. U chorych bez hipoksemii porównywalny jest efekt terapii powietrzem (nawet nadmchem powietrza na twarz)
+   4. GKS — łagodzą obturację oskrzeli
+
+
+
+**Panika oddechowa** – napad duszności połączony z lękiem przed uduszeniem. W trakcie napadu: przerwij narastanie lęku poprzez zwrócenie (nieraz wymuszenie) uwagi chorego na siebie jako kompetentnego lekarza, a następnie wzmacniaj poczucia bezpieczeństwa; jeśli to możliwe, zachęcaj do opanowania hiperwentylacji przez wolniejsze i głębokie oddychanie; postępuj przyczynowo, jeśli współistnieją somatyczne przyczyny nasilające duszność; w celu przerwania napadu podaj benzodiazepiny o krótkim i średnim czasie działania (midazolam lub lorazepam →tab. 1.11-4).
+
+
+
+&nbsp;
+
+## 036 Przyczyny i postępowanie u chorego zgłaszającego krwioplucie
+
+**Definicja:**
+
+1. Krwioplucie = wykrztuszanie krwistej plwociy z dróg oddechowych
+2. Krwotok płucny = >500ml/24h lub 100ml/h — zagrożenie życia!
+
+**Przyczyny:**
+
+1. Najczęstsze
+   1. Zapalenie oskrzeli.
+   2. Rozstrzenie oskrzeli.
+   3. Rak płuca.
+   4. Gruźlica.
+   5. Bakteryjne zapalenie płuc.
+2. Umiarkowanie częste
+   1. Zatorowość płucna.
+   2. Niewydolność lewokomorowa.
+   3. Inne nowotwory płuc.
+   4. Urazy płuca (w tym jatrogenne).
+3. Najczęstsze przyczny krwotoku płucnego
+   1. nowotwory złośliwe,
+   2. rozstrzenie oskrzeli,
+   3. gruźlica,
+   4. urazy,
+   5. skazy krwotoczne.
+
+**Diagnostyka:**
+
+1. cech krwioplucia i objawów towarzyszących:
+   1. obfite odkrztuszanie plwociny podbarwionej krwią → rozstrzenie oskrzeli
+   2. plwocina ropna i krwista → zapalenie oskrzeli, rozstrzenie oskrzeli; gdy dodatkowo gorączka → zapalenie płuc lub ropień płuca
+   3. plwocina różowa, pienista → niewydolność lewokomorowa, zwężenie zastawki mitralnej
+   4. odpluwanie samej krwi → nowotwory płuc, gruźlica, malformacje tętniczo-żylne, zatorowość płucna
+2. danych z wywiadu:
+   1. palenie tytoniu, nawracające krwioplucie → nowotwory płuc
+   2. nagły początek, wraz z silnym bólem w klatce piersiowej i dusznością → zatorowość płucna
+   3. uraz klatki piersiowej, inwazyjne zabiegi diagnostyczne → krwioplucie spowodowane urazem
+   4. zapalenia naczyń oraz układowe choroby tkanki łącznej → krwioplucie oraz objawy towarzyszące chorobie podstawowej
+   5. znaczna utrata masy ciała → nowotwory płuc, gruźlica
+   6. napadowa duszność nocna lub wysiłkowa → niewydolność lewokomorowa, zwężenie zastawki mitralnej.
+3. Badania pomocnicze:
+   1. RTG, ew. TK klatki piersiowej w zależności od podejrzewanej przyczyny (angio-TK jeśli podejrzewa się zatorowość płucną)
+   2. bronchoskopia – jeżeli nie ustalono pewnego rozpoznania oraz przy podejrzeniu raka płuca; bronchoskopia terapeutyczna
+   3. morfologia krwi obwodowej i badania układu krzepnięcia (INR, APTT, ew. inne)
+   4. konsultacja laryngologiczna w razie podejrzenia krwawienia z górnych dróg oddechowych
+
+
+
+Postępowanie w krwotoku płucnym:
+
+1. zabezpiecz drożność dróg oddechowych i dostęp do żyły
+2. pobierz krew na oznaczenie grupy, wykonanie próby krzyżowej, badania morfologii i krzepnięcia
+3. stosuj tlenoterapię – utrzymuj SaO2 >90%
+4. koryguj ew. zaburzenia krzepnięcia, niedokrwistość i hipowolemię
+5. wyklucz krwawienie z górnych dróg oddechowych i przewodu pokarmowego
+6. zleć **pilną bronchoskopię** (jeśli są warunki – **sztywną**)
+7. jeżeli miejsce krwawienia zostało ustalone → ułóż chorego na boku „chorym”, a w razie konieczności intubacji rozważ wprowadzenie rurki intubacyjnej do oskrzela głównego „zdrowego” płuca.
+
+
+
+&nbsp;
+
 ## 037 Przyczyny i sposób postępowania w przypadku stwierdzenia cienia okrągłego w płucu
 
 ![Screenshot 2021-06-26 at 11.58.23](img/Screenshot%202021-06-26%20at%2011.58.23.png)
@@ -7855,75 +7963,6 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 &nbsp;
 
 ### 034 Wskazania do tlenoterapii i sposoby leczenia tlenem w warunkach szpitalnych
-
-
-
-&nbsp;
-
-### 035 Przyczyny i sposób postępowania u chorego zgłaszającego duszność
-
-
-
-&nbsp;
-
-### 036 Przyczyny i postępowanie u chorego zgłaszającego krwioplucie
-
-**Definicja:**
-
-1. Krwioplucie = wykrztuszanie krwistej plwociy z dróg oddechowych
-2. Krwotok płucny = >500ml/24h lub 100ml/h — zagrożenie życia!
-
-**Przyczyny:**
-
-1. Najczęstsze
-   1. Zapalenie oskrzeli.
-   2. Rozstrzenie oskrzeli.
-   3. Rak płuca.
-   4. Gruźlica.
-   5. Bakteryjne zapalenie płuc.
-2. Umiarkowanie częste
-   1. Zatorowość płucna.
-   2. Niewydolność lewokomorowa.
-   3. Inne nowotwory płuc.
-   4. Urazy płuca (w tym jatrogenne).
-3. Najczęstsze przyczny krwotoku płucnego
-   1. nowotwory złośliwe,
-   2. rozstrzenie oskrzeli,
-   3. gruźlica,
-   4. urazy,
-   5. skazy krwotoczne.
-
-**Diagnostyka:**
-
-1. cech krwioplucia i objawów towarzyszących:
-   1. obfite odkrztuszanie plwociny podbarwionej krwią → rozstrzenie oskrzeli
-   2. plwocina ropna i krwista → zapalenie oskrzeli, rozstrzenie oskrzeli; gdy dodatkowo gorączka → zapalenie płuc lub ropień płuca
-   3. plwocina różowa, pienista → niewydolność lewokomorowa, zwężenie zastawki mitralnej
-   4. odpluwanie samej krwi → nowotwory płuc, gruźlica, malformacje tętniczo-żylne, zatorowość płucna
-2. danych z wywiadu:
-   1. palenie tytoniu, nawracające krwioplucie → nowotwory płuc
-   2. nagły początek, wraz z silnym bólem w klatce piersiowej i dusznością → zatorowość płucna
-   3. uraz klatki piersiowej, inwazyjne zabiegi diagnostyczne → krwioplucie spowodowane urazem
-   4. zapalenia naczyń oraz układowe choroby tkanki łącznej → krwioplucie oraz objawy towarzyszące chorobie podstawowej
-   5. znaczna utrata masy ciała → nowotwory płuc, gruźlica
-   6. napadowa duszność nocna lub wysiłkowa → niewydolność lewokomorowa, zwężenie zastawki mitralnej.
-3. Badania pomocnicze:
-   1. RTG, ew. TK klatki piersiowej w zależności od podejrzewanej przyczyny (angio-TK jeśli podejrzewa się zatorowość płucną)
-   2. bronchoskopia – jeżeli nie ustalono pewnego rozpoznania oraz przy podejrzeniu raka płuca; bronchoskopia terapeutyczna
-   3. morfologia krwi obwodowej i badania układu krzepnięcia (INR, APTT, ew. inne)
-   4. konsultacja laryngologiczna w razie podejrzenia krwawienia z górnych dróg oddechowych
-
-
-
-Postępowanie w krwotoku płucnym:
-
-1. zabezpiecz drożność dróg oddechowych i dostęp do żyły
-2. pobierz krew na oznaczenie grupy, wykonanie próby krzyżowej, badania morfologii i krzepnięcia
-3. stosuj tlenoterapię – utrzymuj SaO2 >90%
-4. koryguj ew. zaburzenia krzepnięcia, niedokrwistość i hipowolemię
-5. wyklucz krwawienie z górnych dróg oddechowych i przewodu pokarmowego
-6. zleć **pilną bronchoskopię** (jeśli są warunki – **sztywną**)
-7. jeżeli miejsce krwawienia zostało ustalone → ułóż chorego na boku „chorym”, a w razie konieczności intubacji rozważ wprowadzenie rurki intubacyjnej do oskrzela głównego „zdrowego” płuca.
 
 
 
