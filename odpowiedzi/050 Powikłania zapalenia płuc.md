@@ -46,5 +46,11 @@
 
 
 
+**Sepsa:**
+
+![qSOFA-1024x529](img/qSOFA-1024x529.png)
+
+
+
 ## Brudnopis
 
