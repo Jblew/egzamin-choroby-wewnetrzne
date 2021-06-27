@@ -4,6 +4,59 @@
 
 Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
+1. GPKZN (z. nefrytyczny)
+
+   1. 80% to Wtórne RPGN może być objawem nerkowym choroby układowej, najczęściej układowego zapalenia małych naczyń (80% wszystkich przypadków RPGN).
+
+   2. ![Screenshot 2021-06-27 at 14.42.29](img/Screenshot%202021-06-27%20at%2014.42.29.png)
+
+      ![Screenshot 2021-06-27 at 14.36.24](img/Screenshot%202021-06-27%20at%2014.36.24.png)
+
+2. Ostre poinfekcyjne KZN (z. nefrytyczny)
+
+   1. Występująca NAGLE choroba kłębuszków nerkowych,
+      związana z przebyciem zakażenia PACIORKOWCEM β-hemolizującym grupy A.
+
+3. Mezangialne KZN (dominuje krwinkomocz + umiarkowany białkomocz)
+
+   1. Pierwotne: nefropatia IgA
+   2. Wtórne: 
+      1. zapalenia naczyń związanego z IgA (plamica Henocha i Schönleina),
+      2. marskości lub innej ciężkiej choroby wątroby,
+      3. celiakii,
+      - zakażenia HIV.
+
+4. Błoniastorozplemowe (zespół nefrytyczny (80% NT, białkomocz subnerczycowy, wałeczki ziarniste))
+
+   1. Wtórne błoniastorozplemowe KZN jest najczęściej spowodowane zakażeniem HCV.
+
+5. Submikroskopowe (z. nerczycowy + prawidłowe BP i GFR) (jakiś nieznany czynnik we krwi zmniejsza ujemność ładunku GBM)
+
+   1. Raczej nie rozpoznawana przyczyna wtórnego, ale związane z:
+   2. HL, NHL,
+   3. NSLPZ
+
+6. FSGS (najcz. z. nerczycowy, u 40% krwinkomocz, NT)
+
+   1. stany prowadzące do hiperfiltracji
+      1. nefropatia refluksowa
+      2. !!! złośliwe nadciśnienie tętnicze
+      3. zmniejszona ilość czynnego miąższu nerek
+      4. !!! znaczna otyłość
+      5. niedokrwistość sierpowatokrwinkowa
+   2. czynniki toksyczne,
+   3. zakażenie HIV.
+
+7. Błoniaste KZN (z. nerczycowy + krwinkomocz. NT późno)
+
+   1. 75% postać pierwotna o nieznanej przyczynie (U 70–80% chorych p/receptorom dla fosfolipazy A2.)
+   2. nowotwory (głównie guzy lite płuca, żołądka, jelita grubego),
+   - SLE,
+
+   - zakażenie HBV i HCV (częściej HBV),
+
+   - leki (penicylamina, złoto, tiopronina, NLPZ, kaptopryl).
+
 
 
 | **Pierwotne KZN**                                            | **Przyczyny wtórnych KZN o tym samym obrazie histopatologicznym** | **Obraz kliniczny**                                          |

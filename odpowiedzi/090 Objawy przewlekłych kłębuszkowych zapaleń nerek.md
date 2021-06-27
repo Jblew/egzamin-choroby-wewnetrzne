@@ -13,6 +13,8 @@
    4. Błoniaste KZN (najczęstsza przyczyna zesp. nerczycowego u dorosłych; PF: kompleksy imunologiczne uszkadzają GBM)
    5. FSGS (ogniskowo-segmentalne stwardnienie kłębuszków) 
 
+
+
 **Obrazy kliniczne:**
 
 - Z. nerczycowy => poniżej
