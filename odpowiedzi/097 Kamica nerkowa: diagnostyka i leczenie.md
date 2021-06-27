@@ -48,7 +48,39 @@
 
 **Rozpoznanie:** obj. kliniczne + bad. ogólne moczu + TK spiralne bez kontrastu (chociaż w PL częściej USG a TK ew po USG)
 
-**Leczenie:** ...TODO
+**Leczenie:** B+R+I
+
+1. Przeciwbólowe
+   1. NLPZ
+
+      - pierwszy rzut w leczeniu bólu kolkowego (zmniejszają obrzęk i odczyn zapalny wokół złogu, ułatwiając jego przesuwanie do pęcherza moczowego),
+      - silny ból → ketoprofen 100 mg, diklofenak 75 mg (i.v./i.m.)
+      - ból o mniejszym natężeniu → ketoprofen 50–100 mg, diklofenak 50–100 mg, ibuprofen 600–800 mg, naproksen 500–750 mg, indometacyna 25–50 mg (p.o./p.r.).
+   2. Opioidy w razie nieskuteczności NLPZ. Działają p/bólowo ale nie zmniejszają napięcia mięśniówki moczowodu. Morfina 2-5mg, Tramadol 100mg
+2. Rozkurczające
+   1. zwykle jako dodatek do NLPZ lub opioidu,
+   2. drotaweryna 40–80 mg (i.m./i.v./p.o.),
+
+   3. hioscyna 20 mg (i.v./i.m./p.o./p.r.),
+   4. oksyfenonium 5–10 mg (p.o.),
+   5. papaweryna 40–120 mg (s.c./i.m.).
+3. Inwazyjne
+   1. Litotrypsja pozaustrojowa (ESWL)
+      1. kruszenie złogów nerkowych i moczowodowych
+         falami uderzeniowymi generowanymi pozaustrojowo, wykonywane w analgosedacji, zwykle w trybie ambulatoryjnym.
+   2. Nefrolitotrypsja przezskórna (PCNL)
+      1. usunięcie złogu za pomocą endoskopu wprowadzonego bezpośrednio do układu kielichowo-miedniczkowego.
+   3. Litotrypsja ureterorenoskopowa (URSL)
+      1. usunięcie złogu za pomocą endoskopu
+         wprowadzonego przez cewkę moczową i pęcherz do moczowodu.
+4. Wskazania do hospitalizacji i konsultacji urologicznej
+   1. Towarzysząca gorączka i objawy ZUM.
+   2. Skąpomocz lub bezmocz.
+   3. Nieskuteczność leczenia farmakologicznego, zwłaszcza gdy występują nudności i wymioty.
+5. Postępowanie w okresie międzynapadowym
+   1. Wypijanie **dużej ilości płynów**, aby dobowa objętość moczu wynosiła ≥ 2 l.
+   2. Ograniczenie spożycia **białka zwierzęcego** (dieta bogata w białko zwierzęce obniża pH moczu i zmniejsza wydalanie cytrynianów z moczem) oraz pokarmów zawierających **składniki kamieni moczowych** (kwas szczawiowy, puryny).
+   3. Zakwaszanie lub alkalizacja moczu, w zależności od rodzaju złogów.
 
 
 
