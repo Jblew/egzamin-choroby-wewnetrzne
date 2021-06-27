@@ -28,7 +28,7 @@
   - Wolny stolec z domieszką krwi ("Wolny stolec" to rozwolnienie - potoczne określenie biegunki.)
   - Nie słychaś szmerów perystaltycznych
 - Diagnostyka: 
-  - Z wyboru: angio-TK
+  - **Z wyboru: angio-TK** (czułość ~94%, często umożliwia różnicowanie etiologii zatorowej i zakrzepowej)
   - Badanie USG Doppler jest mniej wartościowe i trudne do oceny ze względu na częste rozdęcie jelit.
 - Leczenie:
   - Jedyne leczenie to wczesna operacja

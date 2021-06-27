@@ -37,5 +37,13 @@
 
 
 
+![Screenshot 2021-06-28 at 01.26.42](img/Screenshot%202021-06-28%20at%2001.26.42.png)
+
+![Screenshot 2021-06-28 at 01.27.09](img/Screenshot%202021-06-28%20at%2001.27.09.png)
+
+Powikłane ZUM:
+
+![Screenshot 2021-06-28 at 01.27.52](img/Screenshot%202021-06-28%20at%2001.27.52.png)
+
 ## Brudnopis
 

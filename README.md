@@ -3939,7 +3939,7 @@ https://www.mp.pl/interna/chapter/B16.I.1.2.
   - Wolny stolec z domieszką krwi ("Wolny stolec" to rozwolnienie - potoczne określenie biegunki.)
   - Nie słychaś szmerów perystaltycznych
 - Diagnostyka: 
-  - Z wyboru: angio-TK
+  - **Z wyboru: angio-TK** (czułość ~94%, często umożliwia różnicowanie etiologii zatorowej i zakrzepowej)
   - Badanie USG Doppler jest mniej wartościowe i trudne do oceny ze względu na częste rozdęcie jelit.
 - Leczenie:
   - Jedyne leczenie to wczesna operacja
@@ -6769,6 +6769,16 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
    1. Wskazania do leczenia: 
       1. Ciąża
       2. Przed zabiegami urologicznymi
+
+
+
+![Screenshot 2021-06-28 at 01.26.42](img/Screenshot%202021-06-28%20at%2001.26.42.png)
+
+![Screenshot 2021-06-28 at 01.27.09](img/Screenshot%202021-06-28%20at%2001.27.09.png)
+
+Powikłane ZUM:
+
+![Screenshot 2021-06-28 at 01.27.52](img/Screenshot%202021-06-28%20at%2001.27.52.png)
 
 
 
