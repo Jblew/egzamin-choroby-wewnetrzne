@@ -39,20 +39,44 @@ UA = brak uniesienia ST i brak cech ostrego uszkodzenia miokahdium
 
 
 
-**EKG lokalizacja:**
+**EKG w OZW:**
 
-- V1-V4 - ściana przednia,
-- II, III, aVF - ściana dolna,
-- I, aVL, V5, V6 - ściana boczna i koniuszek,
-- Vr3, Vr4 - ściana prawej komory. 
+1. Lokalizacja zmian (co najmniej 2 sąsiadujące odprowadzenia)
+   - V1-V4 - ściana przednia,
+   - II, III, aVF - ściana dolna,
+   - I, aVL, V5, V6 - ściana boczna i koniuszek,
+   - Vr3, Vr4 - ściana prawej komory. 
+2. UA/NSTEMI
+   1. Prawidłowe EKG 50%
+   2. Obniżenie (rzadko przemijające uniesienie) ST
+   3. odwrócenie załamków T
+      1. Prawidłowy T dodatni w: I,II,V2-V6
+      2. Prawidłowy T ujemny w: aVR
+   4. Ponad 1mm = 0,1mV
+   5. Liczy się też odwrócenie wcześniej ujemnych na dodatnie
+3. STEMI
+   1. Typowa ewolucja
+   2. Świeży blok RBBB/LBBB
 
 
+
+**Typowa ewolucja STEMI:**
+
+![Evolution-of-a-STEMI](img/Evolution-of-a-STEMI.png)
+
+![ekg-stemi-ecg-cardiology-original](img/ekg-stemi-ecg-cardiology-original.png)
+
+
+
+
+
+![Screenshot 2021-06-27 at 14.26.14](img/Screenshot%202021-06-27%20at%2014.26.14.png)
 
 ![Screenshot 2021-06-27 at 10.31.11](img/Screenshot%202021-06-27%20at%2010.31.11.png)
 
+![Screenshot 2021-06-27 at 14.26.29](img/Screenshot%202021-06-27%20at%2014.26.29.png)
 
 
-... TODO EKG w OZW (Kardiologia 2, slajd 105)
 
 
 
