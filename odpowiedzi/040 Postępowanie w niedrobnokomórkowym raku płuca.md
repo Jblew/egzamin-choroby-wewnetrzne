@@ -50,6 +50,7 @@
 - jednostronne uniesienie przepony
 - guz
 - płyn w opłucnej
+- Kryterium: Na podstawie badania histologicznego (preferowane) lub cytologicznego materiału uzyskanego z guza. Kolejność badań diagnostycznych:
 
 **Leczenie:** 
 

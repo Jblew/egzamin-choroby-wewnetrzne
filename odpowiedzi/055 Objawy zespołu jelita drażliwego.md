@@ -40,6 +40,8 @@
 3. (C) Przez co najmniej 3 miesiące
 4. (D) Początek ponad 6 mc temu
 
+![Screenshot 2021-06-27 at 23.00.10](img/Screenshot%202021-06-27%20at%2023.00.10.png)
+
 **Leczenie:** 
 
 - Leki rozkurczowe (hioscyna, drotaweryna)
