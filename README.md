@@ -986,6 +986,59 @@ Zwężenie...
 
 &nbsp;
 
+## 015 Rozpoznanie niewydolności serca
+
+**Definicja wg Interny Szczeklika:** Stan, w którym w wyniku zaburzenia czynności serca dochodzi do zmniejszenia pojemności minutowej serca w stosunku do zapotrzebowania metabolicznego tkanek ustroju bądź właściwa pojemność minutowa jest utrzymywana dzięki podwyższeniu ciśnienia napełniania, co powoduje objawy kliniczne.
+
+- NS musi być klinicznie jawna. W innym przypadku: bezobjawowa skurczowa/rozkurczowa dysfunkcja lewej komory.
+
+**Definicja wg WNL?:** 
+
+- NS to nie choroba ale zespół typowych objawów przedmiotowych i odchyleń w badaniu przedmiotowym. 
+- Objawy to (3) duszność, obrzęki KD i obniżona tolerancji wysiłku. 
+- Odchylenia w bad. przedmiotowym to (3) poszerzenie żył szyjnych, trzeszczenia nad płucami i obrzęki obwodowe.
+- Zaburzenia te są spowodowane nieprawidłowościami w budowie serca i/lub nieprawidłową czynnością serca.
+- Mechanizm obejmuje spadek rzutu serca i/lub wzrost ciśnienia wewnątrzsercowego.
+
+**Epidemiologia:** 
+
+**Patofizjologia:** 
+
+**Obraz kliniczny:** [025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory](./odpowiedzi/025%20Obraz%20kliniczny%20niewydolności%20serca%20z%20zachowaną%20frakcją%20wyrzutową%20lewej%20komory.md)
+
+**Diagnostyka:** 
+
+
+
+**Rozpoznanie przewlekłej:** 
+
+1. typowe objawy podmiotowe i/lub przedmiotowe + LVEF <40% lub rozkurczowa dysfunkcja serca w warunkach spoczynkowych (ECHO)
+2. Objawy przedmiotowe mogą nie występować we wczesnym stadium choroby, zwłaszcza w NS z zachowaną albo umiarkowanie zmniejszoną LVEF i u chorych leczonych diuretykami. Istotną przesłanką dysfunkcji jest zwiększone stężenie peptydów natriuretycznych w osoczu, a także poprawa stanu klinicznego po leczeniu farmakologicznym typowym dla NS.
+3. Można szybko oznaczyć NT-proBNP (peptydy natriuretyczne) => ECHO tylko jeśli podwyższone
+4. Nie można szybko ich oznaczyć => ECHO od razu
+
+
+
+**Rozpoznanie ostrej:**
+
+1. Na podstawie objawów podmiotowych i przedmiotowych oraz wyników badań pomocniczych: ECHO, objawy: 1. zastoju w krążeniu małym (duszność, platyponea, tachypnoe, rzężenia), 2. zastoju w krążeniu dużym (obrzęki, przesięki do jam surowiczych), 3. zmniejszonego rzutu (rzadziej, ale gorsze rokowanie: splątanie, skąpomocz, hipotensja, bladość, etc). 4. obj. ch. Podstawowej
+2. Należy szybko (maks. w ciągu 120 min) ustalić, czy ONS nie wynika z choroby wymagającej swoistego działania: koronarografii i ewentualnej rewaskularyzacji w przypadku OZW lub interwencji kardiochirurgicznej w przypadku pęknięcia mięśnia sercowego, rozwarstwienia aorty, guza serca lub dysfunkcji zastawki własnej albo protezy zastawkowej.
+3. Laboratoryjnie: Oznaczenie peptydów natriuretycznych (BNP/NT-proBNP) jest pomocne w różnicowaniu sercowej (stężenie zwiększone) i pozasercowej przyczyny duszności; pamiętaj, że u chorych z gwałtownie narastającym obrzękiem płuc lub ostrą niedomykalnością mitralną w chwili przyjęcia do szpitala stężenia mogą być jeszcze prawidłowe. Oznaczenie dimeru D – wskazane u chorych z podejrzeniem ostrej zatorowości płucnej.
+
+
+
+**Leczenie:** 
+
+**Rokowanie:**
+
+**NYHA:**
+
+![Screenshot 2021-06-26 at 23.06.48](img/Screenshot%202021-06-26%20at%2023.06.48.png)
+
+
+
+&nbsp;
+
 ## 017 Postępowanie w nagłym zatrzymaniu krążenia
 
 ![016_1327](img/016_1327.jpg)
@@ -7697,39 +7750,7 @@ O profilaktyce: [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Pro
 
 ## WIP
 
-### 015 Rozpoznanie niewydolności serca
-
-**Definicja wg Interny Szczeklika:** Stan, w którym w wyniku zaburzenia czynności serca dochodzi do zmniejszenia pojemności minutowej serca w stosunku do zapotrzebowania metabolicznego tkanek ustroju bądź właściwa pojemność minutowa jest utrzymywana dzięki podwyższeniu ciśnienia napełniania, co powoduje objawy kliniczne.
-
-- NS musi być klinicznie jawna. W innym przypadku: bezobjawowa skurczowa/rozkurczowa dysfunkcja lewej komory.
-
-**Definicja wg WNL?:** 
-
-- NS to nie choroba ale zespół typowych objawów przedmiotowych i odchyleń w badaniu przedmiotowym. 
-- Objawy to (3) duszność, obrzęki KD i obniżona tolerancji wysiłku. 
-- Odchylenia w bad. przedmiotowym to (3) poszerzenie żył szyjnych, trzeszczenia nad płucami i obrzęki obwodowe.
-- Zaburzenia te są spowodowane nieprawidłowościami w budowie serca i/lub nieprawidłową czynnością serca.
-- Mechanizm obejmuje spadek rzutu serca i/lub wzrost ciśnienia wewnątrzsercowego.
-
-**Epidemiologia:** 
-
-**Patofizjologia:** 
-
-**Obraz kliniczny:** [025 Obraz kliniczny niewydolności serca z zachowaną frakcją wyrzutową lewej komory](./odpowiedzi/025%20Obraz%20kliniczny%20niewydolności%20serca%20z%20zachowaną%20frakcją%20wyrzutową%20lewej%20komory.md)
-
-**Diagnostyka:** 
-
-**Rozpoznanie:** 
-
-**Leczenie:** 
-
-**Rokowanie:**
-
-**NYHA:**
-
-![Screenshot 2021-06-26 at 23.06.48](img/Screenshot%202021-06-26%20at%2023.06.48.png)
-
-#### 016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory
+### 016 Podstawowy algorytm terapeutyczny niewydolności serca z upośledzona frakcją wyrzutową lewej komory
 
 **Definicja, rozpoznanie:** [015 Rozpoznanie niewydolności serca](./015%20Rozpoznanie%20niewydolności%20serca.md)
 
@@ -7762,7 +7783,7 @@ O profilaktyce: [116 Profilaktyka powikłań osteoporozy](./odpowiedzi/116%20Pro
 
 &nbsp;
 
-#### 018 Objawy kliniczne stenozy aortalnej
+### 018 Objawy kliniczne stenozy aortalnej
 
 **Definicja:** Zwężenie zastawki aortalnej.
 
@@ -7797,7 +7818,7 @@ Patofizjo: spowodowane wzrostem afterload
 
 &nbsp;
 
-#### 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
+### 019 Objawy i profilaktyka infekcyjnego zapalenia wsierdzia
 
 **Definicja:** Zapalenie wsierdzia lub dużych naczyń KLP. Najczęściej w obrębie zastawek: aortalnej i mitralnej.
 
@@ -7848,7 +7869,7 @@ Patofizjo: spowodowane wzrostem afterload
 
 &nbsp;
 
-#### 021 Uniwersalna definicja zawału serca
+### 021 Uniwersalna definicja zawału serca
 
 Ostry zawał = ostre uszkodzenie miokardium + ostre niedokrwienie m. sercowego
 
@@ -7906,7 +7927,7 @@ UA = brak uniesienia ST i brak cech ostrego uszkodzenia miokahdium
 
 &nbsp;
 
-#### 039 Obraz kliniczny i leczenie odmy opłucnowej
+### 039 Obraz kliniczny i leczenie odmy opłucnowej
 
 **Definicja:** Odma opłucnowa to powietrze w opłucnej.
 
@@ -7971,7 +7992,7 @@ Zalecenia po odmie:
 
 &nbsp;
 
-#### 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
+### 048 Obraz kliniczny i leczenie pozaszpitalnego zapalenia płuc
 
 **Definicja:** Objawy ostrego zakażenia DDO + zacienienie w RTG KLP, którego nie można wytłumaczyć w inny sposób (np obrzękiem płuc)
 
@@ -8030,7 +8051,7 @@ Etiologia:
 
 &nbsp;
 
-#### 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
+### 064 Przyczyny, objawy i postępowanie w ostrym zapaleniu trzustki
 
 **Definicja:** Ostry stan zapalny gruczołu spowodowany niekontrolowaną aktywacją proenzymów trzustkowych. Wiąże się z rozległym uszkodzeniem trzustki, sąsiadujących tkanek i niekiedy odległych narządów.
 
@@ -8161,7 +8182,7 @@ Mnemonika:
 
 &nbsp;
 
-#### 077 Objawy pierwotnej nadczynności przytarczyc
+### 077 Objawy pierwotnej nadczynności przytarczyc
 
 **Definicja:** 
 
@@ -8204,7 +8225,7 @@ Objawy hiperkalcemii:
 
 &nbsp;
 
-#### 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
+### 090 Objawy przewlekłych kłębuszkowych zapaleń nerek
 
 **Podział:**
 
@@ -8292,7 +8313,7 @@ Ostre:
 
 &nbsp;
 
-#### 091 Przyczyny wtórnych kłębuszkowych zapaleń nerek
+### 091 Przyczyny wtórnych kłębuszkowych zapaleń nerek
 
 Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
@@ -8315,7 +8336,7 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 &nbsp;
 
-#### 097 Kamica nerkowa: diagnostyka i leczenie
+### 097 Kamica nerkowa: diagnostyka i leczenie
 
 **Definicja:** Obecność złogów w drogach moczowych powstałych na skutek wytrącania.
 
@@ -8369,7 +8390,7 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 &nbsp;
 
-#### 106 Nabyte skazy krwotoczne
+### 106 Nabyte skazy krwotoczne
 
 1. Naczyniowe
    1. Schoenline-Henocha
@@ -8417,7 +8438,7 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 
 &nbsp;
 
-#### 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
+### 109 Algorytm terapeutyczny reumatoidalnego zapalenia stawów
 
 **Definicja:** 
 
@@ -8477,13 +8498,9 @@ Wtórne KZN: uszkodzenie kłębuszków jest następstwem innej choroby.
 - LMPCh biologiczne
 - TODO: algorytm
 
-##### Pytania jeszcze bez odpowiedzi
+#### Pytania jeszcze bez odpowiedzi
 
-
-
-&nbsp;
-
-### Skale
+##### Skale
 
 ![qSOFA-1024x529](img/qSOFA-1024x529-4699095.png)
 
@@ -8499,49 +8516,49 @@ TODO: mMRC, CAT, Astma kryt. kontroli, CCS, NYHA
 
 &nbsp;
 
-### TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
+##### TODO: dawki kluczowych leków: leki w NZK, we wstrząsie anafilaktycznym, p/płytkowe, antybiotyki w sepsie, ...w innych stanach zagrożenia życia, enoksaparyna
 
 
 
 &nbsp;
 
-### TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
+##### TODO: DzN i Pw popularnych leków: B-blokerów, ACEI, CCA, tiazydów, statyn, ASA, NLPZ, p/krzepliwe
 
 
 
 &nbsp;
 
-### EKG: https://www.youtube.com/watch?v=N9AoGw9nUdg (jest pełen kurs do tego)
+##### EKG: https://www.youtube.com/watch?v=N9AoGw9nUdg (jest pełen kurs do tego)
 
 
 
 &nbsp;
 
-### kluczowe badania poziomy (morfologia, biochemia)
+##### kluczowe badania poziomy (morfologia, biochemia)
 
 
 
 &nbsp;
 
-### RTG: https://www.youtube.com/watch?v=Xwh4M5LM8X4
+##### RTG: https://www.youtube.com/watch?v=Xwh4M5LM8X4
 
 
 
 &nbsp;
 
-### Bad. przedmiotowe: https://www.youtube.com/watch?v=gRWSyqatWQQ
+##### Bad. przedmiotowe: https://www.youtube.com/watch?v=gRWSyqatWQQ
 
 
 
 &nbsp;
 
-### Bad. ogólne moczu
+##### Bad. ogólne moczu
 
 
 
 &nbsp;
 
-### Morfologia
+##### Morfologia
 
 
 

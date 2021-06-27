@@ -22,7 +22,24 @@
 
 **Diagnostyka:** 
 
-**Rozpoznanie:** 
+
+
+**Rozpoznanie przewlekłej:** 
+
+1. typowe objawy podmiotowe i/lub przedmiotowe + LVEF <40% lub rozkurczowa dysfunkcja serca w warunkach spoczynkowych (ECHO)
+2. Objawy przedmiotowe mogą nie występować we wczesnym stadium choroby, zwłaszcza w NS z zachowaną albo umiarkowanie zmniejszoną LVEF i u chorych leczonych diuretykami. Istotną przesłanką dysfunkcji jest zwiększone stężenie peptydów natriuretycznych w osoczu, a także poprawa stanu klinicznego po leczeniu farmakologicznym typowym dla NS.
+3. Można szybko oznaczyć NT-proBNP (peptydy natriuretyczne) => ECHO tylko jeśli podwyższone
+4. Nie można szybko ich oznaczyć => ECHO od razu
+
+
+
+**Rozpoznanie ostrej:**
+
+1. Na podstawie objawów podmiotowych i przedmiotowych oraz wyników badań pomocniczych: ECHO, objawy: 1. zastoju w krążeniu małym (duszność, platyponea, tachypnoe, rzężenia), 2. zastoju w krążeniu dużym (obrzęki, przesięki do jam surowiczych), 3. zmniejszonego rzutu (rzadziej, ale gorsze rokowanie: splątanie, skąpomocz, hipotensja, bladość, etc). 4. obj. ch. Podstawowej
+2. Należy szybko (maks. w ciągu 120 min) ustalić, czy ONS nie wynika z choroby wymagającej swoistego działania: koronarografii i ewentualnej rewaskularyzacji w przypadku OZW lub interwencji kardiochirurgicznej w przypadku pęknięcia mięśnia sercowego, rozwarstwienia aorty, guza serca lub dysfunkcji zastawki własnej albo protezy zastawkowej.
+3. Laboratoryjnie: Oznaczenie peptydów natriuretycznych (BNP/NT-proBNP) jest pomocne w różnicowaniu sercowej (stężenie zwiększone) i pozasercowej przyczyny duszności; pamiętaj, że u chorych z gwałtownie narastającym obrzękiem płuc lub ostrą niedomykalnością mitralną w chwili przyjęcia do szpitala stężenia mogą być jeszcze prawidłowe. Oznaczenie dimeru D – wskazane u chorych z podejrzeniem ostrej zatorowości płucnej.
+
+
 
 **Leczenie:** 
 
