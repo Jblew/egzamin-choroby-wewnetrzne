@@ -23,14 +23,14 @@ U pacjentów z wynikiem równym lub większym niż 2, zaleca się stosowanie dou
 **HAS-BLED:**
 
 1. Hypertension: NT2>160
-2. A
+2. A (po 1 za każdy)
    1. abnormal renal function: dializa, po przeszczepieniu, kreatynina >2
    2. abnormal liver function: przewlekła choroba wątroby (np marskość), lub ostre uszkodzenie, np ASP,ALT>3ggn
 3. Stroke: po udarze
 4. Bleeding: krwawienie w wywiadzie lub predyspozycja (skaza, niedokrwistość)
 5. Labile INR: wahające się duże wartości
 6. Elderly >65
-7. Drugs and alcohol: NLPZ i alkohol
+7. Drugs and alcohol: **NLPZ** i alkohol po 1 za każdy
 
 Po 1pkt za każde. Duże ryzyko krwawienia = co najmniej 3pkt
 

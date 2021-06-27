@@ -17,6 +17,10 @@
 5. Występuje też obrzęk płuc (z zacienieniem w RTG)
 6. Rokowanie: długie życie, często brak jest objawów przez większość życia i pierwszym objawem może być NZK w mechanizmie migotania komór.
 
+![Screenshot 2021-06-27 at 20.44.46](img/Screenshot%202021-06-27%20at%2020.44.46.png)
+
+
+
 **Diagnostyka:** 
 
 1. Rozpoznanie: ECHO

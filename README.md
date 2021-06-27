@@ -1820,14 +1820,14 @@ U pacjentów z wynikiem równym lub większym niż 2, zaleca się stosowanie dou
 **HAS-BLED:**
 
 1. Hypertension: NT2>160
-2. A
+2. A (po 1 za każdy)
    1. abnormal renal function: dializa, po przeszczepieniu, kreatynina >2
    2. abnormal liver function: przewlekła choroba wątroby (np marskość), lub ostre uszkodzenie, np ASP,ALT>3ggn
 3. Stroke: po udarze
 4. Bleeding: krwawienie w wywiadzie lub predyspozycja (skaza, niedokrwistość)
 5. Labile INR: wahające się duże wartości
 6. Elderly >65
-7. Drugs and alcohol: NLPZ i alkohol
+7. Drugs and alcohol: **NLPZ** i alkohol po 1 za każdy
 
 Po 1pkt za każde. Duże ryzyko krwawienia = co najmniej 3pkt
 
@@ -1968,6 +1968,10 @@ Zapalenia naczyń:
 4. Asymetryczny przerost — przegroda przerasta bardziej -> zwężenie LVOT (drogi odpływu lewej komory) -> duża różnica ciśnień DBP/SBP oraz szmer skurczowy nad polem osłuchiwania lewej komory
 5. Występuje też obrzęk płuc (z zacienieniem w RTG)
 6. Rokowanie: długie życie, często brak jest objawów przez większość życia i pierwszym objawem może być NZK w mechanizmie migotania komór.
+
+![Screenshot 2021-06-27 at 20.44.46](img/Screenshot%202021-06-27%20at%2020.44.46.png)
+
+
 
 **Diagnostyka:** 
 
