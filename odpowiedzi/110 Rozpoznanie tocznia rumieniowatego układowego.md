@@ -48,6 +48,8 @@
       1. Anty-dsDNA +6
       2. Anty-Sm +6
 
+![Screenshot 2021-06-28 at 01.53.44](img/Screenshot%202021-06-28%20at%2001.53.44.png)
+
 **Leczenie:** 
 
 - Podstawa: GKS i leki p/malaryczne (hydroksychlorochina)
