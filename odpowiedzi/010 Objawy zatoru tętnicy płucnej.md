@@ -31,6 +31,10 @@
 - RTG: powiększenie sylwetki serca, zagęszczenia miąższowe
 - ECHO: cechy przeciążenia prawej komory
 - EKG: 44% tachykardia zatokowa. RBBB, prawogram, s1q3t3
+- ![download-1](img/download-1.jpg)
+- ![block-ekg-rbbb-ecg-diagnosis-original](img/block-ekg-rbbb-ecg-diagnosis-original.jpg)
+
+
 
 **Algorytm:** 
 
