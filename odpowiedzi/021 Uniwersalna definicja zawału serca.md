@@ -48,6 +48,10 @@ UA = brak uniesienia ST i brak cech ostrego uszkodzenia miokahdium
 
 
 
+![Screenshot 2021-06-27 at 10.31.11](img/Screenshot%202021-06-27%20at%2010.31.11.png)
+
+
+
 ... TODO EKG w OZW (Kardiologia 2, slajd 105)
 
 
