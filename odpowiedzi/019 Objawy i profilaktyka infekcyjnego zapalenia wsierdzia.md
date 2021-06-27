@@ -4,8 +4,6 @@
 
 **Definicja:** Zapalenie wsierdzia lub dużych naczyń KLP. Najczęściej w obrębie zastawek: aortalnej i mitralnej.
 
-**Epidemiologia:** ...TODO
-
 **Etiologia:**
 
 -  Bakterie (90%)
@@ -37,15 +35,49 @@
   - Plamki Rotha — wybroczyny w siatkówce na dnie oka
   - Objaw Drzazgi — małe linijne wybroczyny pod paznokciami
 
-**Diagnostyka:** ...TODO
+**Rozpoznanie:** 
 
-**Rozpoznanie:** ...TODO
+![Screenshot 2021-06-27 at 14.06.44](img/Screenshot%202021-06-27%20at%2014.06.44.png)
 
-**Leczenie:** ...TODO
 
-**Profilaktyka pierwotna:** ...TODO
 
-**Rokowanie:**
+**Leczenie:** 
+
+1. Zawsze hospitalizacja
+2. Dwa posiewy krwi z odstępem 30min
+3. Ab empiryczna: kloksacylina/oksacylina  + ampicylina + gentamycyna
+4. Ab wieloantybiotykowa
+5. Jeśli urządzenie wszczepialne jest przyczyną — zawsze usunąć
+
+
+
+**Profilaktyka pierwotna:** 
+
+1. Metody nieswoiste:
+   1. higiena jamy ustnej i skóry (wizyty u dentysty 2 ×/rok w przypadku osób obciążonych dużym ryzykiem i 1 ×/rok w pozostałych przypadkach)
+   2. odkażanie ran
+   3. eradykacja lub ograniczenie przewlekłego nosicielstwa bakterii na skórze i w drogach moczowych
+   4. stosowanie antybiotyków w przypadku jakiegokolwiek ogniska zakażenia bakteryjnego
+   5. niestosowanie antybiotyków bez porady lekarza
+   6. rygorystyczne środki zapobiegania zakażeniom przy każdym zabiegu związanym z ryzykiem IZW
+   7. odradzanie pacjentom piercingu i tatuaży
+   8. ograniczenie stosowania cewników dożylnych i zabiegów inwazyjnych, jeśli to możliwe; preferowanie cewników obwodowych (zamiast centralnych) i ich systematyczna wymiana co 3–4 dni; rygorystyczne przestrzeganie zasad opieki nad chorym z cewnikiem centralnym lub obwodowym.
+2. Wskazania do profilaktyki z użyciem antybiotyków: 
+   1. przed:
+      1. stomatologia + manipulacja w obrębie dziąsła lub okolicy okołowierzchołkowej LUb naruszenie ciągłości błony sluzowej (ekstrakcja zęba, lecz. kanałowe, implanty...)
+   2. u:
+      1. Proteza zastawkowa lub naprawa zastawki z użyciem sztucznego materiału
+      2. Przebyte IZW
+      3. Wrodzona wada serca:
+         1. Sinicza do 6mc od zabiegu
+         2. Rezydualna niedomykalność zastawki
+3. Ab: (1 dawka 30-60min przed zabiegiem)
+   1. Amoksy/ampi 2g 
+   2. Klindamycyna 600mg (gdy alergia na blaktamy)
+
+
+
+
 
 
 
