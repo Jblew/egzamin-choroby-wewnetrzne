@@ -82,6 +82,9 @@ Etiologia:
 2. Ab
 
    1. ![Screenshot 2021-06-27 at 18.10.22](img/Screenshot%202021-06-27%20at%2018.10.22.png)
+   2. ![016_8465](img/016_8465.jpg)
+   3. Czyli empryczna ambulatoryjnie Amoksycylina 500mg-1000mg 3/d
+   4. Empiryczna w szpitalu b-laktam + makrolid
 
 3. Czas Ab
 

@@ -8,8 +8,8 @@
 
 **Przyczyny:**
 
-1. NR1: Kamica żółciowa
-2. NR2: Alkohol
+1. Nr1: Kamica żółciowa
+2. Nr2: Alkohol
 
 Mnemonika:
 
@@ -27,10 +27,10 @@ Mnemonika:
 
 **Postacie:** 
 
-- 80% Ostre obrzękowe
+- 80% Ostre obrzękowe ZT
   - łagodna forma
   - aktywne enzymy proteolityczne wywołują miejscowe zapalenie
-- 20% Ostre martwicze
+- 20% Ostre martwicze ZT
   - ciężka postać
   - tworzą się ogniska martwicze i ropne
   - martwica zajmuje trzustkę i szerzy się w przestrzeni zaotrzewnowej
@@ -38,7 +38,7 @@ Mnemonika:
 
 **Klasyfikacja ciężkości:** wg Atlanta 2012
 
-- Łagodne OZT (60 - 70 %) - bez niewydolności narządowej i powikłań miejscowych/ogólnoustrojowych, często nawraca u alkoholików.
+- 66% Łagodne OZT - bez niewydolności narządowej i powikłań miejscowych/ogólnoustrojowych, często nawraca u alkoholików.
 
 - Umiarkowane OZT - przemijająca niewydolność narządowa (ustępująca w ciągu 48 h) i/lub powikłania miejscowe/ogólnoustrojowe.
 - Ciężkie OZT - przetrwała niewydolność narządowa dotycząca jednego lub wielu układów (>48 h).
@@ -53,7 +53,7 @@ Mnemonika:
   - Pokarmowe: nudności, wymioty, utrata apetytu
   - Ogólne: lekko podwyższona temperatura
 - Martwicze
-  - Ból: jak w obrzękowyim lub cały brzuch
+  - Ból: jak w obrzękowym lub cały brzuch
   - Brzuszne: tkliwość, napięcie powłok, mogą być objawy otrzewnowe
   - Pokarmowe: wzdęcie brzucha, osłabiona perystaltyka aż to niedrożności porażennej jelit
   - Ogólne: gorączka, tachykardia, tachypnoe, wstrząs, duszność, splątanie
@@ -100,14 +100,26 @@ Mnemonika:
 
 - Zachowawcze (z wyboru)
   - Żywieniowe
-  - Jony
+    - W łagodnym OZT => ścisła głodówka przez pierwsze doby leczenia (no chyba, że niedożywienie). Po ustąpieniu bólu (4 dzień) dieta ubogotłuszczowa
+    - W umiarkowanym/ciężkim => 48h nic => żywienie dojelitowe/hybrydowe
+  - Jony 
+    - wyrównywanie hipokalcemii
+    - dożylna płynoterapia
   - P/bólowe
+    - Metamizol (dodatkowo działa spazmolitycznie)
+    - Petydyna / tramadol. Nie wolno morfiny! (kurczy zwieracz Odiego)
+    - w przypadku bardzo silnego bólu → ciągłe znieczulenie zewnątrzoponowe.
+    - IPP
   - Antybiotykoterapia
-  - Sfinkterektomia
+    - Wskazania: ŻÓŁCIOPOCHODNE OZT i zakażona martwica
+    - Cyprofloksacyna lub metronidazol
+  - Sfinkterektomia endoskopowa — w ŻÓŁCIOPOCHODNYM OZT
+  - W celu zmniejszenia ryzyka nawrotu choroby, jeżeli przyczyną była kamica żółciowa, po ustąpieniu ostrych objawów wykonuje się planową cholecystektomię laparoskopową
+  
 - Operacyjne
-  - Wskazania
-- Pilne operacyjne
-- Leczenie zakażonej martwicy
+  - Wskazania — powikłania (dopiero w 3 tygodniu występują)
+- Pilne operacyjne — jeśli krwotok albo rozlane zapalenie otrzewnej
+- Leczenie zakażonej martwicy — dwie techniki jednocześnie: drenaż endoskopowy + drenaż przezskórny
 
 **Powikłania:** 
 
