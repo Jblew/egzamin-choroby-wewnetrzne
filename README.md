@@ -1039,6 +1039,10 @@ Zwężenie...
 
 ![Screenshot 2021-06-26 at 23.06.48](img/Screenshot%202021-06-26%20at%2023.06.48.png)
 
+**CCS:**
+
+![Screenshot 2021-06-27 at 19.34.15](img/Screenshot%202021-06-27%20at%2019.34.15.png)
+
 
 
 &nbsp;
