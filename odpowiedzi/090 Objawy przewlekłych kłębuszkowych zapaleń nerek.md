@@ -18,8 +18,21 @@
 **Obrazy kliniczne:**
 
 - Z. nerczycowy => poniżej
-- Z. nefrotyczny => poniżej
+  - Błoniaste KZN (kompleksy imunologiczne uszkadzają GBM)
+  - Submikroskopowe KZN (jakiś nieznany czynnik we krwi zmniejsza ujemność ładunku GBM) — >10g/d
+  - FSGS (uszkodzenie podocytów => stwardnienie kłębuszków)
+  - Nefropatia cukrzycowa.
+  - Nefropatia toczniowa.
+  - Amyloidoza.
+- Z. nefrytyczny (uszkodz. naczyń) => poniżej
+  - GPKZN
+  - Ostre poinfekcyjne KZN
+  - Błoniastorozplemowe KZN (rozlana proliferacja mezangium z pogrubieniem włośniczek)
+- Krwinkomocz
+  - Mezangialne KZN (kompleksy IgA odkładają się w mezangium => uogólniony rozplem mezangium => duża ilość macierzy)
 - Postępująca PChN => [088 Leczenie przewlekłej choroby nerek- zasady ogólne](./odpowiedzi/088%20Leczenie%20przewlekłej%20choroby%20nerek-%20zasady%20ogólne.md)
+
+
 
 **Charakterystyka przewlekłych KZN:**
 
@@ -80,11 +93,54 @@ Ostre:
 
 **Z. nerczycowy:**
 
-...TODO
+1. Definicja: dobowa utrata białka z moczem > 3,5 g/1,73m² (50 mg/kg).
+2. Przyczyny:
+   1. Błoniaste KZN (kompleksy imunologiczne uszkadzają GBM)
+   2. Submikroskopowe KZN (jakiś nieznany czynnik we krwi zmniejsza ujemność ładunku GBM) — >10g/d
+   3. FSGS (uszkodzenie podocytów => stwardnienie kłębuszków)
+   4. Nefropatia cukrzycowa.
+   5. Nefropatia toczniowa.
+   6. Amyloidoza.
+3. Obraz kliniczny
+   1. Ogólne osłabienie, utrata apetytu, bóle głowy.
+   2. Początkowo MIĘKKI OBRZĘK dotyczący przede wszystkim powiek i kostek. Przy masywnym obrzęku skóra jest napięta, sucha i łuszcząca się.
+   3. Niekiedy bóle brzucha, nudności i wymioty (ze względu na obrzęk śluzówki jelit).
+   4. Niedożywienie i wyniszczenie.
+   5. PRZESIĘKI do jam ciała (przesięk do jamy opłucnej powoduje uczucie duszności). 
+   6. Przełomy brzuszne (krótkotrwałe, nagłe bóle brzucha z wymiotami, obroną mięśniową i gorączką, będące najprawdopodobniej skutkiem obrzęku śluzówki jelit).
+4. Diagnostyka
+   1. Aktywny osad moczu może występować ale nie jest charakterystyczny
+   2. HIPOALBUMINEMIA.
+   3. DYSPROTEINEMIA z obniżeniem stężenia y-globulin (utrata immunoglobulin, głównie IgG) i wzro­stem odsetka α2- i β-globulin.
+   4. NIEDOKRWISTOŚĆ (utrata transferyny z moczem).
+   5. HIPOKALCEMIA (przyczyny: utrata z moczem wapnia związanego z białkami, spadek syntezy wit. D, utrata z moczem aktywnej formy wit. D).
+   6. HIPERCHOLESTEROLEMIA, HIPERTRIGLICERYDEMIA.
+   7. Jest wskazaniem do biopsji
 
-**Z. nefrotyczny:**
 
-...TODO
+
+**Z. nefrytyczny:**
+
+1. Definicja: niejednorodne objawy
+2. PF
+   1. Zespół nefrytyczny jest związany z odkładaniem się kompleksów immunologicznych w kłębuszkach.
+   2. Dochodzi do proliferacji i nacieków leukocytarnych w kłebuszkach i mezangium, co powoduje uszkodzenie naczyń kłębuszka, skutkując przechodzeniem erytrocytów, leukocytów i białka do światła cewek nerkowych.
+   3. Uszkodzenie kłębuszka na skutek reakcji zapalnej prowadzi do zmniejszenia filtracji kłębuszkowej, co objawia się skąpomoczem oraz nadciśnieniem tętniczym.
+3. Przyczyny
+   1. GPKZN
+   2. Ostre poinfekcyjne KZN
+   3. Błoniastorozplemowe KZN (rozlana proliferacja mezangium z pogrubieniem włośniczek)
+4. Obraz kliniczny
+   1. wałeczków erytrocytarnych — najbardziej swoiste
+   2. Białkomocz NIENERCZYCOWY ≤ 3,5 g/1,73m²/d (50 mg/kg).
+   3. NT
+   4. Aktywny osad moczu z przewagą krwinkomoczu (erytrocyty wyługowane, wałeczki erytrocytowe).
+   5. Skąpomocz ze wzrostem kreatyninemii.
+   6. Miernie nasilone obrzęki.
+
+
+
+![Screenshot 2021-06-27 at 15.03.12](img/Screenshot%202021-06-27%20at%2015.03.12.png)
 
 
 
