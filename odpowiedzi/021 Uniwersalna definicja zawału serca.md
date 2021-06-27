@@ -1,3 +1,5 @@
+
+
 # 021 Uniwersalna definicja zawału serca
 
 ## Final
@@ -76,7 +78,17 @@ UA = brak uniesienia ST i brak cech ostrego uszkodzenia miokahdium
 
 ![Screenshot 2021-06-27 at 14.26.29](img/Screenshot%202021-06-27%20at%2014.26.29.png)
 
+![block-ekg-rbbb-ecg-diagnosis-original-1](img/block-ekg-rbbb-ecg-diagnosis-original-1.jpg)
 
+
+
+**LBBB:**
+
+1. Czas trwania zespołu QRS ≥0,12 s
+2. Monofazowe zespoły QRS typu zawęźlonego lub rozdwojonego załamka R w V5-V6
+3. Zwykle przeciwstawny kierunek odcinków ST i załamków T względem głównego wychylenia zespołów QRS.
+
+![1200px-Left_bundle_branch_block_ECG_characteristics.svg](img/1200px-Left_bundle_branch_block_ECG_characteristics.svg.png)
 
 
 

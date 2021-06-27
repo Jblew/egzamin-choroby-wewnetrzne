@@ -5,9 +5,15 @@
 **Algorytm od rozpoznania do leczenia:**
 
 1. Stabilną chorobę wieńcową rozpoznaje się na podstawie badań potwierdzających: AngioTK lub obrazowej próby obciążeniowej (OPO).
+
 2. Wskazania do AngioTK/OPO zależą od pre-test probability (PTP) czyli klinicznego prawdopodobieństwa PZW.
+
 3. Kliniczne prawdopodobieństwo PZW określa się na podstawie wieku, płci oraz charakterystyki bólu wg tabeli
+
 4. Jeśli w PTP duże prawdopodobieństwo, oraz objawy są nasilone oraz kryterium 3: pacjent jest oporny na leki LUB ma profil dużego ryzyka s-n, to od razu rozpoznajemy PZW z wysokim ryzykiem i wykonujemy koronarografię z możliwością rewaskularyzacji.
+
+   ![Screenshot 2021-06-27 at 20.04.48](img/Screenshot%202021-06-27%20at%2020.04.48.png)
+
 5. W pozostałych przypadkach po rozpoznaniu oceniamy ryzyko s-n. Jeśli jest duże, to wykonujemy koronarografię jw. Jeśli nie jest duże to leczymy farmakologicznie.
 
 ![Screenshot 2021-06-14 at 12.07.38](img/Screenshot%202021-06-14%20at%2012.07.38.png)
