@@ -34,14 +34,31 @@ Objawy przedmiotowe:
 
 **Leczenie:** Kontrola rytmu komór i rytmu zatokowego w [011 Metody przywracania rytmu zatokowego u pacjentów z migotaniem przedsionków](./011%20Metody%20przywracania%20rytmu%20zatokowego%20u%20pacjentów%20z%20migotaniem%20przedsionków.md)
 
-**Powikłania zatorowo-zakrzepowe:**
+
+
+
+
+### Powikłania zatorowo-zakrzepowe:
 
 Najważniejsze powikłanie: udar mózgu
 
-- skala CHA2DS2—VAsc = ryzyko powikłań zakrzepowo-zatorowych u chorych z AF ...TODO
-- Ryzyko krwawienia przy stosowaniu leczenia przeciwkrzepliwego: HAS-BLED ...TODO
-- Algorytm leczenia przeciwkrzepliwego ...TODO
-- Profilaktyka przeciwkrzepliwa przy kardiowersji ...TODO
+**Leczenie przeciwkrzepliwe przed kardiowersją**
+
+![Screenshot 2021-06-27 at 12.46.46](img/Screenshot%202021-06-27%20at%2012.46.46.png)
+
+Kontynuujemy leczenie p/k po kardiowersji, bo wiele nawrotów AF jest bezobjawowych a ryzyko w nich również istnieje udaru.
+
+
+
+**Leczenie przeciwkrzepliwe przewlekłe:**
+
+![Screenshot 2021-06-27 at 13.08.53](img/Screenshot%202021-06-27%20at%2013.08.53.png)
+
+![Raw-HAS-BLED-score-for-assessment-of-bleeding-risk-on-warfarin-anticoagulation](img/Raw-HAS-BLED-score-for-assessment-of-bleeding-risk-on-warfarin-anticoagulation.png)
+
+![Screenshot 2021-06-27 at 13.12.51](img/Screenshot%202021-06-27%20at%2013.12.51.png)
+
+
 
 
 
