@@ -51,6 +51,12 @@
   - ...TODO
 - D. Trwa co najmniej 6tyg (+1pkt)
 
+![Screenshot 2021-06-27 at 19.09.51](img/Screenshot%202021-06-27%20at%2019.09.51.png)
+
+
+
+
+
 **Leczenie:** 
 
 - GKS dostawowo jeśli mało stawów
@@ -59,6 +65,20 @@
 - LMPCh klasyczne: MTX 1 rzut
 - LMPCh biologiczne
 - TODO: algorytm
+
+![016_8207](img/016_8207.jpg)
+
+1. Leki modyfikujące przebieg choroby (LMPCh): mają podstawowe znaczenie w leczeniu RZS, gdyż zapobiegają zmianom destrukcyjnym w stawach lub opóźniają ich wystąpienie. Zastosuj je niezwłocznie po ustaleniu rozpoznania. LMPCh dzieli się na:
+   1. syntetyczne (sLMPCh)
+      1. konwencjonalne (ksLMPCh): metotreksat, leflunomid, sulfasalazyna, związki złota(i), hydroksychlorochina, chlorochina
+      2. celowane (csLMPCh): tofacytynib (inhibitor kinaz janusowych JAK1, JAK2 i JAK3, w mniejszym stopniu TyK2), baricytynib (inhibitor JAK1 i JAK2), upadacytynib (inhibitor JAK1 i JAK3)
+   2. biologiczne (bLMPCh)
+      1. oryginalne (boLMPCh): antycytokinowe – adalimumab, anakinra, certolizumab, etanercept, golimumab, infliksymab, tocilizumab; nieantycytokinowe – abatacept, rytuksymab
+      2. biopodobne (bpLMPCh), np. adalimumab, etanercept, infliksymab, rytuksymab.
+
+2. NSLPZ p.o. stosuj wyłącznie w celu doraźnego opanowania podmiotowych i przedmiotowych objawów zapalenia. W razie przeciwwskazań lub nietolerancji zastosuj paracetamol i/lub słabe opioidy (np. tramadol).
+
+3. GKS wstrzyknięcia dostawowe – rozważ, gdy choroba (lub jej zaostrzenie) zajmuje tylko jeden staw lub kilka stawów (wstrzyknięcia do tego samego stawu wykonuj nie częściej niż co 3 mies.); przed wstrzyknięciem wyklucz inne przyczyny zaostrzenia zmian stawowych, takie jak zakażenie lub zapalenie błony maziowej wywołane przez kryształy.
 
 
 
