@@ -17,10 +17,12 @@
 
 **Farmakoterapia ALS**:
 
-- Adrenalina  po 3 nieskutecznej defibrylacji 1mg co 3-5 minut (czyli po co drugiej)
-- Amiodaron po 3 nieskutecznej defibrylacji 150mg RAZ
+- Adrenalina **w 10 ml 0,9% NaCl** po 3 nieskutecznej defibrylacji 1mg co 3-5 minut (czyli po co drugiej)
+  - W rytmach nie do defibrylacji podać jak najszybciej
+- Amiodaron po 3 nieskutecznej defibrylacji 150mg **w 20 ml 5% glukozy** RAZ
   - (zamiast amiodaronu) Lidokaina po 5 nieskutecznej defibrylacji 50mg RAZ
-- Po każdym wstrzyknięciu adrenaliny przepłukać cewnik 20ml 0,9% NaCl
+- Po każdym wstrzyknięciu adrenaliny przepłukać cewnik 20ml 0,9% NaCl albo 
+- siarczan magnezu: VF lub VT oporne na 3 wyładowania elektryczne przy podejrzeniu hipomagnezemii (nie stosuj rutynowo w opornym VF lub VT), wielokształtny VT typu torsade de pointes
 
 **Odwracalne przyczyny NZK:**
 
